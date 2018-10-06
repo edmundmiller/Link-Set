@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bignumber.js": "^4.1.0",
+    "setprotocol.js": "^1.0.4",
+    "web3": "0.20.7"
+  },
+  "scripts": {
+    "set-chain": "set-chain"
+  }
+}
