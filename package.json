@@ -7,7 +7,12 @@
     "chainlink": "github:smartcontractkit/chainlink",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
+    "react-redux": "^5.0.7",
     "react-scripts": "2.0.4",
+    "redux": "^4.0.0",
+    "redux-devtools-extension": "^2.13.5",
+    "redux-store": "^0.0.0",
+    "redux-thunk": "^2.3.0",
     "setprotocol.js": "^1.0.4-rc5",
     "web3": "0.20.7"
   },

@@ -1,6 +1,17 @@
 import React, { Component } from "react";
 import "./App.css";
 
+// Redux
+import { Provider } from "react-redux";
+import store from "./state/store";
+import {
+  dispatchGetWeb3,
+  dispatchSetProtocol
+} from "./state/actions/apiActions";
+
+// Components
+import CreateSetContainer from "./containers/SetContainer";
+
 import SetProtocol from "setprotocol.js";
 import BigNumber from "bignumber.js";
 
@@ -20,6 +31,11 @@ const config = {
 class App extends Component {
   constructor() {
     super();
+
+    // this.getAccount = this.getAccount.bind(this);
+  }
+
+  componentWillMount() {
     const injectedWeb3 = window.web3 || undefined;
     let setProtocol;
     try {
@@ -33,59 +49,13 @@ class App extends Component {
       );
     }
 
-    this.state = {
+    this.setState({
       setProtocol,
       web3: injectedWeb3,
-      // Etherscan Links
       createdSetLink: "",
       daiBalance: "",
-      trueUsdBalance: ""
-    };
-    this.createSet = this.createSet.bind(this);
-    this.getAccount = this.getAccount.bind(this);
-  }
-
-  async componentDidMount() {
-    await this.getMyTokenBalances();
-  }
-
-  async createSet() {
-    const { setProtocol } = this.state;
-
-    /**
-     * Steps to create your own Set Token
-     * ----------------------------------
-     *
-     * 1. Fund your MetaMask wallet with Kovan ETH: https://gitter.im/kovan-testnet/faucet
-     * 2. Modify your Set details below to your liking
-     * 3. Click `Create My Set`
-     */
-
-    const componentAddresses = [trueUsdAddress, daiAddress];
-    const componentUnits = [new BigNumber(5), new BigNumber(5)];
-    const naturalUnit = new BigNumber(10);
-    const name = "My Set";
-    const symbol = "MS";
-    const account = this.getAccount();
-    const txOpts = {
-      from: account,
-      gas: 4000000,
-      gasPrice: 8000000000
-    };
-
-    const txHash = await setProtocol.createSetAsync(
-      componentAddresses,
-      componentUnits,
-      naturalUnit,
-      name,
-      symbol,
-      txOpts
-    );
-    const setAddress = await setProtocol.getSetAddressFromCreateTxHashAsync(
-      txHash
-    );
-    this.setState({
-      createdSetLink: `https://kovan.etherscan.io/address/${setAddress}`
+      trueUsdBalance: "",
+      setAddress: ""
     });
   }
 
@@ -111,67 +81,16 @@ class App extends Component {
     // TODO: Insert your code here
   }
 
-  getAccount() {
-    const { web3 } = this.state;
-    if (web3.eth.accounts[0]) return web3.eth.accounts[0];
-    throw new Error("Your MetaMask is locked. Unlock it to continue.");
-  }
-
-  renderEtherScanLink(link, content) {
-    return (
-      <div className="App-button-container">
-        <a target="_blank" rel="noopener" href={link}>
-          {content}
-        </a>
-      </div>
-    );
-  }
-
-  renderBalanceHtml(token, balance) {
-    return (
-      <div className="token-balance">
-        <p>
-          {token} Balance: {balance}
-        </p>
-      </div>
-    );
-  }
-
-  async getMyTokenBalances() {
-    const { web3, setProtocol } = this.state;
-    const daiBalance = await setProtocol.erc20.getBalanceOfAsync(
-      daiAddress,
-      userMetamaskAddress
-    );
-    const trueUsdBalance = await setProtocol.erc20.getBalanceOfAsync(
-      trueUsdAddress,
-      userMetamaskAddress
-    );
-    console.log("DAI BALANCE: ", daiBalance);
-    console.log("TRUEUSD BALANCE: ", trueUsdBalance);
-
-    this.setState({
-      daiBalance: daiBalance.toNumber() / 1e18,
-      trueUsdBalance: trueUsdBalance.toNumber() / 1e18
-    });
-  }
-
   render() {
-    const { createdSetLink, daiBalance, trueUsdBalance } = this.state;
     return (
-      <div className="App">
-        <header>
-          <h1 className="App-title">Set Boiler Plate</h1>
-        </header>
-        <button onClick={this.createSet}>Create My Set</button>
-        {createdSetLink
-          ? this.renderEtherScanLink(createdSetLink, "Link to your new Set")
-          : null}
-        {daiBalance ? this.renderBalanceHtml("DAI", daiBalance) : null}
-        {trueUsdBalance
-          ? this.renderBalanceHtml("TRUEUSD", trueUsdBalance)
-          : null}
-      </div>
+      <Provider store={store}>
+        <div className="App">
+          <header>
+            <h1 className="App-title">Set Boiler Plate</h1>
+          </header>
+          <CreateSetContainer />
+        </div>
+      </Provider>
     );
   }
 }
