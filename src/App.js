@@ -14,7 +14,9 @@ const config = {
   coreAddress: "0x29f13822ece62b7a436a45903ce6d5c97d6e4cc9",
   setTokenFactoryAddress: "0x6c51d8dad8404dbd91e8ab063d21e85ddec9f626",
   transferProxyAddress: "0xd50ddfed470cc13572c5246e71d4cfb4aba73def",
-  vaultAddress: "0x014e9b34486cfa13e9a2d87028d38cd98f996c8c"
+  vaultAddress: "0x014e9b34486cfa13e9a2d87028d38cd98f996c8c",
+  rebalancingSetTokenFactoryAddress:
+    "0x36d6f26843f3e882a2fd1017e93cdad86f3be3cb"
 };
 
 class App extends Component {
