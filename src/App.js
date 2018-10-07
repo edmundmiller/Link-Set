@@ -4,10 +4,14 @@ import "./App.css";
 import SetProtocol from "setprotocol.js";
 import BigNumber from "bignumber.js";
 
+// abi
+const abi = require("./abi");
+
 // Metamask configuration
 const userMetamaskAddress = "0xafd860a9ac1e1f29e1efa102f82081cd38626054";
-const trueUsdAddress = "0x02Ca5A9c33585C06336481559FB0eadd3d656324";
-const daiAddress = "0xb224A70eF6eE268cb0dAdB6C06A95E3b8040793d";
+const trueUsdAddress = "0xc269e9396556b6afb0c38eef4a590321ff9e8d3a";
+const daiAddress = "0xeadada7c6943c223c0d4bea475a6dacc7368f8d6";
+const chainLinkContractAddress = "0x94ea520513baf37e93dbdf917171b7c48925d03c";
 
 // Ropsten configuration
 const config = {
@@ -55,7 +59,7 @@ class App extends Component {
       createdSetLink: `https://ropsten.etherscan.io/address/0x8aaa5febbf42a56662a02ecd494cd4ddd7d76952`,
       daiBalance: "",
       trueUsdBalance: "",
-      setAddress: "0xe6a81450a170f6120199b23bd5dbcd62aa3cbec9",
+      setAddress: "0xbf9d40028fbd26df9d20563ff4313df9de4fb55d",
       set2Address: "0xe233103865481c4e8bb1a81d2fbf25a95fb0b39b",
       createdSet2Link: `https://ropsten.etherscan.io/address/0x1844704337610fec9302cdbf88784de0b16681d8`,
       tokensToApprove: [],
@@ -209,7 +213,7 @@ class App extends Component {
     const { setProtocol } = this.state;
     const stableSetAddress = this.state.setAddress;
     // Issue 1x StableSet which equals 10 ** 18 base units.
-    const issueQuantity = new BigNumber(5 * 10 ** 18);
+    const issueQuantity = new BigNumber(10 * 10 ** 18);
 
     // Check that our issue quantity is divisible by the natural unit.
     const isMultipleOfNaturalUnit = await setProtocol.setToken.isMultipleOfNaturalUnitAsync(
@@ -432,6 +436,17 @@ class App extends Component {
       trueUsdAddress,
       userMetamaskAddress
     );
+    // Call contract
+    const deployed = new web3.eth.contract(abi, chainLinkContractAddress, {
+      from: userMetamaskAddress,
+      gasPrice: 40000000000,
+      gas: 30000000
+    });
+
+    // console.log("DEPLOYED, ", deployed);
+    // const res = await deployed.returnDaiValue();
+    // console.log("RES:", res);
+
     console.log(" MY DAI BALANCE: ", daiBalance);
     console.log("MY TRUEUSD BALANCE: ", trueUsdBalance);
 
