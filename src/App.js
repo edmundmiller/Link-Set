@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import "./App.css";
 
+import Rebalance from "./components/rebalance/Rebalance";
+
 import SetProtocol from "setprotocol.js";
 import BigNumber from "bignumber.js";
 
@@ -162,6 +164,7 @@ class App extends Component {
           <h1 className="App-title">Set Boiler Plate</h1>
         </header>
         <button onClick={this.createSet}>Create My Set</button>
+        <Rebalance />
         {createdSetLink
           ? this.renderEtherScanLink(createdSetLink, "Link to your new Set")
           : null}
