@@ -14,7 +14,9 @@ const config = {
   coreAddress: "0x29f13822ece62b7a436a45903ce6d5c97d6e4cc9",
   setTokenFactoryAddress: "0x6c51d8dad8404dbd91e8ab063d21e85ddec9f626",
   transferProxyAddress: "0xd50ddfed470cc13572c5246e71d4cfb4aba73def",
-  vaultAddress: "0x014e9b34486cfa13e9a2d87028d38cd98f996c8c"
+  vaultAddress: "0x014e9b34486cfa13e9a2d87028d38cd98f996c8c",
+  rebalancingSetTokenFactoryAddress:
+    "0x36d6f26843f3e882a2fd1017e93cdad86f3be3cb"
 };
 
 class App extends Component {
@@ -39,7 +41,11 @@ class App extends Component {
       // Etherscan Links
       createdSetLink: "",
       daiBalance: "",
+<<<<<<< HEAD
       trueUsdBalance: ""
+=======
+      chainlinkBalance: ""
+>>>>>>> feature/combine-contracts
     };
     this.createSet = this.createSet.bind(this);
     this.getAccount = this.getAccount.bind(this);
@@ -61,7 +67,11 @@ class App extends Component {
      * 3. Click `Create My Set`
      */
 
+<<<<<<< HEAD
     const componentAddresses = [trueUsdAddress, daiAddress];
+=======
+    const componentAddresses = [chainlinkAddress, daiAddress];
+>>>>>>> feature/combine-contracts
     const componentUnits = [new BigNumber(5), new BigNumber(5)];
     const naturalUnit = new BigNumber(10);
     const name = "My Set";
@@ -80,10 +90,17 @@ class App extends Component {
       name,
       symbol,
       txOpts
+<<<<<<< HEAD
     );
     const setAddress = await setProtocol.getSetAddressFromCreateTxHashAsync(
       txHash
     );
+=======
+    );
+    const setAddress = await setProtocol.getSetAddressFromCreateTxHashAsync(
+      txHash
+    );
+>>>>>>> feature/combine-contracts
     this.setState({
       createdSetLink: `https://kovan.etherscan.io/address/${setAddress}`
     });
@@ -141,6 +158,7 @@ class App extends Component {
     const { web3, setProtocol } = this.state;
     const daiBalance = await setProtocol.erc20.getBalanceOfAsync(
       daiAddress,
+<<<<<<< HEAD
       userMetamaskAddress
     );
     const trueUsdBalance = await setProtocol.erc20.getBalanceOfAsync(
@@ -153,23 +171,50 @@ class App extends Component {
     this.setState({
       daiBalance: daiBalance.toNumber() / 1e18,
       trueUsdBalance: trueUsdBalance.toNumber() / 1e18
+=======
+      this.getAccount()
+    );
+    const chainlinkBalance = await setProtocol.erc20.getBalanceOfAsync(
+      chainlinkAddress,
+      this.getAccount()
+    );
+    console.log("DAI BALANCE: ", daiBalance);
+    console.log("CHAINLINK BALANCE: ", chainlinkBalance);
+
+    this.setState({
+      daiBalance: daiBalance.toNumber() / 1e18,
+      chainlinkBalance: chainlinkBalance.toNumber() / 1e18
+>>>>>>> feature/combine-contracts
     });
   }
 
   render() {
+<<<<<<< HEAD
     const { createdSetLink, daiBalance, trueUsdBalance } = this.state;
+=======
+    const { createdSetLink, daiBalance, chainlinkBalance } = this.state;
+>>>>>>> feature/combine-contracts
     return (
       <div className="App">
         <header>
           <h1 className="App-title">Set Boiler Plate</h1>
         </header>
         <button onClick={this.createSet}>Create My Set</button>
+<<<<<<< HEAD
+=======
+        <Rebalance />
+>>>>>>> feature/combine-contracts
         {createdSetLink
           ? this.renderEtherScanLink(createdSetLink, "Link to your new Set")
           : null}
         {daiBalance ? this.renderBalanceHtml("DAI", daiBalance) : null}
+<<<<<<< HEAD
         {trueUsdBalance
           ? this.renderBalanceHtml("TRUEUSD", trueUsdBalance)
+=======
+        {chainlinkBalance
+          ? this.renderBalanceHtml("CHAINLINK", chainlinkBalance)
+>>>>>>> feature/combine-contracts
           : null}
       </div>
     );
