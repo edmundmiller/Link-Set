@@ -9,8 +9,18 @@ const userMetamaskAddress = "0xafd860a9ac1e1f29e1efa102f82081cd38626054";
 const trueUsdAddress = "0x02Ca5A9c33585C06336481559FB0eadd3d656324";
 const daiAddress = "0xb224A70eF6eE268cb0dAdB6C06A95E3b8040793d";
 
-// Kovan configuration
+// Ropsten configuration
 const config = {
+  coreAddress: "0x3f8090abf98185b9d611293903255e169c6ba18f",
+  setTokenFactoryAddress: "0xe60e6d5f6bc54bef4b2e3a6c7744bbdd318143a6",
+  transferProxyAddress: "0xabe13798b5db637b044cbfdb24534d1d43608994",
+  vaultAddress: "0x257bc17db4bb4188ef137266ddcdd2fe03b47640",
+  rebalancingSetTokenFactoryAddress:
+    "0x10c0f51a6c94f36c31c30a379deea503564e1355"
+};
+
+// Local configuration
+const localConfig = {
   coreAddress: "0x3f8090abf98185b9d611293903255e169c6ba18f",
   setTokenFactoryAddress: "0xe60e6d5f6bc54bef4b2e3a6c7744bbdd318143a6",
   transferProxyAddress: "0xabe13798b5db637b044cbfdb24534d1d43608994",

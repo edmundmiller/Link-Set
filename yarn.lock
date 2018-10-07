@@ -913,6 +913,21 @@
   resolved "https://registry.yarnpkg.com/@samverschueren/stream-to-observable/-/stream-to-observable-0.3.0.tgz#ecdf48d532c58ea477acfcab80348424f8d0662f"
   dependencies:
     any-observable "^0.3.0"
+<<<<<<< HEAD
+=======
+
+"@ensdomains/ens@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@ensdomains/ens/-/ens-0.1.1.tgz#69f4a86162a229824bb1123bc794f05d4622e79c"
+  integrity sha512-W6kguGEgTcK4aDTgB7cRycYiwJ0tqzjcB4hoXWd0WPJst0BJ4DKJ6fnTwrtfGUvkVyvH3LYBGLHCyAvh0lB0Vg==
+  dependencies:
+    eth-ens-namehash "^1.0.2"
+    ethereumjs-testrpc "^6.0.3"
+    ganache-cli "^6.1.0"
+    solc "^0.4.20"
+    testrpc "0.0.1"
+    web3-utils "^1.0.0-beta.31"
+>>>>>>> feature/combine-contracts
 
 "@svgr/core@^2.4.1":
   version "2.4.1"
@@ -1028,6 +1043,10 @@
 "@webassemblyjs/ast@1.7.8":
   version "1.7.8"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/ast/-/ast-1.7.8.tgz#f31f480debeef957f01b623f27eabc695fa4fe8f"
+<<<<<<< HEAD
+=======
+  integrity sha512-dOrtdtEyB8sInpl75yLPNksY4sRl0j/+t6aHyB/YA+ab9hV3Fo7FmG12FHzP+2MvWVAJtDb+6eXR5EZbZJ+uVg==
+>>>>>>> feature/combine-contracts
   dependencies:
     "@webassemblyjs/helper-module-context" "1.7.8"
     "@webassemblyjs/helper-wasm-bytecode" "1.7.8"
@@ -1040,6 +1059,14 @@
 "@webassemblyjs/floating-point-hex-parser@1.7.8":
   version "1.7.8"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/floating-point-hex-parser/-/floating-point-hex-parser-1.7.8.tgz#1b3ed0e27e384032254e9322fc646dd3e70ef1b9"
+<<<<<<< HEAD
+=======
+
+"@webassemblyjs/floating-point-hex-parser@1.7.8":
+  version "1.7.8"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/floating-point-hex-parser/-/floating-point-hex-parser-1.7.8.tgz#1b3ed0e27e384032254e9322fc646dd3e70ef1b9"
+  integrity sha512-kn2zNKGsbql5i56VAgRYkpG+VazqHhQQZQycT2uXAazrAEDs23gy+Odkh5VblybjnwX2/BITkDtNmSO76hdIvQ==
+>>>>>>> feature/combine-contracts
 
 "@webassemblyjs/helper-api-error@1.7.6":
   version "1.7.6"
@@ -1048,6 +1075,14 @@
 "@webassemblyjs/helper-api-error@1.7.8":
   version "1.7.8"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-api-error/-/helper-api-error-1.7.8.tgz#a2b49c11f615e736f815ec927f035dcfa690d572"
+<<<<<<< HEAD
+=======
+
+"@webassemblyjs/helper-api-error@1.7.8":
+  version "1.7.8"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-api-error/-/helper-api-error-1.7.8.tgz#a2b49c11f615e736f815ec927f035dcfa690d572"
+  integrity sha512-xUwxDXsd1dUKArJEP5wWM5zxgCSwZApSOJyP1XO7M8rNUChUDblcLQ4FpzTpWG2YeylMwMl1MlP5Ztryiz1x4g==
+>>>>>>> feature/combine-contracts
 
 "@webassemblyjs/helper-buffer@1.7.6":
   version "1.7.6"
@@ -1056,6 +1091,14 @@
 "@webassemblyjs/helper-buffer@1.7.8":
   version "1.7.8"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-buffer/-/helper-buffer-1.7.8.tgz#3fc66bfa09c1c60e824cf3d5887826fac062877d"
+<<<<<<< HEAD
+=======
+
+"@webassemblyjs/helper-buffer@1.7.8":
+  version "1.7.8"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-buffer/-/helper-buffer-1.7.8.tgz#3fc66bfa09c1c60e824cf3d5887826fac062877d"
+  integrity sha512-WXiIMnuvuwlhWvVOm8xEXU9DnHaa3AgAU0ZPfvY8vO1cSsmYb2WbGbHnMLgs43vXnA7XAob9b56zuZaMkxpCBg==
+>>>>>>> feature/combine-contracts
 
 "@webassemblyjs/helper-code-frame@1.7.6":
   version "1.7.6"
@@ -1066,6 +1109,13 @@
 "@webassemblyjs/helper-code-frame@1.7.8":
   version "1.7.8"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-code-frame/-/helper-code-frame-1.7.8.tgz#cc5a7e9522b70e7580df056dfd34020cf29645b0"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-TLQxyD9qGOIdX5LPQOPo0Ernd88U5rHkFb8WAjeMIeA0sPjCHeVPaGqUGGIXjUcblUkjuDAc07bruCcNHUrHDA==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     "@webassemblyjs/wast-printer" "1.7.8"
 
@@ -1076,6 +1126,14 @@
 "@webassemblyjs/helper-fsm@1.7.8":
   version "1.7.8"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-fsm/-/helper-fsm-1.7.8.tgz#fe4607430af466912797c21acafd3046080182ea"
+<<<<<<< HEAD
+=======
+
+"@webassemblyjs/helper-fsm@1.7.8":
+  version "1.7.8"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-fsm/-/helper-fsm-1.7.8.tgz#fe4607430af466912797c21acafd3046080182ea"
+  integrity sha512-TjK0CnD8hAPkV5mbSp5aWl6SO1+H3WFcjWtixWoy8EMA99YnNzYhpc/WSYWhf7yrhpzkq5tZB0tvLK3Svr3IXA==
+>>>>>>> feature/combine-contracts
 
 "@webassemblyjs/helper-module-context@1.7.6":
   version "1.7.6"
@@ -1086,6 +1144,13 @@
 "@webassemblyjs/helper-module-context@1.7.8":
   version "1.7.8"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-module-context/-/helper-module-context-1.7.8.tgz#3c2e7ee93d14ff4768ba66fb1be42fdc9dc7160a"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-uCutAKR7Nm0VsFixcvnB4HhAyHouNbj0Dx1p7eRjFjXGGZ+N7ftTaG1ZbWCasAEbtwGj54LP8+lkBZdTCPmLGg==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 "@webassemblyjs/helper-wasm-bytecode@1.7.6":
   version "1.7.6"
@@ -1094,6 +1159,14 @@
 "@webassemblyjs/helper-wasm-bytecode@1.7.8":
   version "1.7.8"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-wasm-bytecode/-/helper-wasm-bytecode-1.7.8.tgz#89bdb78cd6dd5209ae2ed2925de78d0f0e00b6f0"
+<<<<<<< HEAD
+=======
+
+"@webassemblyjs/helper-wasm-bytecode@1.7.8":
+  version "1.7.8"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-wasm-bytecode/-/helper-wasm-bytecode-1.7.8.tgz#89bdb78cd6dd5209ae2ed2925de78d0f0e00b6f0"
+  integrity sha512-AdCCE3BMW6V34WYaKUmPgVHa88t2Z14P4/0LjLwuGkI0X6pf7nzp0CehzVVk51cKm2ymVXjl9dCG+gR1yhITIQ==
+>>>>>>> feature/combine-contracts
 
 "@webassemblyjs/helper-wasm-section@1.7.6":
   version "1.7.6"
@@ -1107,6 +1180,13 @@
 "@webassemblyjs/helper-wasm-section@1.7.8":
   version "1.7.8"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-wasm-section/-/helper-wasm-section-1.7.8.tgz#c68ef7d26a6fc12421b2e6e56f9bc810dfb33e87"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-BkBhYQuzyl4hgTGOKo87Vdw6f9nj8HhI7WYpI0MCC5qFa5ahrAPOGgyETVdnRbv+Rjukl9MxxfDmVcVC435lDg==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     "@webassemblyjs/ast" "1.7.8"
     "@webassemblyjs/helper-buffer" "1.7.8"
@@ -1122,6 +1202,16 @@
 "@webassemblyjs/ieee754@1.7.8":
   version "1.7.8"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/ieee754/-/ieee754-1.7.8.tgz#1f37974b13cb486a9237e73ce04cac7a2f1265ed"
+<<<<<<< HEAD
+=======
+  dependencies:
+    "@xtuc/ieee754" "^1.2.0"
+
+"@webassemblyjs/ieee754@1.7.8":
+  version "1.7.8"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/ieee754/-/ieee754-1.7.8.tgz#1f37974b13cb486a9237e73ce04cac7a2f1265ed"
+  integrity sha512-tOarWChdG1a3y1yqCX0JMDKzrat5tQe4pV6K/TX19BcXsBLYxFQOL1DEDa5KG9syeyvCrvZ+i1+Mv1ExngvktQ==
+>>>>>>> feature/combine-contracts
   dependencies:
     "@xtuc/ieee754" "^1.2.0"
 
@@ -1134,6 +1224,16 @@
 "@webassemblyjs/leb128@1.7.8":
   version "1.7.8"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/leb128/-/leb128-1.7.8.tgz#1bee83426819192db2ea1a234b84c7ebc6d34c1f"
+<<<<<<< HEAD
+=======
+  dependencies:
+    "@xtuc/long" "4.2.1"
+
+"@webassemblyjs/leb128@1.7.8":
+  version "1.7.8"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/leb128/-/leb128-1.7.8.tgz#1bee83426819192db2ea1a234b84c7ebc6d34c1f"
+  integrity sha512-GCYeGPgUFWJiZuP4NICbcyUQNxNLJIf476Ei+K+jVuuebtLpfvwkvYT6iTUE7oZYehhkor4Zz2g7SJ/iZaPudQ==
+>>>>>>> feature/combine-contracts
   dependencies:
     "@xtuc/long" "4.2.1"
 
@@ -1144,6 +1244,14 @@
 "@webassemblyjs/utf8@1.7.8":
   version "1.7.8"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/utf8/-/utf8-1.7.8.tgz#2b489d5cf43e0aebb93d8e2d792aff9879c61f05"
+<<<<<<< HEAD
+=======
+
+"@webassemblyjs/utf8@1.7.8":
+  version "1.7.8"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/utf8/-/utf8-1.7.8.tgz#2b489d5cf43e0aebb93d8e2d792aff9879c61f05"
+  integrity sha512-9X+f0VV+xNXW2ujfIRSXBJENGE6Qh7bNVKqu3yDjTFB3ar3nsThsGBBKdTG58aXOm2iUH6v28VIf88ymPXODHA==
+>>>>>>> feature/combine-contracts
 
 "@webassemblyjs/wasm-edit@1.7.6":
   version "1.7.6"
@@ -1161,6 +1269,13 @@
 "@webassemblyjs/wasm-edit@1.7.8":
   version "1.7.8"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/wasm-edit/-/wasm-edit-1.7.8.tgz#f8bdbe7088718eca27b1c349bb7c06b8a457950c"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-6D3Hm2gFixrfyx9XjSON4ml1FZTugqpkIz5Awvrou8fnpyprVzcm4X8pyGRtA2Piixjl3DqmX/HB1xdWyE097A==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     "@webassemblyjs/ast" "1.7.8"
     "@webassemblyjs/helper-buffer" "1.7.8"
@@ -1184,6 +1299,13 @@
 "@webassemblyjs/wasm-gen@1.7.8":
   version "1.7.8"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/wasm-gen/-/wasm-gen-1.7.8.tgz#7e8abf1545eae74ac6781d545c034af3cfd0c7d5"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-a7O/wE6eBeVKKUYgpMK7NOHmMADD85rSXLe3CqrWRDwWff5y3cSVbzpN6Qv3z6C4hdkpq9qyij1Ga1kemOZGvQ==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     "@webassemblyjs/ast" "1.7.8"
     "@webassemblyjs/helper-wasm-bytecode" "1.7.8"
@@ -1203,6 +1325,13 @@
 "@webassemblyjs/wasm-opt@1.7.8":
   version "1.7.8"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/wasm-opt/-/wasm-opt-1.7.8.tgz#7ada6e211914728fce02ff0ff9c344edc6d41f26"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-3lbQ0PT81NHCdi1sR/7+SNpZadM4qYcTSr62nFFAA7e5lFwJr14M1Gi+A/Y3PgcDWOHYjsaNGPpPU0H03N6Blg==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     "@webassemblyjs/ast" "1.7.8"
     "@webassemblyjs/helper-buffer" "1.7.8"
@@ -1223,6 +1352,13 @@
 "@webassemblyjs/wasm-parser@1.7.8":
   version "1.7.8"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/wasm-parser/-/wasm-parser-1.7.8.tgz#dac47c291fb6a3e63529aecd647592cd34afbf94"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-rZ/zlhp9DHR/05zh1MbAjT2t624sjrPP/OkJCjXqzm7ynH+nIdNcn9Ixc+qzPMFXhIrk0rBoQ3to6sEIvHh9jQ==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     "@webassemblyjs/ast" "1.7.8"
     "@webassemblyjs/helper-api-error" "1.7.8"
@@ -1246,6 +1382,13 @@
 "@webassemblyjs/wast-parser@1.7.8":
   version "1.7.8"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/wast-parser/-/wast-parser-1.7.8.tgz#f8aab9a450c048c1f9537695c89faeb92fabfba5"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-Q/zrvtUvzWuSiJMcSp90fi6gp2nraiHXjTV2VgAluVdVapM4gy1MQn7akja2p6eSBDQpKJPJ6P4TxRkghRS5dg==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     "@webassemblyjs/ast" "1.7.8"
     "@webassemblyjs/floating-point-hex-parser" "1.7.8"
@@ -1265,6 +1408,13 @@
 "@webassemblyjs/wast-printer@1.7.8":
   version "1.7.8"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/wast-printer/-/wast-printer-1.7.8.tgz#e7e965782c1912f6a965f14a53ff43d8ad0403a5"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-GllIthRtwTxRDAURRNXscu7Napzmdf1jt1gpiZiK/QN4fH0lSGs3OTmvdfsMNP7tqI4B3ZtfaaWRlNIQug6Xyg==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     "@webassemblyjs/ast" "1.7.8"
     "@webassemblyjs/wast-parser" "1.7.8"
@@ -1284,6 +1434,17 @@ JSONStream@^1.3.2:
   dependencies:
     jsonparse "^1.2.0"
     through ">=2.2.7 <3"
+<<<<<<< HEAD
+=======
+
+JSONStream@^1.3.2:
+  version "1.3.4"
+  resolved "https://registry.yarnpkg.com/JSONStream/-/JSONStream-1.3.4.tgz#615bb2adb0cd34c8f4c447b5f6512fa1d8f16a2e"
+  integrity sha512-Y7vfi3I5oMOYIr+WxV8NZxDSwcbNgzdKYsTNInmycOq9bUYwGg9ryu57Wg5NLmCjqdFPNUmpMBo3kSJN9tCbXg==
+  dependencies:
+    jsonparse "^1.2.0"
+    through ">=2.2.7 <3"
+>>>>>>> feature/combine-contracts
 
 abab@^2.0.0:
   version "2.0.0"
@@ -1325,6 +1486,13 @@ accepts@~1.3.4, accepts@~1.3.5:
 acorn-dynamic-import@^2.0.0:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/acorn-dynamic-import/-/acorn-dynamic-import-2.0.2.tgz#c752bd210bef679501b6c6cb7fc84f8f47158cc4"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-x1K9IQvvZ5UBtsbLf8hPj0cVjMQ=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     acorn "^4.0.3"
 
@@ -1354,6 +1522,14 @@ acorn-walk@^6.0.1:
 acorn@^4.0.3:
   version "4.0.13"
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-4.0.13.tgz#105495ae5361d697bd195c825192e1ad7f253787"
+<<<<<<< HEAD
+=======
+
+acorn@^4.0.3:
+  version "4.0.13"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-4.0.13.tgz#105495ae5361d697bd195c825192e1ad7f253787"
+  integrity sha1-EFSVrlNh1pe9GVyCUZLhrX8lN4c=
+>>>>>>> feature/combine-contracts
 
 acorn@^5.0.0, acorn@^5.0.3, acorn@^5.5.3, acorn@^5.6.0, acorn@^5.6.2, acorn@^5.7.1:
   version "5.7.3"
@@ -1386,6 +1562,23 @@ agentkeepalive@^3.3.0, agentkeepalive@^3.4.1:
   resolved "https://registry.yarnpkg.com/agentkeepalive/-/agentkeepalive-3.5.1.tgz#4eba75cf2ad258fc09efd506cdb8d8c2971d35a4"
   dependencies:
     humanize-ms "^1.2.1"
+<<<<<<< HEAD
+=======
+
+agent-base@4, agent-base@^4.1.0, agent-base@~4.2.0:
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/agent-base/-/agent-base-4.2.1.tgz#d89e5999f797875674c07d87f260fc41e83e8ca9"
+  integrity sha512-JVwXMr9nHYTUXsBFKUqhJwvlcYU/blreOEUkhNR2eXZIvwd+c+o5V4MgDPKWnMS/56awN3TRzIP+KoPn+roQtg==
+  dependencies:
+    es6-promisify "^5.0.0"
+
+agentkeepalive@^3.3.0, agentkeepalive@^3.4.1:
+  version "3.5.1"
+  resolved "https://registry.yarnpkg.com/agentkeepalive/-/agentkeepalive-3.5.1.tgz#4eba75cf2ad258fc09efd506cdb8d8c2971d35a4"
+  integrity sha512-Cte/sTY9/XcygXjJ0q58v//SnEQ7ViWExKyJpLJlLqomDbQyMLh6Is4KuWJ/wmxzhiwkGRple7Gqv1zf6Syz5w==
+  dependencies:
+    humanize-ms "^1.2.1"
+>>>>>>> feature/combine-contracts
 
 ajv-errors@^1.0.0:
   version "1.0.0"
@@ -1416,6 +1609,13 @@ ajv@^6.0.1, ajv@^6.1.0, ajv@^6.5.3:
 align-text@^0.1.1, align-text@^0.1.3:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/align-text/-/align-text-0.1.4.tgz#0cd90a561093f35d0a99256c22b7069433fad117"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-DNkKVhCT810KmSVsIrcGlDP60Rc=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     kind-of "^3.0.2"
     longest "^1.0.1"
@@ -1430,6 +1630,16 @@ ansi-align@^2.0.0:
   resolved "https://registry.yarnpkg.com/ansi-align/-/ansi-align-2.0.0.tgz#c36aeccba563b89ceb556f3690f0b1d9e3547f7f"
   dependencies:
     string-width "^2.0.0"
+<<<<<<< HEAD
+=======
+
+ansi-align@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/ansi-align/-/ansi-align-2.0.0.tgz#c36aeccba563b89ceb556f3690f0b1d9e3547f7f"
+  integrity sha1-w2rsy6VjuJzrVW82kPCx2eNUf38=
+  dependencies:
+    string-width "^2.0.0"
+>>>>>>> feature/combine-contracts
 
 ansi-colors@^3.0.0:
   version "3.1.0"
@@ -1468,10 +1678,23 @@ ansi-styles@^3.2.0, ansi-styles@^3.2.1:
 ansicolors@~0.3.2:
   version "0.3.2"
   resolved "https://registry.yarnpkg.com/ansicolors/-/ansicolors-0.3.2.tgz#665597de86a9ffe3aa9bfbe6cae5c6ea426b4979"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-ZlWX3oap/+Oqm/vmyuXG6kJrSXk=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 ansistyles@~0.1.3:
   version "0.1.3"
   resolved "https://registry.yarnpkg.com/ansistyles/-/ansistyles-0.1.3.tgz#5de60415bda071bb37127854c864f41b23254539"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-XeYEFb2gcbs3EnhUyGT0GyMlRTk=
+=======
+>>>>>>> feature/combine-contracts
 
 any-observable@^0.3.0:
   version "0.3.0"
@@ -1483,6 +1706,10 @@ anymatch@^1.3.0:
   dependencies:
     micromatch "^2.1.5"
     normalize-path "^2.0.0"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 anymatch@^2.0.0:
   version "2.0.0"
@@ -1508,6 +1735,19 @@ aproba@^1.0.3, aproba@^1.1.1, aproba@^1.1.2, aproba@~1.2.0:
 archy@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/archy/-/archy-1.0.0.tgz#f9c8c13757cc1dd7bc379ac77b2c62a5c2868c40"
+<<<<<<< HEAD
+=======
+
+"aproba@^1.1.2 || 2":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/aproba/-/aproba-2.0.0.tgz#52520b8ae5b569215b354efc0caa3fe1e45a8adc"
+  integrity sha512-lYe4Gx7QT+MKGbDsA+Z+he/Wtef0BiwDOlK/XkBrdfsh9J/jPPXbX0tE9x9cl27Tmu5gg3QUbUrQYa/y+KOHPQ==
+
+archy@~1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/archy/-/archy-1.0.0.tgz#f9c8c13757cc1dd7bc379ac77b2c62a5c2868c40"
+  integrity sha1-+cjBN1fMHde8N5rHeyxipcKGjEA=
+>>>>>>> feature/combine-contracts
 
 are-we-there-yet@~1.1.2:
   version "1.1.5"
@@ -1662,7 +1902,15 @@ async@^1.4.2, async@^1.5.2:
   version "1.5.2"
   resolved "https://registry.yarnpkg.com/async/-/async-1.5.2.tgz#ec6a61ae56480c0c3cb241c95618e20892f9672a"
 
+<<<<<<< HEAD
 async@^2.0.1, async@^2.1.2, async@^2.1.4, async@^2.4.0, async@^2.5.0:
+=======
+<<<<<<< HEAD
+async@^2.1.2, async@^2.1.4, async@^2.5.0:
+=======
+async@^2.0.1, async@^2.1.2, async@^2.1.4, async@^2.4.0, async@^2.5.0:
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   version "2.6.1"
   resolved "https://registry.yarnpkg.com/async/-/async-2.6.1.tgz#b245a23ca71930044ec53fa46aa00a3e87c6a610"
   dependencies:
@@ -2027,11 +2275,53 @@ bin-links@^1.1.0, bin-links@^1.1.2:
     gentle-fs "^2.0.0"
     graceful-fs "^4.1.11"
     write-file-atomic "^2.3.0"
+<<<<<<< HEAD
+=======
+
+bignumber.js@^2.0.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/bignumber.js/-/bignumber.js-2.4.0.tgz#838a992da9f9d737e0f4b2db0be62bb09dd0c5e8"
+  integrity sha1-g4qZLan51zfg9LLbC+YrsJ3Qxeg=
+
+bignumber.js@^4.0.2:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/bignumber.js/-/bignumber.js-4.1.0.tgz#db6f14067c140bd46624815a7916c92d9b6c24b1"
+  integrity sha512-eJzYkFYy9L4JzXsbymsFn3p54D+llV27oTQ+ziJG7WFRheJcNZilgVXMG0LoZtlQSKBsJdWtLFqOD0u+U0jZKA==
+
+bignumber.js@^7.2.1:
+  version "7.2.1"
+  resolved "https://registry.yarnpkg.com/bignumber.js/-/bignumber.js-7.2.1.tgz#80c048759d826800807c4bfd521e50edbba57a5f"
+  integrity sha512-S4XzBk5sMB+Rcb/LNcpzXr57VRTxgAvaAEDAl1AwRx27j00hT84O6OkteE7u8UB3NuaaygCRrEpqox4uDOrbdQ==
+
+"bignumber.js@git+https://github.com/frozeman/bignumber.js-nolookahead.git":
+  version "2.0.7"
+  resolved "git+https://github.com/frozeman/bignumber.js-nolookahead.git#57692b3ecfc98bbdd6b3a516cb2353652ea49934"
+
+bin-links@^1.1.0, bin-links@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/bin-links/-/bin-links-1.1.2.tgz#fb74bd54bae6b7befc6c6221f25322ac830d9757"
+  integrity sha512-8eEHVgYP03nILphilltWjeIjMbKyJo3wvp9K816pHbhP301ismzw15mxAAEVQ/USUwcP++1uNrbERbp8lOA6Fg==
+  dependencies:
+    bluebird "^3.5.0"
+    cmd-shim "^2.0.2"
+    gentle-fs "^2.0.0"
+    graceful-fs "^4.1.11"
+    write-file-atomic "^2.3.0"
+>>>>>>> feature/combine-contracts
 
 binary-extensions@^1.0.0:
   version "1.12.0"
   resolved "https://registry.yarnpkg.com/binary-extensions/-/binary-extensions-1.12.0.tgz#c2d780f53d45bba8317a8902d4ceeaf3a6385b14"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+block-stream@*:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/block-stream/-/block-stream-0.0.9.tgz#13ebfe778a03205cfe03751481ebb4b3300c126a"
+  integrity sha1-E+v+d4oDIFz+A3UUgeu0szAMEmo=
+=======
+>>>>>>> feature/combine-contracts
 bindings@^1.2.1:
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/bindings/-/bindings-1.3.0.tgz#b346f6ecf6a95f5a815c5839fc7cdb22502f1ed7"
@@ -2055,6 +2345,10 @@ bip66@^1.1.3:
 block-stream@*:
   version "0.0.9"
   resolved "https://registry.yarnpkg.com/block-stream/-/block-stream-0.0.9.tgz#13ebfe778a03205cfe03751481ebb4b3300c126a"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     inherits "~2.0.0"
 
@@ -2065,8 +2359,19 @@ bluebird@^3.5.0, bluebird@^3.5.1, bluebird@~3.5.1:
 bn.js@4.11.6:
   version "4.11.6"
   resolved "https://registry.yarnpkg.com/bn.js/-/bn.js-4.11.6.tgz#53344adb14617a13f6e8dd2ce28905d1c0ba3215"
+<<<<<<< HEAD
 
 bn.js@^4.0.0, bn.js@^4.1.0, bn.js@^4.1.1, bn.js@^4.10.0, bn.js@^4.11.0, bn.js@^4.11.3, bn.js@^4.11.6, bn.js@^4.11.8, bn.js@^4.4.0, bn.js@^4.8.0:
+=======
+<<<<<<< HEAD
+  integrity sha1-UzRK2xRhehP26N0s4okF0cC6MhU=
+
+bn.js@^4.0.0, bn.js@^4.1.0, bn.js@^4.1.1, bn.js@^4.11.6, bn.js@^4.4.0:
+=======
+
+bn.js@^4.0.0, bn.js@^4.1.0, bn.js@^4.1.1, bn.js@^4.10.0, bn.js@^4.11.0, bn.js@^4.11.3, bn.js@^4.11.6, bn.js@^4.11.8, bn.js@^4.4.0, bn.js@^4.8.0:
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   version "4.11.8"
   resolved "https://registry.yarnpkg.com/bn.js/-/bn.js-4.11.8.tgz#2cde09eb5ee341f484746bb0309b3253b1b1442f"
 
@@ -2088,6 +2393,13 @@ body-parser@1.18.2:
 body-parser@^1.16.0:
   version "1.18.3"
   resolved "https://registry.yarnpkg.com/body-parser/-/body-parser-1.18.3.tgz#5b292198ffdd553b3a0f20ded0592b956955c8b4"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-WykhmP/dVTs6DyDe0FkrlWlVyLQ=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     bytes "3.0.0"
     content-type "~1.0.4"
@@ -2126,6 +2438,22 @@ boxen@^1.2.1:
     string-width "^2.0.0"
     term-size "^1.2.0"
     widest-line "^2.0.0"
+<<<<<<< HEAD
+=======
+
+boxen@^1.2.1:
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/boxen/-/boxen-1.3.0.tgz#55c6c39a8ba58d9c61ad22cd877532deb665a20b"
+  integrity sha512-TNPjfTr432qx7yOjQyaXm3dSR0MH9vXp7eT1BFSl/C51g+EFnOR9hTg1IreahGBmDNCehscshe45f+C1TBZbLw==
+  dependencies:
+    ansi-align "^2.0.0"
+    camelcase "^4.0.0"
+    chalk "^2.0.1"
+    cli-boxes "^1.0.0"
+    string-width "^2.0.0"
+    term-size "^1.2.0"
+    widest-line "^2.0.0"
+>>>>>>> feature/combine-contracts
 
 brace-expansion@^1.1.7:
   version "1.1.11"
@@ -2174,8 +2502,19 @@ browser-resolve@^1.11.3:
 browser-stdout@1.3.0:
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/browser-stdout/-/browser-stdout-1.3.0.tgz#f351d32969d32fa5d7a5567154263d928ae3bd1f"
+<<<<<<< HEAD
 
 browserify-aes@^1.0.0, browserify-aes@^1.0.4, browserify-aes@^1.0.6:
+=======
+<<<<<<< HEAD
+  integrity sha1-81HTKWnTL6XXpVZxVCY9korjvR8=
+
+browserify-aes@^1.0.0, browserify-aes@^1.0.4:
+=======
+
+browserify-aes@^1.0.0, browserify-aes@^1.0.4, browserify-aes@^1.0.6:
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/browserify-aes/-/browserify-aes-1.2.0.tgz#326734642f403dabc3003209853bb70ad428ef48"
   dependencies:
@@ -2213,6 +2552,13 @@ browserify-rsa@^4.0.0:
 browserify-sha3@^0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/browserify-sha3/-/browserify-sha3-0.0.1.tgz#3ff34a3006ef15c0fb3567e541b91a2340123d11"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-P/NKMAbvFcD7NWflQbkaI0ASPRE=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     js-sha3 "^0.3.1"
 
@@ -2285,6 +2631,14 @@ buffer-indexof@^1.0.0:
 buffer-to-arraybuffer@^0.0.5:
   version "0.0.5"
   resolved "https://registry.yarnpkg.com/buffer-to-arraybuffer/-/buffer-to-arraybuffer-0.0.5.tgz#6064a40fa76eb43c723aba9ef8f6e1216d10511a"
+<<<<<<< HEAD
+=======
+
+buffer-to-arraybuffer@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/buffer-to-arraybuffer/-/buffer-to-arraybuffer-0.0.5.tgz#6064a40fa76eb43c723aba9ef8f6e1216d10511a"
+  integrity sha1-YGSkD6dutDxyOrqe+PbhIW0QURo=
+>>>>>>> feature/combine-contracts
 
 buffer-xor@^1.0.3:
   version "1.0.3"
@@ -2317,6 +2671,24 @@ byline@^5.0.0:
 byte-size@^4.0.2:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/byte-size/-/byte-size-4.0.3.tgz#b7c095efc68eadf82985fccd9a2df43a74fa2ccd"
+<<<<<<< HEAD
+=======
+
+builtins@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/builtins/-/builtins-1.0.3.tgz#cb94faeb61c8696451db36534e1422f94f0aee88"
+  integrity sha1-y5T662HIaWRR2zZTThQi+U8K7og=
+
+byline@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/byline/-/byline-5.0.0.tgz#741c5216468eadc457b03410118ad77de8c1ddb1"
+  integrity sha1-dBxSFkaOrcRXsDQQEYrXfejB3bE=
+
+byte-size@^4.0.2:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/byte-size/-/byte-size-4.0.3.tgz#b7c095efc68eadf82985fccd9a2df43a74fa2ccd"
+  integrity sha512-JGC3EV2bCzJH/ENSh3afyJrH4vwxbHTuO5ljLoI5+2iJOcEpMgP8T782jH9b5qGxf2mSUIp1lfGnfKNrRHpvVg==
+>>>>>>> feature/combine-contracts
 
 bytes@3.0.0:
   version "3.0.0"
@@ -2376,6 +2748,13 @@ cache-base@^1.0.1:
 call-limit@~1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/call-limit/-/call-limit-1.1.0.tgz#6fd61b03f3da42a2cd0ec2b60f02bd0e71991fea"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-b9YbA/PaQqLNDsK2DwK9DnGZH+o=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 caller-path@^0.1.0:
   version "0.1.0"
@@ -2401,10 +2780,24 @@ camel-case@3.0.x, camel-case@^3.0.0:
 camelcase@^1.0.2:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-1.2.1.tgz#9bb5304d2e0b56698b2c758b08a3eaa9daa58a39"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-m7UwTS4LVmmLLHWLCKPqqdqlijk=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 camelcase@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-3.0.0.tgz#32fc4b9fcdaf845fcdf7e73bb97cac2261f0ab0a"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-MvxLn82vhF/N9+c7uXysImHwqwo=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 camelcase@^4.0.0, camelcase@^4.1.0:
   version "4.1.0"
@@ -2436,6 +2829,13 @@ capture-exit@^1.2.0:
 capture-stack-trace@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/capture-stack-trace/-/capture-stack-trace-1.0.1.tgz#a6c0bbe1f38f3aa0b92238ecb6ff42c344d4135d"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-mYQLZnx5Qt1JgB1WEiMCf2647plpGeQ2NMR/5L0HNZzGQo4fuSPnK+wjfPnKZV0aiJDgzmWqqkV/g7JD+DW0qw==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 case-sensitive-paths-webpack-plugin@2.1.2:
   version "2.1.2"
@@ -2448,6 +2848,13 @@ caseless@~0.12.0:
 cbor@>=4.0.0:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/cbor/-/cbor-4.1.1.tgz#a6bc17020b45685d315c6bbc971f3bb3c973fde9"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-x9Pc1gT3JxUEZTOA9YdRdpg8hohBEFPAc26c85PlGYvzoc77PXr1lvfBKmBPFcf7eYsOs0hWRWWmfqJozrvDnw==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     bignumber.js "^7.2.1"
     commander "^2.16.0"
@@ -2457,10 +2864,22 @@ cbor@>=4.0.0:
 center-align@^0.1.1:
   version "0.1.3"
   resolved "https://registry.yarnpkg.com/center-align/-/center-align-0.1.3.tgz#aa0d32629b6ee972200411cbd4461c907bc2b7ad"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-qg0yYptu6XIgBBHL1EYckHvCt60=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     align-text "^0.1.3"
     lazy-cache "^1.0.3"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> feature/combine-contracts
 chai-as-promised@^7.1.1:
   version "7.1.1"
   resolved "https://registry.yarnpkg.com/chai-as-promised/-/chai-as-promised-7.1.1.tgz#08645d825deb8696ee61725dbf590c012eb00ca0"
@@ -2482,6 +2901,10 @@ chai@^4.1.2:
     pathval "^1.1.0"
     type-detect "^4.0.5"
 
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 "chainlink@github:smartcontractkit/chainlink":
   version "0.2.0"
   resolved "https://codeload.github.com/smartcontractkit/chainlink/tar.gz/c7bf80103eaa20b8d7b3fe9bb038a24cfa44f0a9"
@@ -2493,7 +2916,15 @@ chai@^4.1.2:
     openzeppelin-solidity "^1.12.0"
     solidity-cborutils "github:smartcontractkit/solidity-cborutils"
 
+<<<<<<< HEAD
 chalk@2.4.1, chalk@^2.0.0, chalk@^2.0.1, chalk@^2.1.0, chalk@^2.3.1, chalk@^2.4.1:
+=======
+<<<<<<< HEAD
+chalk@2.4.1, chalk@^2.0.0, chalk@^2.0.1, chalk@^2.1.0, chalk@^2.4.1:
+=======
+chalk@2.4.1, chalk@^2.0.0, chalk@^2.0.1, chalk@^2.1.0, chalk@^2.3.1, chalk@^2.4.1:
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-2.4.1.tgz#18c49ab16a037b6eb0152cc83e3471338215b66e"
   dependencies:
@@ -2514,6 +2945,13 @@ chalk@^1.0.0, chalk@^1.1.3:
 change-case@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/change-case/-/change-case-3.0.2.tgz#fd48746cce02f03f0a672577d1d3a8dc2eceb037"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-Mww+SLF6MZ0U6kdg11algyKd5BARbyM4TbFBepwowYSR5ClfQGCGtxNXgykpN0uF/bstWeaGDT4JWaDh8zWAHA==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     camel-case "^3.0.0"
     constant-case "^2.0.0"
@@ -2597,6 +3035,14 @@ chownr@^1.0.1:
 chownr@~1.0.1:
   version "1.0.1"
   resolved "http://registry.npmjs.org/chownr/-/chownr-1.0.1.tgz#e2a75042a9551908bebd25b8523d5f9769d79181"
+<<<<<<< HEAD
+=======
+
+chownr@~1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/chownr/-/chownr-1.0.1.tgz#e2a75042a9551908bebd25b8523d5f9769d79181"
+  integrity sha1-4qdQQqlVGQi+vSW4Uj1fl2nXkYE=
+>>>>>>> feature/combine-contracts
 
 chrome-trace-event@^1.0.0:
   version "1.0.0"
@@ -2611,6 +3057,14 @@ ci-info@^1.5.0:
 cidr-regex@1.0.6:
   version "1.0.6"
   resolved "http://registry.npmjs.org/cidr-regex/-/cidr-regex-1.0.6.tgz#74abfd619df370b9d54ab14475568e97dd64c0c1"
+<<<<<<< HEAD
+=======
+
+cidr-regex@1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/cidr-regex/-/cidr-regex-1.0.6.tgz#74abfd619df370b9d54ab14475568e97dd64c0c1"
+  integrity sha1-dKv9YZ3zcLnVSrFEdVaOl91kwME=
+>>>>>>> feature/combine-contracts
 
 cipher-base@^1.0.0, cipher-base@^1.0.1, cipher-base@^1.0.3:
   version "1.0.4"
@@ -2641,20 +3095,43 @@ clean-css@4.2.x:
 cli-boxes@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/cli-boxes/-/cli-boxes-1.0.0.tgz#4fa917c3e59c94a004cd61f8ee509da651687143"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-T6kXw+WclKAEzWH47lCdplFocUM=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 cli-columns@^3.1.2:
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/cli-columns/-/cli-columns-3.1.2.tgz#6732d972979efc2ae444a1f08e08fa139c96a18e"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-ZzLZcpee/CrkRKHwjgj6E5yWoY4=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     string-width "^2.0.0"
     strip-ansi "^3.0.1"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> feature/combine-contracts
 cli-cursor@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/cli-cursor/-/cli-cursor-1.0.2.tgz#64da3f7d56a54412e59794bd62dc35295e8f2987"
   dependencies:
     restore-cursor "^1.0.1"
 
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 cli-cursor@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/cli-cursor/-/cli-cursor-2.1.0.tgz#b35dac376479facc3e94747d41d0d0f5238ffcb5"
@@ -2664,6 +3141,13 @@ cli-cursor@^2.1.0:
 cli-table2@~0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/cli-table2/-/cli-table2-0.2.0.tgz#2d1ef7f218a0e786e214540562d4bd177fe32d97"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-LR738hig54biFFQFYtS9F3/jLZc=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     lodash "^3.10.1"
     string-width "^1.0.1"
@@ -2673,12 +3157,24 @@ cli-table2@~0.2.0:
 cli-table3@^0.5.0:
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/cli-table3/-/cli-table3-0.5.1.tgz#0252372d94dfc40dbd8df06005f48f31f656f202"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-7Qg2Jrep1S/+Q3EceiZtQcDPWxhAvBw+ERf1162v4sikJrvojMHFqXt8QIVha8UlH9rgU0BeWPytZ9/TzYqlUw==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     object-assign "^4.1.0"
     string-width "^2.1.1"
   optionalDependencies:
     colors "^1.1.2"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> feature/combine-contracts
 cli-truncate@^0.2.1:
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/cli-truncate/-/cli-truncate-0.2.1.tgz#9f15cfbb0705005369216c626ac7d05ab90dd574"
@@ -2686,6 +3182,10 @@ cli-truncate@^0.2.1:
     slice-ansi "0.0.4"
     string-width "^1.0.1"
 
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 cli-width@^2.0.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/cli-width/-/cli-width-2.2.0.tgz#ff19ede8a9a5e579324147b0c11f0fbcbabed639"
@@ -2705,6 +3205,27 @@ cliui@^3.2.0:
     string-width "^1.0.1"
     strip-ansi "^3.0.1"
     wrap-ansi "^2.0.0"
+<<<<<<< HEAD
+=======
+
+cliui@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/cliui/-/cliui-2.1.0.tgz#4b475760ff80264c762c3a1719032e91c7fea0d1"
+  integrity sha1-S0dXYP+AJkx2LDoXGQMukcf+oNE=
+  dependencies:
+    center-align "^0.1.1"
+    right-align "^0.1.1"
+    wordwrap "0.0.2"
+
+cliui@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/cliui/-/cliui-3.2.0.tgz#120601537a916d29940f934da3b48d585a39213d"
+  integrity sha1-EgYBU3qRbSmUD5NNo7SNWFo5IT0=
+  dependencies:
+    string-width "^1.0.1"
+    strip-ansi "^3.0.1"
+    wrap-ansi "^2.0.0"
+>>>>>>> feature/combine-contracts
 
 cliui@^4.0.0:
   version "4.1.0"
@@ -2736,14 +3257,31 @@ clone-deep@^2.0.1:
 clone@^1.0.2:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/clone/-/clone-1.0.4.tgz#da309cc263df15994c688ca902179ca3c7cd7c7e"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-2jCcwmPfFZlMaIypAheco8fNfH4=
+=======
+>>>>>>> feature/combine-contracts
 
 clone@^2.0.0:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/clone/-/clone-2.1.2.tgz#1b7f4b9f591f1e8f83670401600345a02887435f"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 cmd-shim@^2.0.2, cmd-shim@~2.0.2:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/cmd-shim/-/cmd-shim-2.0.2.tgz#6fcbda99483a8fd15d7d30a196ca69d688a2efdb"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-b8vamUg6j9FdfTChlspp1oii79s=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     graceful-fs "^4.1.2"
     mkdirp "~0.5.0"
@@ -2807,6 +3345,13 @@ color@^3.0.0:
 colors@^1.1.2:
   version "1.3.2"
   resolved "https://registry.yarnpkg.com/colors/-/colors-1.3.2.tgz#2df8ff573dfbf255af562f8ce7181d6b971a359b"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-rhP0JSBGYvpcNQj4s5AdShMeE5ahMop96cTeDl/v9qQQm2fYClE2QXZRi8wLzc+GmXSxdIqqbOIAhyObEXDbfQ==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 colors@~1.1.2:
   version "1.1.2"
@@ -2818,6 +3363,17 @@ columnify@~1.5.4:
   dependencies:
     strip-ansi "^3.0.0"
     wcwidth "^1.0.0"
+<<<<<<< HEAD
+=======
+
+columnify@~1.5.4:
+  version "1.5.4"
+  resolved "https://registry.yarnpkg.com/columnify/-/columnify-1.5.4.tgz#4737ddf1c7b69a8a7c340570782e947eec8e78bb"
+  integrity sha1-Rzfd8ce2mop8NAVweC6UfuyOeLs=
+  dependencies:
+    strip-ansi "^3.0.0"
+    wcwidth "^1.0.0"
+>>>>>>> feature/combine-contracts
 
 combined-stream@1.0.6:
   version "1.0.6"
@@ -2834,12 +3390,27 @@ combined-stream@~1.0.6:
 commander@2.11.0:
   version "2.11.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.11.0.tgz#157152fd1e7a6c8d98a5b715cf376df928004563"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-b0553uYA5YAEGgyYIGYROzKQ7X5RAqedkfjiZxwi0kL1g3bOaBNNZfYkzt/CL0umgD5wc9Jec2FbB98CjkMRvQ==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 commander@2.17.x, commander@~2.17.1:
   version "2.17.1"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.17.1.tgz#bd77ab7de6de94205ceacc72f1716d29f20a77bf"
 
+<<<<<<< HEAD
 commander@^2.11.0, commander@^2.14.1, commander@^2.16.0, commander@^2.9.0:
+=======
+<<<<<<< HEAD
+commander@^2.11.0, commander@^2.16.0:
+=======
+commander@^2.11.0, commander@^2.14.1, commander@^2.16.0, commander@^2.9.0:
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   version "2.18.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.18.0.tgz#2bf063ddee7c7891176981a2cc798e5754bc6970"
 
@@ -2881,7 +3452,15 @@ concat-map@0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
 
+<<<<<<< HEAD
 concat-stream@^1.4.6, concat-stream@^1.5.0, concat-stream@^1.5.2, concat-stream@^1.6.0:
+=======
+<<<<<<< HEAD
+concat-stream@^1.5.0, concat-stream@^1.5.2:
+=======
+concat-stream@^1.4.6, concat-stream@^1.5.0, concat-stream@^1.5.2, concat-stream@^1.6.0:
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   version "1.6.2"
   resolved "https://registry.yarnpkg.com/concat-stream/-/concat-stream-1.6.2.tgz#904bdf194cd3122fc675c77fc4ac3d4ff0fd1a34"
   dependencies:
@@ -2893,6 +3472,13 @@ concat-stream@^1.4.6, concat-stream@^1.5.0, concat-stream@^1.5.2, concat-stream@
 config-chain@~1.1.11:
   version "1.1.12"
   resolved "https://registry.yarnpkg.com/config-chain/-/config-chain-1.1.12.tgz#0fde8d091200eb5e808caf25fe618c02f48e4efa"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-a1eOIcu8+7lUInge4Rpf/n4Krkf3Dd9lqhljRzII1/Zno/kRtUWnznPO3jOKBmTEktkt3fkxisUcivoj0ebzoA==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     ini "^1.3.4"
     proto-list "~1.2.1"
@@ -2900,6 +3486,13 @@ config-chain@~1.1.11:
 configstore@^3.0.0:
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/configstore/-/configstore-3.1.2.tgz#c6f25defaeef26df12dd33414b001fe81a543f8f"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-vtv5HtGjcYUgFrXc6Kx747B83MRRVS5R1VTEQoXvuP+kMI+if6uywV0nDGoiydJRy4yk7h9od5Og0kxx4zUXmw==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     dot-prop "^4.1.0"
     graceful-fs "^4.1.2"
@@ -2932,6 +3525,17 @@ constant-case@^2.0.0:
   dependencies:
     snake-case "^2.1.0"
     upper-case "^1.1.1"
+<<<<<<< HEAD
+=======
+
+constant-case@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/constant-case/-/constant-case-2.0.0.tgz#4175764d389d3fa9c8ecd29186ed6005243b6a46"
+  integrity sha1-QXV2TTidP6nI7NKRhu1gBSQ7akY=
+  dependencies:
+    snake-case "^2.1.0"
+    upper-case "^1.1.1"
+>>>>>>> feature/combine-contracts
 
 constants-browserify@^1.0.0:
   version "1.0.0"
@@ -2989,6 +3593,14 @@ core-js@2.5.7, core-js@^2.4.0, core-js@^2.5.0:
 core-js@^1.0.0:
   version "1.2.7"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-1.2.7.tgz#652294c14651db28fa93bd2d5ff2983a4f08c636"
+<<<<<<< HEAD
+=======
+
+core-js@^1.0.0:
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-1.2.7.tgz#652294c14651db28fa93bd2d5ff2983a4f08c636"
+  integrity sha1-ZSKUwUZR2yj6k70tX/KYOk8IxjY=
+>>>>>>> feature/combine-contracts
 
 core-util-is@1.0.2, core-util-is@~1.0.0:
   version "1.0.2"
@@ -3000,6 +3612,17 @@ cors@^2.8.1:
   dependencies:
     object-assign "^4"
     vary "^1"
+<<<<<<< HEAD
+=======
+
+cors@^2.8.1:
+  version "2.8.4"
+  resolved "https://registry.yarnpkg.com/cors/-/cors-2.8.4.tgz#2bd381f2eb201020105cd50ea59da63090694686"
+  integrity sha1-K9OB8usgECAQXNUOpZ2mMJBpRoY=
+  dependencies:
+    object-assign "^4"
+    vary "^1"
+>>>>>>> feature/combine-contracts
 
 cosmiconfig@^4.0.0:
   version "4.0.0"
@@ -3028,10 +3651,24 @@ create-ecdh@^4.0.0:
 create-error-class@^3.0.0:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/create-error-class/-/create-error-class-3.0.2.tgz#06be7abef947a3f14a30fd610671d401bca8b7b6"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-Br56vvlHo/FKMP1hBnHUAbyot7Y=
+  dependencies:
+    capture-stack-trace "^1.0.0"
+
+create-hash@^1.1.0, create-hash@^1.1.2:
+=======
+>>>>>>> feature/combine-contracts
   dependencies:
     capture-stack-trace "^1.0.0"
 
 create-hash@^1.1.0, create-hash@^1.1.1, create-hash@^1.1.2:
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   version "1.2.0"
   resolved "http://registry.npmjs.org/create-hash/-/create-hash-1.2.0.tgz#889078af11a63756bcfb59bd221996be3a9ef196"
   dependencies:
@@ -3055,6 +3692,13 @@ create-hmac@^1.1.0, create-hmac@^1.1.2, create-hmac@^1.1.4:
 create-react-context@^0.2.2:
   version "0.2.3"
   resolved "https://registry.yarnpkg.com/create-react-context/-/create-react-context-0.2.3.tgz#9ec140a6914a22ef04b8b09b7771de89567cb6f3"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-CQBmD0+QGgTaxDL3OX1IDXYqjkp2It4RIbcb99jS6AEg27Ga+a9G3JtK6SIu0HBwPLZlmwt9F7UwWA4Bn92Rag==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     fbjs "^0.8.0"
     gud "^1.0.0"
@@ -3100,20 +3744,40 @@ crypto-browserify@^3.11.0:
 crypto-js@^3.1.4:
   version "3.1.8"
   resolved "https://registry.yarnpkg.com/crypto-js/-/crypto-js-3.1.8.tgz#715f070bf6014f2ae992a98b3929258b713f08d5"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-cV8HC/YBTyrpkqmLOSkli3E/CNU=
+=======
+>>>>>>> feature/combine-contracts
 
 crypto-js@^3.1.9-1:
   version "3.1.9-1"
   resolved "https://registry.yarnpkg.com/crypto-js/-/crypto-js-3.1.9-1.tgz#fda19e761fc077e01ffbfdc6e9fdfc59e8806cd8"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 crypto-random-string@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/crypto-random-string/-/crypto-random-string-1.0.0.tgz#a230f64f568310e1498009940790ec99545bca7e"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-ojD2T1aDEOFJgAmUB5DsmVRbyn4=
+=======
+>>>>>>> feature/combine-contracts
 
 cryptofin-solidity@^0.0.5:
   version "0.0.5"
   resolved "https://registry.yarnpkg.com/cryptofin-solidity/-/cryptofin-solidity-0.0.5.tgz#c978872a5912eb86f1e0e50d52f4ce756c03adfa"
   dependencies:
     openzeppelin-solidity "^1.10.0"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 css-color-names@0.0.4, css-color-names@^0.0.4:
   version "0.0.4"
@@ -3302,6 +3966,16 @@ d@1:
   resolved "https://registry.yarnpkg.com/d/-/d-1.0.0.tgz#754bb5bfe55451da69a58b94d45f4c5b0462d58f"
   dependencies:
     es5-ext "^0.10.9"
+<<<<<<< HEAD
+=======
+
+d@1:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/d/-/d-1.0.0.tgz#754bb5bfe55451da69a58b94d45f4c5b0462d58f"
+  integrity sha1-dUu1v+VUUdpppYuU1F9MWwRi1Y8=
+  dependencies:
+    es5-ext "^0.10.9"
+>>>>>>> feature/combine-contracts
 
 damerau-levenshtein@^1.0.4:
   version "1.0.4"
@@ -3350,6 +4024,13 @@ debug@^3.1.0:
 debuglog@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/debuglog/-/debuglog-1.0.1.tgz#aa24ffb9ac3df9a2351837cfb2d279360cd78492"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-qiT/uaw9+aI1GDfPstJ5NgzXhJI=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 decamelize@^1.0.0, decamelize@^1.1.1:
   version "1.2.0"
@@ -3364,10 +4045,24 @@ decamelize@^2.0.0:
 decode-uri-component@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
+<<<<<<< HEAD
 
 decompress-response@^3.3.0:
   version "3.3.0"
   resolved "https://registry.yarnpkg.com/decompress-response/-/decompress-response-3.3.0.tgz#80a4dd323748384bfa248083622aedec982adff3"
+=======
+
+decompress-response@^3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/decompress-response/-/decompress-response-3.3.0.tgz#80a4dd323748384bfa248083622aedec982adff3"
+<<<<<<< HEAD
+  integrity sha1-gKTdMjdIOEv6JICDYirt7Jgq3/M=
+  dependencies:
+    mimic-response "^1.0.0"
+
+deep-equal@^1.0.1:
+=======
+>>>>>>> feature/combine-contracts
   dependencies:
     mimic-response "^1.0.0"
 
@@ -3382,6 +4077,10 @@ deep-eql@^3.0.1:
     type-detect "^4.0.0"
 
 deep-equal@^1.0.1, deep-equal@~1.0.1:
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/deep-equal/-/deep-equal-1.0.1.tgz#f5d260292b660e084eff4cdbc9f08ad3247448b5"
 
@@ -3396,6 +4095,14 @@ deep-is@~0.1.3:
 deepmerge@^2.1.1:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-2.2.1.tgz#5d3ff22a01c00f645405a2fbc17d0778a1801170"
+<<<<<<< HEAD
+=======
+
+deepmerge@^2.1.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-2.2.1.tgz#5d3ff22a01c00f645405a2fbc17d0778a1801170"
+  integrity sha512-R9hc1Xa/NOBi9WRVUWg19rl1UB7Tt4kuPd+thNJgFZoxXsTz7ncaPaeIm+40oSGuP33DfMb4sZt1QIGiJzC4EA==
+>>>>>>> feature/combine-contracts
 
 default-gateway@^2.6.0:
   version "2.7.2"
@@ -3413,6 +4120,15 @@ default-require-extensions@^1.0.0:
 defaults@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/defaults/-/defaults-1.0.3.tgz#c656051e9817d9ff08ed881477f3fe4019f3ef7d"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-xlYFHpgX2f8I7YgUd/P+QBnz730=
+  dependencies:
+    clone "^1.0.2"
+
+=======
+>>>>>>> feature/combine-contracts
   dependencies:
     clone "^1.0.2"
 
@@ -3422,6 +4138,10 @@ deferred-leveldown@~1.2.1:
   dependencies:
     abstract-leveldown "~2.6.0"
 
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 define-properties@^1.1.2:
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/define-properties/-/define-properties-1.1.3.tgz#cf88da6cbee26fe6db7094f61d870cbd84cee9f1"
@@ -3485,6 +4205,14 @@ delegates@^1.0.0:
 delimit-stream@0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/delimit-stream/-/delimit-stream-0.1.0.tgz#9b8319477c0e5f8aeb3ce357ae305fc25ea1cd2b"
+<<<<<<< HEAD
+=======
+
+delimit-stream@0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/delimit-stream/-/delimit-stream-0.1.0.tgz#9b8319477c0e5f8aeb3ce357ae305fc25ea1cd2b"
+  integrity sha1-m4MZR3wOX4rrPONXrjBfwl6hzSs=
+>>>>>>> feature/combine-contracts
 
 depd@1.1.1:
   version "1.1.1"
@@ -3514,6 +4242,13 @@ detect-indent@^4.0.0:
 detect-indent@~5.0.0:
   version "5.0.0"
   resolved "https://registry.yarnpkg.com/detect-indent/-/detect-indent-5.0.0.tgz#3871cc0a6a002e8c3e5b3cf7f336264675f06b9d"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-OHHMCmoALow+Wzz38zYmRnXwa50=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 detect-libc@^1.0.2:
   version "1.0.3"
@@ -3541,6 +4276,13 @@ detect-port-alt@1.1.6:
 dezalgo@^1.0.0, dezalgo@~1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/dezalgo/-/dezalgo-1.0.3.tgz#7f742de066fc748bc8db820569dddce49bf0d456"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-f3Qt4Gb8dIvI24IFad3c5Jvw1FY=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     asap "^2.0.0"
     wrappy "1"
@@ -3548,6 +4290,13 @@ dezalgo@^1.0.0, dezalgo@~1.0.3:
 diff@3.3.1:
   version "3.3.1"
   resolved "https://registry.yarnpkg.com/diff/-/diff-3.3.1.tgz#aa8567a6eed03c531fc89d3f711cd0e5259dec75"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-MKPHZDMB0o6yHyDryUOScqZibp914ksXwAMYMTHj6KO8UeKsRYNJD3oNCKjTqZon+V488P7N/HzXF8t7ZR95ww==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 diff@^3.2.0:
   version "3.5.0"
@@ -3614,6 +4363,13 @@ dom-serializer@0:
 dom-walk@^0.1.0:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/dom-walk/-/dom-walk-0.1.1.tgz#672226dc74c8f799ad35307df936aba11acd6018"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-ZyIm3HTI95mtNTB9+TaroRrNYBg=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 domain-browser@^1.1.1:
   version "1.2.0"
@@ -3662,6 +4418,13 @@ domutils@^1.7.0:
 dot-case@^2.1.0:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/dot-case/-/dot-case-2.1.1.tgz#34dcf37f50a8e93c2b3bca8bb7fb9155c7da3bee"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-NNzzf1Co6TwrO8qLt/uRVcfaO+4=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     no-case "^2.2.0"
 
@@ -3694,6 +4457,19 @@ drbg.js@^1.0.1:
 duplexer3@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/duplexer3/-/duplexer3-0.1.4.tgz#ee01dd1cac0ed3cbc7fdbea37dc0a8f1ce002ce2"
+<<<<<<< HEAD
+=======
+
+dotenv@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-5.0.1.tgz#a5317459bd3d79ab88cff6e44057a6a3fbb1fcef"
+  integrity sha512-4As8uPrjfwb7VXC+WnLCbXK7y+Ueb2B3zgNCePYfhxS1PYeaO1YTeplffTEcbfLhvFNGLAz90VvJs9yomG7bow==
+
+duplexer3@^0.1.4:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/duplexer3/-/duplexer3-0.1.4.tgz#ee01dd1cac0ed3cbc7fdbea37dc0a8f1ce002ce2"
+  integrity sha1-7gHdHKwO08vH/b6jfcCo8c4ALOI=
+>>>>>>> feature/combine-contracts
 
 duplexer@^0.1.1:
   version "0.1.1"
@@ -3718,6 +4494,13 @@ ecc-jsbn@~0.1.1:
 editor@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/editor/-/editor-1.0.0.tgz#60c7f87bd62bcc6a894fa8ccd6afb7823a24f742"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-YMf4e9YrzGqJT6jM1q+3gjok90I=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 ee-first@1.1.1:
   version "1.1.1"
@@ -3727,6 +4510,12 @@ electron-to-chromium@^1.3.62, electron-to-chromium@^1.3.73:
   version "1.3.73"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.73.tgz#aa67787067d58cc3920089368b3b8d6fe0fc12f6"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+elliptic@^6.0.0, elliptic@^6.4.0:
+=======
+>>>>>>> feature/combine-contracts
 elegant-spinner@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/elegant-spinner/-/elegant-spinner-1.0.1.tgz#db043521c95d7e303fd8f345bedc3349cfb0729e"
@@ -3741,6 +4530,10 @@ elliptic@6.3.3:
     inherits "^2.0.1"
 
 elliptic@^6.0.0, elliptic@^6.2.3, elliptic@^6.4.0:
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   version "6.4.1"
   resolved "https://registry.yarnpkg.com/elliptic/-/elliptic-6.4.1.tgz#c2d0b7776911b86722c632c3c06c60f2f819939a"
   dependencies:
@@ -3769,6 +4562,16 @@ encoding@^0.1.11:
   resolved "https://registry.yarnpkg.com/encoding/-/encoding-0.1.12.tgz#538b66f3ee62cd1ab51ec323829d1f9480c74beb"
   dependencies:
     iconv-lite "~0.4.13"
+<<<<<<< HEAD
+=======
+
+encoding@^0.1.11:
+  version "0.1.12"
+  resolved "https://registry.yarnpkg.com/encoding/-/encoding-0.1.12.tgz#538b66f3ee62cd1ab51ec323829d1f9480c74beb"
+  integrity sha1-U4tm8+5izRq1HsMjgp0flIDHS+s=
+  dependencies:
+    iconv-lite "~0.4.13"
+>>>>>>> feature/combine-contracts
 
 end-of-stream@^1.0.0, end-of-stream@^1.1.0:
   version "1.4.1"
@@ -3779,6 +4582,13 @@ end-of-stream@^1.0.0, end-of-stream@^1.1.0:
 enhanced-resolve@^3.4.0:
   version "3.4.1"
   resolved "https://registry.yarnpkg.com/enhanced-resolve/-/enhanced-resolve-3.4.1.tgz#0421e339fd71419b3da13d129b3979040230476e"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-BCHjOf1xQZs9oT0Smzl5BAIwR24=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     graceful-fs "^4.1.2"
     memory-fs "^0.4.0"
@@ -3796,7 +4606,19 @@ enhanced-resolve@^4.1.0:
 entities@~1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/entities/-/entities-1.1.1.tgz#6e5c2d0a5621b5dadaecef80b90edfb5cd7772f0"
+<<<<<<< HEAD
 
+=======
+
+<<<<<<< HEAD
+err-code@^1.0.0:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/err-code/-/err-code-1.1.2.tgz#06e0116d3028f6aef4806849eb0ea6a748ae6960"
+  integrity sha1-BuARbTAo9q70gGhJ6w6mp0iuaWA=
+
+errno@^0.1.3, errno@~0.1.7:
+=======
+>>>>>>> feature/combine-contracts
 eol@^0.9.1:
   version "0.9.1"
   resolved "https://registry.yarnpkg.com/eol/-/eol-0.9.1.tgz#f701912f504074be35c6117a5c4ade49cd547acd"
@@ -3806,6 +4628,10 @@ err-code@^1.0.0:
   resolved "https://registry.yarnpkg.com/err-code/-/err-code-1.1.2.tgz#06e0116d3028f6aef4806849eb0ea6a748ae6960"
 
 errno@^0.1.3, errno@~0.1.1, errno@~0.1.7:
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   version "0.1.7"
   resolved "https://registry.yarnpkg.com/errno/-/errno-0.1.7.tgz#4684d71779ad39af177e3f007996f7c67c852618"
   dependencies:
@@ -3838,6 +4664,13 @@ es-to-primitive@^1.1.1:
 es5-ext@^0.10.14, es5-ext@^0.10.35, es5-ext@^0.10.9, es5-ext@~0.10.14:
   version "0.10.46"
   resolved "https://registry.yarnpkg.com/es5-ext/-/es5-ext-0.10.46.tgz#efd99f67c5a7ec789baa3daa7f79870388f7f572"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-24XxRvJXNFwEMpJb3nOkiRJKRoupmjYmOPVlI65Qy2SrtxwOTB+g6ODjBKOtwEHbYrhWRty9xxOWLNdClT2djw==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     es6-iterator "~2.0.3"
     es6-symbol "~3.1.1"
@@ -3846,6 +4679,13 @@ es5-ext@^0.10.14, es5-ext@^0.10.35, es5-ext@^0.10.9, es5-ext@~0.10.14:
 es6-iterator@^2.0.1, es6-iterator@~2.0.1, es6-iterator@~2.0.3:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/es6-iterator/-/es6-iterator-2.0.3.tgz#a7de889141a05a94b0854403b2d0a0fbfa98f3b7"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-p96IkUGgWpSwhUQDstCg+/qY87c=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     d "1"
     es5-ext "^0.10.35"
@@ -3854,6 +4694,13 @@ es6-iterator@^2.0.1, es6-iterator@~2.0.1, es6-iterator@~2.0.3:
 es6-map@^0.1.3:
   version "0.1.5"
   resolved "https://registry.yarnpkg.com/es6-map/-/es6-map-0.1.5.tgz#9136e0503dcc06a301690f0bb14ff4e364e949f0"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-kTbgUD3MBqMBaQ8LsU/042TpSfA=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     d "1"
     es5-ext "~0.10.14"
@@ -3865,16 +4712,37 @@ es6-map@^0.1.3:
 es6-promise@^4.0.3:
   version "4.2.5"
   resolved "https://registry.yarnpkg.com/es6-promise/-/es6-promise-4.2.5.tgz#da6d0d5692efb461e082c14817fe2427d8f5d054"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-n6wvpdE43VFtJq+lUDYDBFUwV8TZbuGXLV4D6wKafg13ldznKsyEvatubnmUe31zcvelSzOHF+XbaT+Bl9ObDg==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 es6-promisify@^5.0.0:
   version "5.0.0"
   resolved "https://registry.yarnpkg.com/es6-promisify/-/es6-promisify-5.0.0.tgz#5109d62f3e56ea967c4b63505aef08291c8a5203"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-UQnWLz5W6pZ8S2NQWu8IKRyKUgM=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     es6-promise "^4.0.3"
 
 es6-set@~0.1.5:
   version "0.1.5"
   resolved "https://registry.yarnpkg.com/es6-set/-/es6-set-0.1.5.tgz#d2b3ec5d4d800ced818db538d28974db0a73ccb1"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-0rPsXU2ADO2BjbU40ol02wpzzLE=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     d "1"
     es5-ext "~0.10.14"
@@ -3885,6 +4753,13 @@ es6-set@~0.1.5:
 es6-symbol@3.1.1, es6-symbol@^3.1.1, es6-symbol@~3.1.1:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/es6-symbol/-/es6-symbol-3.1.1.tgz#bf00ef4fdab6ba1b46ecb7b629b4c7ed5715cc77"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-vwDvT9q2uhtG7Le2KbTH7VcVzHc=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     d "1"
     es5-ext "~0.10.14"
@@ -3892,6 +4767,13 @@ es6-symbol@3.1.1, es6-symbol@^3.1.1, es6-symbol@~3.1.1:
 es6-weak-map@^2.0.1:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/es6-weak-map/-/es6-weak-map-2.0.2.tgz#5e3ab32251ffd1538a1f8e5ffa1357772f92d96f"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-XjqzIlH/0VOKH45f+hNXdy+S2W8=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     d "1"
     es5-ext "^0.10.14"
@@ -3920,6 +4802,13 @@ escodegen@^1.11.0, escodegen@^1.9.1:
 escope@^3.6.0:
   version "3.6.0"
   resolved "https://registry.yarnpkg.com/escope/-/escope-3.6.0.tgz#e01975e812781a163a6dadfdd80398dc64c889c3"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-4Bl16BJ4GhY6ba392AOY3GTIicM=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     es6-map "^0.1.3"
     es6-weak-map "^2.0.1"
@@ -4107,6 +4996,7 @@ esutils@^2.0.0, esutils@^2.0.2:
 etag@~1.8.1:
   version "1.8.1"
   resolved "https://registry.yarnpkg.com/etag/-/etag-1.8.1.tgz#41ae2eeb65efa62268aebfea83ac7d79299b0887"
+<<<<<<< HEAD
 
 eth-ens-namehash@^1.0.2:
   version "1.0.2"
@@ -4114,6 +5004,103 @@ eth-ens-namehash@^1.0.2:
   dependencies:
     idna-uts46 "^1.0.1"
     js-sha3 "^0.5.7"
+
+eth-gas-reporter@^0.1.10:
+  version "0.1.12"
+  resolved "https://registry.yarnpkg.com/eth-gas-reporter/-/eth-gas-reporter-0.1.12.tgz#6b761e05c33ae85be47840dd07468ab51d473dd8"
+  dependencies:
+    abi-decoder "^1.0.8"
+    cli-table3 "^0.5.0"
+    colors "^1.1.2"
+    lodash "^4.17.4"
+    mocha "^4.1.0"
+    req-cwd "^2.0.0"
+    request "^2.83.0"
+    request-promise-native "^1.0.5"
+    sha1 "^1.1.1"
+    shelljs "^0.7.8"
+    solidity-parser-antlr "^0.2.10"
+    sync-request "^6.0.0"
+
+eth-lib@0.1.27:
+  version "0.1.27"
+  resolved "https://registry.yarnpkg.com/eth-lib/-/eth-lib-0.1.27.tgz#f0b0fd144f865d2d6bf8257a40004f2e75ca1dd6"
+  dependencies:
+    bn.js "^4.11.6"
+    elliptic "^6.4.0"
+    keccakjs "^0.2.1"
+    nano-json-stream-parser "^0.1.2"
+    servify "^0.1.12"
+    ws "^3.0.0"
+    xhr-request-promise "^0.1.2"
+
+ethereum-common@0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/ethereum-common/-/ethereum-common-0.2.0.tgz#13bf966131cce1eeade62a1b434249bb4cb120ca"
+
+ethereum-common@^0.0.18:
+  version "0.0.18"
+  resolved "https://registry.yarnpkg.com/ethereum-common/-/ethereum-common-0.0.18.tgz#2fdc3576f232903358976eb39da783213ff9523f"
+
+ethereum-types@^1.0.0, ethereum-types@^1.0.11, ethereum-types@^1.0.3, ethereum-types@^1.0.4, ethereum-types@^1.0.5, ethereum-types@^1.0.8:
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/ethereum-types/-/ethereum-types-1.0.11.tgz#bfa9edef392ea51ca95e88794e5621ea8e8c7db0"
+=======
+
+eth-ens-namehash@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/eth-ens-namehash/-/eth-ens-namehash-1.0.2.tgz#05ecdd6bac2d7fd7bc5ca84a993c6bad9da4edb9"
+<<<<<<< HEAD
+  integrity sha1-Bezda6wtf9e8XKhKmTxrrZ2k7bk=
+  dependencies:
+    idna-uts46 "^1.0.1"
+    js-sha3 "^0.5.7"
+
+eth-lib@0.1.27:
+  version "0.1.27"
+  resolved "https://registry.yarnpkg.com/eth-lib/-/eth-lib-0.1.27.tgz#f0b0fd144f865d2d6bf8257a40004f2e75ca1dd6"
+  integrity sha512-B8czsfkJYzn2UIEMwjc7Mbj+Cy72V+/OXH/tb44LV8jhrjizQJJ325xMOMyk3+ETa6r6oi0jsUY14+om8mQMWA==
+  dependencies:
+    bn.js "^4.11.6"
+    elliptic "^6.4.0"
+    keccakjs "^0.2.1"
+    nano-json-stream-parser "^0.1.2"
+    servify "^0.1.12"
+    ws "^3.0.0"
+    xhr-request-promise "^0.1.2"
+
+ethereumjs-testrpc@^6.0.3:
+  version "6.0.3"
+  resolved "https://registry.yarnpkg.com/ethereumjs-testrpc/-/ethereumjs-testrpc-6.0.3.tgz#7a0b87bf3670f92f607f98fa6a78801d9741b124"
+  integrity sha512-lAxxsxDKK69Wuwqym2K49VpXtBvLEsXr1sryNG4AkvL5DomMdeCBbu3D87UEevKenLHBiT8GTjARwN6Yj039gA==
+  dependencies:
+    webpack "^3.0.0"
+
+ethjs-unit@0.1.6:
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/ethjs-unit/-/ethjs-unit-0.1.6.tgz#c665921e476e87bce2a9d588a6fe0405b2c41699"
+  integrity sha1-xmWSHkduh7ziqdWIpv4EBbLEFpk=
+  dependencies:
+    bn.js "4.11.6"
+    number-to-bn "1.7.0"
+
+event-emitter@~0.3.5:
+  version "0.3.5"
+  resolved "https://registry.yarnpkg.com/event-emitter/-/event-emitter-0.3.5.tgz#df8c69eef1647923c7157b9ce83840610b02cc39"
+  integrity sha1-34xp7vFkeSPHFXuc6DhAYQsCzDk=
+  dependencies:
+    d "1"
+    es5-ext "~0.10.14"
+
+eventemitter3@^3.0.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/eventemitter3/-/eventemitter3-3.1.0.tgz#090b4d6cdbd645ed10bf750d4b5407942d7ba163"
+  integrity sha512-ivIvhpq/Y0uSjcHDcOIccjmYjGLcP09MFGE7ysAwkAvkXfpZlC985pH2/ui64DKazbTW/4kN3yqozUxlXzI6cA==
+=======
+  dependencies:
+    idna-uts46 "^1.0.1"
+    js-sha3 "^0.5.7"
+>>>>>>> Add registerServiceWorker
 
 eth-gas-reporter@^0.1.10:
   version "0.1.12"
@@ -4322,6 +5309,193 @@ events@^1.0.0:
 eventsource@0.1.6:
   version "0.1.6"
   resolved "https://registry.yarnpkg.com/eventsource/-/eventsource-0.1.6.tgz#0acede849ed7dd1ccc32c811bb11b944d4f29232"
+>>>>>>> feature/combine-contracts
+  dependencies:
+    "@types/node" "*"
+    bignumber.js "~4.1.0"
+
+<<<<<<< HEAD
+ethereumjs-abi@0.6.5:
+  version "0.6.5"
+  resolved "https://registry.yarnpkg.com/ethereumjs-abi/-/ethereumjs-abi-0.6.5.tgz#5a637ef16ab43473fa72a29ad90871405b3f5241"
+=======
+evp_bytestokey@^1.0.0, evp_bytestokey@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/evp_bytestokey/-/evp_bytestokey-1.0.3.tgz#7fcbdb198dc71959432efe13842684e0525acb02"
+>>>>>>> feature/combine-contracts
+  dependencies:
+    bn.js "^4.10.0"
+    ethereumjs-util "^4.3.0"
+
+<<<<<<< HEAD
+ethereumjs-account@^2.0.3:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/ethereumjs-account/-/ethereumjs-account-2.0.5.tgz#eeafc62de544cb07b0ee44b10f572c9c49e00a84"
+=======
+exec-sh@^0.2.0:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/exec-sh/-/exec-sh-0.2.2.tgz#2a5e7ffcbd7d0ba2755bdecb16e5a427dfbdec36"
+>>>>>>> feature/combine-contracts
+  dependencies:
+    ethereumjs-util "^5.0.0"
+    rlp "^2.0.0"
+    safe-buffer "^5.1.1"
+
+<<<<<<< HEAD
+ethereumjs-block@^1.2.2, ethereumjs-block@~1.7.0:
+  version "1.7.1"
+  resolved "https://registry.yarnpkg.com/ethereumjs-block/-/ethereumjs-block-1.7.1.tgz#78b88e6cc56de29a6b4884ee75379b6860333c3f"
+=======
+execa@^0.10.0:
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/execa/-/execa-0.10.0.tgz#ff456a8f53f90f8eccc71a96d11bdfc7f082cb50"
+>>>>>>> feature/combine-contracts
+  dependencies:
+    async "^2.0.1"
+    ethereum-common "0.2.0"
+    ethereumjs-tx "^1.2.2"
+    ethereumjs-util "^5.0.0"
+    merkle-patricia-tree "^2.1.2"
+
+<<<<<<< HEAD
+ethereumjs-common@~0.4.0:
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/ethereumjs-common/-/ethereumjs-common-0.4.1.tgz#27690a24a817b058cc3a2aedef9392e8d7d63984"
+
+ethereumjs-testrpc@^6.0.3:
+  version "6.0.3"
+  resolved "https://registry.yarnpkg.com/ethereumjs-testrpc/-/ethereumjs-testrpc-6.0.3.tgz#7a0b87bf3670f92f607f98fa6a78801d9741b124"
+  dependencies:
+    webpack "^3.0.0"
+
+ethereumjs-tx@^1.2.0, ethereumjs-tx@^1.2.2:
+  version "1.3.7"
+  resolved "https://registry.yarnpkg.com/ethereumjs-tx/-/ethereumjs-tx-1.3.7.tgz#88323a2d875b10549b8347e09f4862b546f3d89a"
+  dependencies:
+    ethereum-common "^0.0.18"
+    ethereumjs-util "^5.0.0"
+
+ethereumjs-util@^4.3.0:
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/ethereumjs-util/-/ethereumjs-util-4.5.0.tgz#3e9428b317eebda3d7260d854fddda954b1f1bc6"
+  dependencies:
+    bn.js "^4.8.0"
+    create-hash "^1.1.2"
+    keccakjs "^0.2.0"
+    rlp "^2.0.0"
+    secp256k1 "^3.0.1"
+
+ethereumjs-util@^5.0.0, ethereumjs-util@^5.0.1, ethereumjs-util@^5.1.1, ethereumjs-util@^5.2.0:
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/ethereumjs-util/-/ethereumjs-util-5.2.0.tgz#3e0c0d1741471acf1036052d048623dee54ad642"
+  dependencies:
+    bn.js "^4.11.0"
+    create-hash "^1.1.2"
+    ethjs-util "^0.1.3"
+    keccak "^1.0.2"
+    rlp "^2.0.0"
+    safe-buffer "^5.1.1"
+    secp256k1 "^3.0.1"
+
+ethereumjs-vm@^2.0.2:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/ethereumjs-vm/-/ethereumjs-vm-2.4.0.tgz#244f1e35f2755e537a13546111d1a4c159d34b13"
+  dependencies:
+    async "^2.1.2"
+    async-eventemitter "^0.2.2"
+    ethereumjs-account "^2.0.3"
+    ethereumjs-block "~1.7.0"
+    ethereumjs-common "~0.4.0"
+    ethereumjs-util "^5.2.0"
+    fake-merkle-patricia-tree "^1.0.1"
+    functional-red-black-tree "^1.0.1"
+    merkle-patricia-tree "^2.1.2"
+    rustbn.js "~0.2.0"
+    safe-buffer "^5.1.1"
+
+ethereumjs-wallet@^0.6.0:
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/ethereumjs-wallet/-/ethereumjs-wallet-0.6.2.tgz#67244b6af3e8113b53d709124b25477b64aeccda"
+  dependencies:
+    aes-js "^3.1.1"
+    bs58check "^2.1.2"
+    ethereumjs-util "^5.2.0"
+    hdkey "^1.0.0"
+    safe-buffer "^5.1.2"
+    scrypt.js "^0.2.0"
+    utf8 "^3.0.0"
+    uuid "^3.3.2"
+
+ethers@3.0.22:
+  version "3.0.22"
+  resolved "https://registry.yarnpkg.com/ethers/-/ethers-3.0.22.tgz#7fab1ea16521705837aa43c15831877b2716b436"
+  dependencies:
+    aes-js "3.0.0"
+    bn.js "^4.4.0"
+    elliptic "6.3.3"
+    hash.js "^1.0.0"
+    inherits "2.0.1"
+    js-sha3 "0.5.7"
+    scrypt-js "2.0.3"
+    setimmediate "1.0.4"
+    uuid "2.0.1"
+    xmlhttprequest "1.8.0"
+
+ethers@4.0.0-beta.14:
+  version "4.0.0-beta.14"
+  resolved "https://registry.yarnpkg.com/ethers/-/ethers-4.0.0-beta.14.tgz#76aa9257b9c93a7604ff4dc11f2a445d07f6459d"
+  dependencies:
+    "@types/node" "^10.3.2"
+    aes-js "3.0.0"
+    bn.js "^4.4.0"
+    elliptic "6.3.3"
+    hash.js "1.1.3"
+    js-sha3 "0.5.7"
+    scrypt-js "2.0.3"
+    setimmediate "1.0.4"
+    uuid "2.0.1"
+    xmlhttprequest "1.8.0"
+
+ethjs-abi@0.1.8:
+  version "0.1.8"
+  resolved "https://registry.yarnpkg.com/ethjs-abi/-/ethjs-abi-0.1.8.tgz#cd288583ed628cdfadaf8adefa3ba1dbcbca6c18"
+  dependencies:
+    bn.js "4.11.6"
+    js-sha3 "0.5.5"
+    number-to-bn "1.7.0"
+
+ethjs-unit@0.1.6:
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/ethjs-unit/-/ethjs-unit-0.1.6.tgz#c665921e476e87bce2a9d588a6fe0405b2c41699"
+  dependencies:
+    bn.js "4.11.6"
+    number-to-bn "1.7.0"
+
+ethjs-util@^0.1.3:
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/ethjs-util/-/ethjs-util-0.1.6.tgz#f308b62f185f9fe6237132fb2a9818866a5cd536"
+  dependencies:
+    is-hex-prefixed "1.0.0"
+    strip-hex-prefix "1.0.0"
+
+event-emitter@~0.3.5:
+  version "0.3.5"
+  resolved "https://registry.yarnpkg.com/event-emitter/-/event-emitter-0.3.5.tgz#df8c69eef1647923c7157b9ce83840610b02cc39"
+  dependencies:
+    d "1"
+    es5-ext "~0.10.14"
+
+eventemitter3@^3.0.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/eventemitter3/-/eventemitter3-3.1.0.tgz#090b4d6cdbd645ed10bf750d4b5407942d7ba163"
+
+events@^1.0.0:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/events/-/events-1.1.1.tgz#9ebdb7635ad099c70dcc4c2a1f5004288e8bd924"
+
+eventsource@0.1.6:
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/eventsource/-/eventsource-0.1.6.tgz#0acede849ed7dd1ccc32c811bb11b944d4f29232"
   dependencies:
     original ">=0.0.5"
 
@@ -4365,6 +5539,11 @@ execa@^0.7.0:
 execa@^0.9.0:
   version "0.9.0"
   resolved "https://registry.yarnpkg.com/execa/-/execa-0.9.0.tgz#adb7ce62cf985071f60580deb4a88b9e34712d01"
+=======
+execa@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/execa/-/execa-0.7.0.tgz#944becd34cc41ee32a63a9faf27ad5a65fc59777"
+>>>>>>> feature/combine-contracts
   dependencies:
     cross-spawn "^5.0.1"
     get-stream "^3.0.0"
@@ -4374,6 +5553,21 @@ execa@^0.9.0:
     signal-exit "^3.0.0"
     strip-eof "^1.0.0"
 
+<<<<<<< HEAD
+=======
+execa@^0.9.0:
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/execa/-/execa-0.9.0.tgz#adb7ce62cf985071f60580deb4a88b9e34712d01"
+  dependencies:
+    cross-spawn "^5.0.1"
+    get-stream "^3.0.0"
+    is-stream "^1.1.0"
+    npm-run-path "^2.0.0"
+    p-finally "^1.0.0"
+    signal-exit "^3.0.0"
+    strip-eof "^1.0.0"
+
+>>>>>>> feature/combine-contracts
 exit-hook@^1.0.0:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/exit-hook/-/exit-hook-1.1.1.tgz#f05ca233b48c05d54fff07765df8507e95c02ff8"
@@ -4557,6 +5751,13 @@ fb-watchman@^2.0.0:
 fbjs@^0.8.0:
   version "0.8.17"
   resolved "https://registry.yarnpkg.com/fbjs/-/fbjs-0.8.17.tgz#c4d598ead6949112653d6588b01a5cdcd9f90fdd"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-xNWY6taUkRJlPWWIsBpc3Nn5D90=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     core-js "^1.0.0"
     isomorphic-fetch "^2.1.1"
@@ -4670,10 +5871,20 @@ find-cache-dir@^2.0.0:
 find-npm-prefix@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/find-npm-prefix/-/find-npm-prefix-1.0.2.tgz#8d8ce2c78b3b4b9e66c8acc6a37c231eb841cfdf"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-KEftzJ+H90x6pcKtdXZEPsQse8/y/UnvzRKrOSQFprnrGaFuJ62fVkP34Iu2IYuMvyauCyoLTNkJZgrrGA2wkA==
+=======
+>>>>>>> feature/combine-contracts
 
 find-parent-dir@^0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/find-parent-dir/-/find-parent-dir-0.3.0.tgz#33c44b429ab2b2f0646299c5f9f718f376ff8d54"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 find-up@3.0.0, find-up@^3.0.0:
   version "3.0.0"
@@ -4720,9 +5931,22 @@ follow-redirects@^1.0.0:
   dependencies:
     debug "=3.1.0"
 
+<<<<<<< HEAD
 for-each@^0.3.2, for-each@~0.3.3:
   version "0.3.3"
   resolved "https://registry.yarnpkg.com/for-each/-/for-each-0.3.3.tgz#69b447e88a0a5d32c3e7084f3f1710034b21376e"
+=======
+<<<<<<< HEAD
+for-each@^0.3.2:
+  version "0.3.3"
+  resolved "https://registry.yarnpkg.com/for-each/-/for-each-0.3.3.tgz#69b447e88a0a5d32c3e7084f3f1710034b21376e"
+  integrity sha512-jqYfLp7mo9vIyQf8ykW2v7A+2N4QjeCeI5+Dz9XraiO1ign81wjiH7Fb9vSOWvQfNtmSa4H2RoQTrrXivdUZmw==
+=======
+for-each@^0.3.2, for-each@~0.3.3:
+  version "0.3.3"
+  resolved "https://registry.yarnpkg.com/for-each/-/for-each-0.3.3.tgz#69b447e88a0a5d32c3e7084f3f1710034b21376e"
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     is-callable "^1.1.3"
 
@@ -4761,6 +5985,13 @@ form-data@^2.2.0, form-data@~2.3.2:
 formik@^1.0.3:
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/formik/-/formik-1.3.1.tgz#ff2bb4c0144585297cf9a371081326e8d816fe6f"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-cOTpwP4vy8bj7HhEGC2IWFFhsztBlZOJoTRgGa64NxcM30rV15ub5nTliQA3Vs8vqWSlGEc6k67SR8YZIV7pew==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     create-react-context "^0.2.2"
     deepmerge "^2.1.1"
@@ -4792,6 +6023,17 @@ from2@^1.3.0:
   dependencies:
     inherits "~2.0.1"
     readable-stream "~1.1.10"
+<<<<<<< HEAD
+=======
+
+from2@^1.3.0:
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/from2/-/from2-1.3.0.tgz#88413baaa5f9a597cfde9221d86986cd3c061dfd"
+  integrity sha1-iEE7qqX5pZfP3pIh2GmGzTwGHf0=
+  dependencies:
+    inherits "~2.0.1"
+    readable-stream "~1.1.10"
+>>>>>>> feature/combine-contracts
 
 from2@^2.1.0:
   version "2.3.0"
@@ -4811,6 +6053,13 @@ fs-extra@7.0.0, fs-extra@^7.0.0:
 fs-extra@^0.30.0:
   version "0.30.0"
   resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-0.30.0.tgz#f233ffcc08d4da7d432daa449776989db1df93f0"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-8jP/zAjU2n1DLapEl3aYnbHfk/A=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     graceful-fs "^4.1.2"
     jsonfile "^2.1.0"
@@ -4843,6 +6092,13 @@ fs-minipass@^1.2.5:
 fs-vacuum@^1.2.10, fs-vacuum@~1.2.10:
   version "1.2.10"
   resolved "https://registry.yarnpkg.com/fs-vacuum/-/fs-vacuum-1.2.10.tgz#b7629bec07a4031a2548fdf99f5ecf1cc8b31e36"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-t2Kb7AekAxolSP35n17PHMizHjY=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     graceful-fs "^4.1.2"
     path-is-inside "^1.0.1"
@@ -4871,13 +6127,28 @@ fsevents@1.2.4, fsevents@^1.0.0, fsevents@^1.2.2, fsevents@^1.2.3:
 fstream@^1.0.0, fstream@^1.0.2:
   version "1.0.11"
   resolved "https://registry.yarnpkg.com/fstream/-/fstream-1.0.11.tgz#5c1fb1f117477114f0632a0eb4b71b3cb0fd3171"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-XB+x8RdHcRTwYyoOtLcbPLD9MXE=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     graceful-fs "^4.1.2"
     inherits "~2.0.0"
     mkdirp ">=0.5 0"
     rimraf "2"
 
+<<<<<<< HEAD
 function-bind@^1.0.2, function-bind@^1.1.0, function-bind@^1.1.1, function-bind@~1.1.1:
+=======
+<<<<<<< HEAD
+function-bind@^1.1.0, function-bind@^1.1.1:
+=======
+function-bind@^1.0.2, function-bind@^1.1.0, function-bind@^1.1.1, function-bind@~1.1.1:
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/function-bind/-/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
 
@@ -4890,6 +6161,16 @@ ganache-cli@^6.1.0:
   resolved "https://registry.yarnpkg.com/ganache-cli/-/ganache-cli-6.1.8.tgz#49a8a331683a9652183f82ef1378d17e1814fcd3"
   dependencies:
     source-map-support "^0.5.3"
+<<<<<<< HEAD
+=======
+
+ganache-cli@^6.1.0:
+  version "6.1.8"
+  resolved "https://registry.yarnpkg.com/ganache-cli/-/ganache-cli-6.1.8.tgz#49a8a331683a9652183f82ef1378d17e1814fcd3"
+  integrity sha512-yXzteu4SIgUL31mnpm9j+x6dpHUw0p/nsRVkcySKq0w+1vDxH9jMErP1QhZAJuTVE6ni4nfvGSNkaQx5cD3jfg==
+  dependencies:
+    source-map-support "^0.5.3"
+>>>>>>> feature/combine-contracts
 
 gauge@~2.7.3:
   version "2.7.4"
@@ -4907,10 +6188,24 @@ gauge@~2.7.3:
 genfun@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/genfun/-/genfun-4.0.1.tgz#ed10041f2e4a7f1b0a38466d17a5c3e27df1dfc1"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-7RAEHy5KfxsKOEZtF6XD4n3x38E=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 gentle-fs@^2.0.0, gentle-fs@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/gentle-fs/-/gentle-fs-2.0.1.tgz#585cfd612bfc5cd52471fdb42537f016a5ce3687"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-cEng5+3fuARewXktTEGbwsktcldA+YsnUEaXZwcK/3pjSE1X9ObnTs+/8rYf8s+RnIcQm2D5x3rwpN7Zom8Bew==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     aproba "^1.1.2"
     fs-vacuum "^1.2.10"
@@ -4974,6 +6269,13 @@ glob-parent@^3.1.0:
 glob@7.1.2:
   version "7.1.2"
   resolved "https://registry.yarnpkg.com/glob/-/glob-7.1.2.tgz#c19c9df9a028702d678612384a6552404c636d15"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-MJTUg1kjuLeQCJ+ccE4Vpa6kKVXkPYJ2mOCQyUuKLcLQsdrMCpBPUi8qVE6+YuaJkozeA9NusTAw3hLr8Xe5EQ==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     fs.realpath "^1.0.0"
     inflight "^1.0.4"
@@ -4982,7 +6284,15 @@ glob@7.1.2:
     once "^1.3.0"
     path-is-absolute "^1.0.0"
 
+<<<<<<< HEAD
 glob@^7.0.0, glob@^7.0.3, glob@^7.0.5, glob@^7.1.1, glob@^7.1.2, glob@~7.1.2:
+=======
+<<<<<<< HEAD
+glob@^7.0.3, glob@^7.0.5, glob@^7.1.1, glob@^7.1.2, glob@~7.1.2:
+=======
+glob@^7.0.0, glob@^7.0.3, glob@^7.0.5, glob@^7.1.1, glob@^7.1.2, glob@~7.1.2:
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   version "7.1.3"
   resolved "https://registry.yarnpkg.com/glob/-/glob-7.1.3.tgz#3960832d3f1574108342dafd3a67b332c0969df1"
   dependencies:
@@ -4996,6 +6306,13 @@ glob@^7.0.0, glob@^7.0.3, glob@^7.0.5, glob@^7.1.1, glob@^7.1.2, glob@~7.1.2:
 global-dirs@^0.1.0:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/global-dirs/-/global-dirs-0.1.1.tgz#b319c0dd4607f353f3be9cca4c72fc148c49f445"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-sxnA3UYH81PzvpzKTHL8FIxJ9EU=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     ini "^1.3.4"
 
@@ -5020,6 +6337,13 @@ global-prefix@^1.0.1:
 global@~4.3.0:
   version "4.3.2"
   resolved "https://registry.yarnpkg.com/global/-/global-4.3.2.tgz#e76989268a6c74c38908b1305b10fc0e394e9d0f"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-52mJJopsdMOJCLEwWxD8DjlOnQ8=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     min-document "^2.19.0"
     process "~0.5.1"
@@ -5055,7 +6379,16 @@ globby@^6.1.0:
 
 got@^6.7.1:
   version "6.7.1"
+<<<<<<< HEAD
   resolved "http://registry.npmjs.org/got/-/got-6.7.1.tgz#240cd05785a9a18e561dc1b44b41c763ef1e8db0"
+=======
+<<<<<<< HEAD
+  resolved "https://registry.yarnpkg.com/got/-/got-6.7.1.tgz#240cd05785a9a18e561dc1b44b41c763ef1e8db0"
+  integrity sha1-JAzQV4WpoY5WHcG0S0HHY+8ejbA=
+=======
+  resolved "http://registry.npmjs.org/got/-/got-6.7.1.tgz#240cd05785a9a18e561dc1b44b41c763ef1e8db0"
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     create-error-class "^3.0.0"
     duplexer3 "^0.1.4"
@@ -5076,6 +6409,14 @@ graceful-fs@^4.1.11, graceful-fs@^4.1.2, graceful-fs@^4.1.6, graceful-fs@^4.1.9,
 growl@1.10.3:
   version "1.10.3"
   resolved "https://registry.yarnpkg.com/growl/-/growl-1.10.3.tgz#1926ba90cf3edfe2adb4927f5880bc22c66c790f"
+<<<<<<< HEAD
+=======
+
+growl@1.10.3:
+  version "1.10.3"
+  resolved "https://registry.yarnpkg.com/growl/-/growl-1.10.3.tgz#1926ba90cf3edfe2adb4927f5880bc22c66c790f"
+  integrity sha512-hKlsbA5Vu3xsh1Cg3J7jSmX/WaW6A5oBeqzM88oNbCRQFz+zUaXm6yxS4RVytp1scBoJzSYl4YAEOQIt6O8V1Q==
+>>>>>>> feature/combine-contracts
 
 growly@^1.3.0:
   version "1.3.0"
@@ -5084,6 +6425,14 @@ growly@^1.3.0:
 gud@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/gud/-/gud-1.0.0.tgz#a489581b17e6a70beca9abe3ae57de7a499852c0"
+<<<<<<< HEAD
+=======
+
+gud@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/gud/-/gud-1.0.0.tgz#a489581b17e6a70beca9abe3ae57de7a499852c0"
+  integrity sha512-zGEOVKFM5sVPPrYs7J5/hYEw2Pof8KCyOwyhG8sAF26mCAeUFAcYPu1mwB7hhpIP29zOIBaDqwuHdLp0jvZXjw==
+>>>>>>> feature/combine-contracts
 
 gzip-size@5.0.0:
   version "5.0.0"
@@ -5171,6 +6520,14 @@ has-flag@^1.0.0:
 has-flag@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-2.0.0.tgz#e8207af1cc7b30d446cc70b734b5e8be18f88d51"
+<<<<<<< HEAD
+=======
+
+has-flag@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-2.0.0.tgz#e8207af1cc7b30d446cc70b734b5e8be18f88d51"
+  integrity sha1-6CB68cx7MNRGzHC3NLXovhj4jVE=
+>>>>>>> feature/combine-contracts
 
 has-flag@^3.0.0:
   version "3.0.0"
@@ -5238,6 +6595,11 @@ hash.js@^1.0.0, hash.js@^1.0.3:
     inherits "^2.0.3"
     minimalistic-assert "^1.0.1"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> feature/combine-contracts
 hdkey@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/hdkey/-/hdkey-1.1.0.tgz#e74e7b01d2c47f797fa65d1d839adb7a44639f29"
@@ -5246,6 +6608,10 @@ hdkey@^1.0.0:
     safe-buffer "^5.1.1"
     secp256k1 "^3.0.1"
 
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 he@1.1.1, he@1.1.x:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/he/-/he-1.1.1.tgz#93410fd21b009735151f8868c2f271f3427e23fd"
@@ -5256,6 +6622,17 @@ header-case@^1.0.0:
   dependencies:
     no-case "^2.2.0"
     upper-case "^1.1.3"
+<<<<<<< HEAD
+=======
+
+header-case@^1.0.0:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/header-case/-/header-case-1.0.1.tgz#9535973197c144b09613cd65d317ef19963bd02d"
+  integrity sha1-lTWXMZfBRLCWE81l0xfvGZY70C0=
+  dependencies:
+    no-case "^2.2.0"
+    upper-case "^1.1.3"
+>>>>>>> feature/combine-contracts
 
 hex-color-regex@^1.1.0:
   version "1.1.0"
@@ -5276,6 +6653,14 @@ hoek@4.x.x:
 hoist-non-react-statics@^2.5.5:
   version "2.5.5"
   resolved "https://registry.yarnpkg.com/hoist-non-react-statics/-/hoist-non-react-statics-2.5.5.tgz#c5903cf409c0dfd908f388e619d86b9c1174cb47"
+<<<<<<< HEAD
+=======
+
+hoist-non-react-statics@^2.5.5:
+  version "2.5.5"
+  resolved "https://registry.yarnpkg.com/hoist-non-react-statics/-/hoist-non-react-statics-2.5.5.tgz#c5903cf409c0dfd908f388e619d86b9c1174cb47"
+  integrity sha512-rqcy4pJo55FTTLWt+bU8ukscqHeE/e9KWvsOW2b/a3afxQZhwkQdT1rPPCJ0rYXdj4vNcasY8zHTH+jF/qStxw==
+>>>>>>> feature/combine-contracts
 
 home-or-tmp@^2.0.0:
   version "2.0.0"
@@ -5362,6 +6747,15 @@ htmlparser2@~3.3.0:
     domutils "1.1"
     readable-stream "1.0"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+http-cache-semantics@^3.8.0, http-cache-semantics@^3.8.1:
+  version "3.8.1"
+  resolved "https://registry.yarnpkg.com/http-cache-semantics/-/http-cache-semantics-3.8.1.tgz#39b0e16add9b605bf0a9ef3d9daaf4843b4cacd2"
+  integrity sha512-5ai2iksyV8ZXmnZhHH4rWPoxxistEexSi5936zIQ1bnNTW5VnA85B6P/VpXiRM017IgRvb2kKo1a//y+0wSp3w==
+=======
+>>>>>>> feature/combine-contracts
 http-basic@^7.0.0:
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/http-basic/-/http-basic-7.0.0.tgz#82f0a506be942732ec8deebee80e746ef5736dba"
@@ -5376,6 +6770,10 @@ http-basic@^7.0.0:
 http-cache-semantics@^3.8.0, http-cache-semantics@^3.8.1:
   version "3.8.1"
   resolved "https://registry.yarnpkg.com/http-cache-semantics/-/http-cache-semantics-3.8.1.tgz#39b0e16add9b605bf0a9ef3d9daaf4843b4cacd2"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 http-deceiver@^1.2.7:
   version "1.2.7"
@@ -5409,6 +6807,17 @@ http-proxy-agent@^2.0.0, http-proxy-agent@^2.1.0:
   dependencies:
     agent-base "4"
     debug "3.1.0"
+<<<<<<< HEAD
+=======
+
+http-proxy-agent@^2.0.0, http-proxy-agent@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/http-proxy-agent/-/http-proxy-agent-2.1.0.tgz#e4821beef5b2142a2026bd73926fe537631c5405"
+  integrity sha512-qwHbBLV7WviBl0rQsOzH6o5lwyOIvwp/BdFnvVxXORldu5TmjFfjzBcWUWS5kWAZhmv+JtiDhSuQCp4sBfbIgg==
+  dependencies:
+    agent-base "4"
+    debug "3.1.0"
+>>>>>>> feature/combine-contracts
 
 http-proxy-middleware@~0.18.0:
   version "0.18.0"
@@ -5444,6 +6853,7 @@ http-signature@~1.2.0:
 https-browserify@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/https-browserify/-/https-browserify-1.0.0.tgz#ec06c10e0a34c0f2faf199f7fd7fc78fffd03c73"
+<<<<<<< HEAD
 
 https-proxy-agent@^2.1.0, https-proxy-agent@^2.2.0, https-proxy-agent@^2.2.1:
   version "2.2.1"
@@ -5473,6 +6883,56 @@ iconv-lite@0.4.19:
 iconv-lite@0.4.23:
   version "0.4.23"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.23.tgz#297871f63be507adcfbfca715d0cd0eed84e9a63"
+=======
+
+https-proxy-agent@^2.1.0, https-proxy-agent@^2.2.0, https-proxy-agent@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/https-proxy-agent/-/https-proxy-agent-2.2.1.tgz#51552970fa04d723e04c56d04178c3f92592bbc0"
+  dependencies:
+    agent-base "^4.1.0"
+    debug "^3.1.0"
+
+humanize-ms@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/humanize-ms/-/humanize-ms-1.2.1.tgz#c46e3159a293f6b896da29316d8b6fe8bb79bbed"
+  dependencies:
+    ms "^2.0.0"
+
+husky@^0.14.3:
+  version "0.14.3"
+  resolved "https://registry.yarnpkg.com/husky/-/husky-0.14.3.tgz#c69ed74e2d2779769a17ba8399b54ce0b63c12c3"
+  dependencies:
+    is-ci "^1.0.10"
+    normalize-path "^1.0.0"
+    strip-indent "^2.0.0"
+
+https-proxy-agent@^2.1.0, https-proxy-agent@^2.2.0, https-proxy-agent@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/https-proxy-agent/-/https-proxy-agent-2.2.1.tgz#51552970fa04d723e04c56d04178c3f92592bbc0"
+  integrity sha512-HPCTS1LW51bcyMYbxUIOO4HEOlQ1/1qRaFWcyxvwaqUS9TY88aoEuHUY33kuAh1YhVVaDQhLZsnPd+XNARWZlQ==
+  dependencies:
+    agent-base "^4.1.0"
+    debug "^3.1.0"
+
+humanize-ms@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/humanize-ms/-/humanize-ms-1.2.1.tgz#c46e3159a293f6b896da29316d8b6fe8bb79bbed"
+  integrity sha1-xG4xWaKT9riW2ikxbYtv6Lt5u+0=
+  dependencies:
+    ms "^2.0.0"
+
+iconv-lite@0.4.19:
+  version "0.4.19"
+  resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.19.tgz#f7468f60135f5e5dad3399c0a81be9a1603a082b"
+
+iconv-lite@0.4.23:
+  version "0.4.23"
+  resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.23.tgz#297871f63be507adcfbfca715d0cd0eed84e9a63"
+<<<<<<< HEAD
+  integrity sha512-neyTUVFtahjf0mB3dZT77u+8O0QB89jFdnBkd5P1JgYPbPaia3gXXOVL2fq8VyU2gMMD7SaN7QukTB/pmXYvDA==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     safer-buffer ">= 2.1.2 < 3"
 
@@ -5501,6 +6961,13 @@ identity-obj-proxy@3.0.0:
 idna-uts46@^1.0.1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/idna-uts46/-/idna-uts46-1.1.0.tgz#be098b2b7c1cabfbef87a8b80f626fac37366aea"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-vgmLK3wcq/vvh6i4D2JvrDc2auo=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     punycode "^2.1.0"
 
@@ -5541,6 +7008,13 @@ import-from@^2.1.0:
 import-lazy@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/import-lazy/-/import-lazy-2.1.0.tgz#05698e3d45c88e8d7e9d92cb0584e77f096f3e43"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-BWmOPUXIjo1+nZLLBYTnfwlvPkM=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 import-local@^1.0.0:
   version "1.0.0"
@@ -5603,6 +7077,23 @@ init-package-json@^1.10.3:
     semver "2.x || 3.x || 4 || 5"
     validate-npm-package-license "^3.0.1"
     validate-npm-package-name "^3.0.0"
+<<<<<<< HEAD
+=======
+
+init-package-json@^1.10.3:
+  version "1.10.3"
+  resolved "https://registry.yarnpkg.com/init-package-json/-/init-package-json-1.10.3.tgz#45ffe2f610a8ca134f2bd1db5637b235070f6cbe"
+  integrity sha512-zKSiXKhQveNteyhcj1CoOP8tqp1QuxPIPBl8Bid99DGLFqA1p87M6lNgfjJHSBoWJJlidGOv5rWjyYKEB3g2Jw==
+  dependencies:
+    glob "^7.1.1"
+    npm-package-arg "^4.0.0 || ^5.0.0 || ^6.0.0"
+    promzard "^0.3.0"
+    read "~1.0.1"
+    read-package-json "1 || 2"
+    semver "2.x || 3.x || 4 || 5"
+    validate-npm-package-license "^3.0.1"
+    validate-npm-package-name "^3.0.0"
+>>>>>>> feature/combine-contracts
 
 inquirer@6.2.0, inquirer@^6.1.0:
   version "6.2.0"
@@ -5632,6 +7123,13 @@ internal-ip@^3.0.1:
 interpret@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/interpret/-/interpret-1.1.0.tgz#7ed1b1410c6a0e0f78cf95d3b8440c63f78b8614"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-ftGxQQxqDg94z5XTuEQMY/eLhhQ=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 invariant@^2.2.0, invariant@^2.2.2, invariant@^2.2.4:
   version "2.2.4"
@@ -5715,7 +7213,16 @@ is-ci@^1.0.10:
 
 is-cidr@~1.0.0:
   version "1.0.0"
+<<<<<<< HEAD
   resolved "http://registry.npmjs.org/is-cidr/-/is-cidr-1.0.0.tgz#fb5aacf659255310359da32cae03e40c6a1c2afc"
+=======
+<<<<<<< HEAD
+  resolved "https://registry.yarnpkg.com/is-cidr/-/is-cidr-1.0.0.tgz#fb5aacf659255310359da32cae03e40c6a1c2afc"
+  integrity sha1-+1qs9lklUxA1naMsrgPkDGocKvw=
+=======
+  resolved "http://registry.npmjs.org/is-cidr/-/is-cidr-1.0.0.tgz#fb5aacf659255310359da32cae03e40c6a1c2afc"
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     cidr-regex "1.0.6"
 
@@ -5813,6 +7320,14 @@ is-fullwidth-code-point@^2.0.0:
 is-function@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/is-function/-/is-function-1.0.1.tgz#12cfb98b65b57dd3d193a3121f5f6e2f437602b5"
+<<<<<<< HEAD
+=======
+
+is-function@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/is-function/-/is-function-1.0.1.tgz#12cfb98b65b57dd3d193a3121f5f6e2f437602b5"
+  integrity sha1-Es+5i2W1fdPRk6MSH19uL0N2ArU=
+>>>>>>> feature/combine-contracts
 
 is-generator-fn@^1.0.0:
   version "1.0.0"
@@ -5839,10 +7354,24 @@ is-glob@^4.0.0:
 is-hex-prefixed@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/is-hex-prefixed/-/is-hex-prefixed-1.0.0.tgz#7d8d37e6ad77e5d127148913c573e082d777f554"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-fY035q135dEnFIkTxXPggtd39VQ=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 is-installed-globally@^0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/is-installed-globally/-/is-installed-globally-0.1.0.tgz#0dfd98f5a9111716dd535dda6492f67bf3d25a80"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-Df2Y9akRFxbdU13aZJL2e/PSWoA=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     global-dirs "^0.1.0"
     is-path-inside "^1.0.0"
@@ -5850,12 +7379,26 @@ is-installed-globally@^0.1.0:
 is-lower-case@^1.1.0:
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/is-lower-case/-/is-lower-case-1.1.3.tgz#7e147be4768dc466db3bfb21cc60b31e6ad69393"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-fhR75HaNxGbbO/shzGCzHmrWk5M=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     lower-case "^1.1.0"
 
 is-npm@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/is-npm/-/is-npm-1.0.0.tgz#f2fb63a65e4905b406c86072765a1a4dc793b9f4"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-8vtjpl5JBbQGyGBydloaTceTufQ=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 is-number@^2.1.0:
   version "2.1.0"
@@ -5920,6 +7463,14 @@ is-promise@^2.1.0:
 is-redirect@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/is-redirect/-/is-redirect-1.0.0.tgz#1d03dded53bd8db0f30c26e4f95d36fc7c87dc24"
+<<<<<<< HEAD
+=======
+
+is-redirect@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/is-redirect/-/is-redirect-1.0.0.tgz#1d03dded53bd8db0f30c26e4f95d36fc7c87dc24"
+  integrity sha1-HQPd7VO9jbDzDCbk+V02/HyH3CQ=
+>>>>>>> feature/combine-contracts
 
 is-regex@^1.0.4:
   version "1.0.4"
@@ -5938,6 +7489,14 @@ is-resolvable@^1.0.0, is-resolvable@^1.1.0:
 is-retry-allowed@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/is-retry-allowed/-/is-retry-allowed-1.1.0.tgz#11a060568b67339444033d0125a61a20d564fb34"
+<<<<<<< HEAD
+=======
+
+is-retry-allowed@^1.0.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/is-retry-allowed/-/is-retry-allowed-1.1.0.tgz#11a060568b67339444033d0125a61a20d564fb34"
+  integrity sha1-EaBgVotnM5REAz0BJaYaINVk+zQ=
+>>>>>>> feature/combine-contracts
 
 is-root@2.0.0:
   version "2.0.0"
@@ -5962,6 +7521,19 @@ is-symbol@^1.0.2:
 is-typedarray@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/is-typedarray/-/is-typedarray-1.0.0.tgz#e479c80858df0c1b11ddda6940f96011fcda4a9a"
+<<<<<<< HEAD
+=======
+
+is-upper-case@^1.1.0:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/is-upper-case/-/is-upper-case-1.1.2.tgz#8d0b1fa7e7933a1e58483600ec7d9661cbaf756f"
+<<<<<<< HEAD
+  integrity sha1-jQsfp+eTOh5YSDYA7H2WYcuvdW8=
+=======
+>>>>>>> Add registerServiceWorker
+  dependencies:
+    upper-case "^1.1.0"
+>>>>>>> feature/combine-contracts
 
 is-upper-case@^1.1.0:
   version "1.1.2"
@@ -6015,6 +7587,17 @@ isomorphic-fetch@^2.1.1, isomorphic-fetch@^2.2.0, isomorphic-fetch@^2.2.1:
   dependencies:
     node-fetch "^1.0.1"
     whatwg-fetch ">=0.10.0"
+<<<<<<< HEAD
+=======
+
+isomorphic-fetch@^2.1.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/isomorphic-fetch/-/isomorphic-fetch-2.2.1.tgz#611ae1acf14f5e81f729507472819fe9733558a9"
+  integrity sha1-YRrhrPFPXoH3KVB0coGf6XM1WKk=
+  dependencies:
+    node-fetch "^1.0.1"
+    whatwg-fetch ">=0.10.0"
+>>>>>>> feature/combine-contracts
 
 isstream@~0.1.2:
   version "0.1.2"
@@ -6408,6 +7991,19 @@ js-sha3@^0.7.0:
 js-string-escape@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/js-string-escape/-/js-string-escape-1.0.1.tgz#e2625badbc0d67c7533e9edc1068c587ae4137ef"
+<<<<<<< HEAD
+=======
+
+js-sha3@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/js-sha3/-/js-sha3-0.3.1.tgz#86122802142f0828502a0d1dee1d95e253bb0243"
+  integrity sha1-hhIoAhQvCChQKg0d7h2V4lO7AkM=
+
+js-sha3@^0.5.7:
+  version "0.5.7"
+  resolved "https://registry.yarnpkg.com/js-sha3/-/js-sha3-0.5.7.tgz#0d4ffd8002d5333aabaf4a23eed2f6374c9f28e7"
+  integrity sha1-DU/9gALVMzqrr0oj7tL2N0yfKOc=
+>>>>>>> feature/combine-contracts
 
 js-tokens@^3.0.0, js-tokens@^3.0.2:
   version "3.0.2"
@@ -6504,6 +8100,13 @@ jsesc@~0.5.0:
 json-loader@^0.5.4:
   version "0.5.7"
   resolved "https://registry.yarnpkg.com/json-loader/-/json-loader-0.5.7.tgz#dca14a70235ff82f0ac9a3abeb60d337a365185d"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-QLPs8Dj7lnf3e3QYS1zkCo+4ZwqOiF9d/nZnYozTISxXWCfNs9yuky5rJw4/W34s7POaNlbZmQGaB5NiXCbP4w==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 json-parse-better-errors@^1.0.0, json-parse-better-errors@^1.0.1, json-parse-better-errors@^1.0.2:
   version "1.0.2"
@@ -6540,6 +8143,16 @@ json-text-sequence@^0.1:
   resolved "https://registry.yarnpkg.com/json-text-sequence/-/json-text-sequence-0.1.1.tgz#a72f217dc4afc4629fff5feb304dc1bd51a2f3d2"
   dependencies:
     delimit-stream "0.1.0"
+<<<<<<< HEAD
+=======
+
+json-text-sequence@^0.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/json-text-sequence/-/json-text-sequence-0.1.1.tgz#a72f217dc4afc4629fff5feb304dc1bd51a2f3d2"
+  integrity sha1-py8hfcSvxGKf/1/rME3BvVGi89I=
+  dependencies:
+    delimit-stream "0.1.0"
+>>>>>>> feature/combine-contracts
 
 json3@^3.3.2:
   version "3.3.2"
@@ -6554,6 +8167,16 @@ jsonfile@^2.1.0:
   resolved "http://registry.npmjs.org/jsonfile/-/jsonfile-2.4.0.tgz#3736a2b428b87bbda0cc83b53fa3d633a35c2ae8"
   optionalDependencies:
     graceful-fs "^4.1.6"
+<<<<<<< HEAD
+=======
+
+jsonfile@^2.1.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/jsonfile/-/jsonfile-2.4.0.tgz#3736a2b428b87bbda0cc83b53fa3d633a35c2ae8"
+  integrity sha1-NzaitCi4e72gzIO1P6PWM6NcKug=
+  optionalDependencies:
+    graceful-fs "^4.1.6"
+>>>>>>> feature/combine-contracts
 
 jsonfile@^4.0.0:
   version "4.0.0"
@@ -6572,6 +8195,14 @@ jsonparse@^1.2.0:
 jsonschema@^1.2.0, jsonschema@^1.2.4:
   version "1.2.4"
   resolved "https://registry.yarnpkg.com/jsonschema/-/jsonschema-1.2.4.tgz#a46bac5d3506a254465bc548876e267c6d0d6464"
+<<<<<<< HEAD
+=======
+
+jsonparse@^1.2.0:
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/jsonparse/-/jsonparse-1.3.1.tgz#3f4dae4a91fac315f71062f8521cc239f1366280"
+  integrity sha1-P02uSpH6wxX3EGL4UhzCOfE2YoA=
+>>>>>>> feature/combine-contracts
 
 jsprim@^1.2.2:
   version "1.4.1"
@@ -6588,6 +8219,15 @@ jsx-ast-utils@^2.0.1:
   dependencies:
     array-includes "^3.0.3"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+keccakjs@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/keccakjs/-/keccakjs-0.2.1.tgz#1d633af907ef305bbf9f2fa616d56c44561dfa4d"
+  integrity sha1-HWM6+QfvMFu/ny+mFtVsRFYd+k0=
+=======
+>>>>>>> feature/combine-contracts
 keccak@^1.0.2:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/keccak/-/keccak-1.4.0.tgz#572f8a6dbee8e7b3aa421550f9e6408ca2186f80"
@@ -6600,6 +8240,10 @@ keccak@^1.0.2:
 keccakjs@^0.2.0, keccakjs@^0.2.1:
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/keccakjs/-/keccakjs-0.2.1.tgz#1d633af907ef305bbf9f2fa616d56c44561dfa4d"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     browserify-sha3 "^0.0.1"
     sha3 "^1.1.0"
@@ -6639,6 +8283,16 @@ klaw@^1.0.0:
   resolved "https://registry.yarnpkg.com/klaw/-/klaw-1.3.1.tgz#4088433b46b3b1ba259d78785d8e96f73ba02439"
   optionalDependencies:
     graceful-fs "^4.1.9"
+<<<<<<< HEAD
+=======
+
+klaw@^1.0.0:
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/klaw/-/klaw-1.3.1.tgz#4088433b46b3b1ba259d78785d8e96f73ba02439"
+  integrity sha1-QIhDO0azsbolnXh4XY6W9zugJDk=
+  optionalDependencies:
+    graceful-fs "^4.1.9"
+>>>>>>> feature/combine-contracts
 
 kleur@^2.0.1:
   version "2.0.2"
@@ -6654,6 +8308,13 @@ last-call-webpack-plugin@^3.0.0:
 latest-version@^3.0.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/latest-version/-/latest-version-3.1.0.tgz#a205383fea322b33b5ae3b18abee0dc2f356ee15"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-ogU4P+oyKzO1rjsYq+4NwvNW7hU=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     package-json "^4.0.0"
 
@@ -6668,6 +8329,14 @@ lazy-cache@^1.0.3:
 lazy-property@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/lazy-property/-/lazy-property-1.0.0.tgz#84ddc4b370679ba8bd4cdcfa4c06b43d57111147"
+<<<<<<< HEAD
+=======
+
+lazy-property@~1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/lazy-property/-/lazy-property-1.0.0.tgz#84ddc4b370679ba8bd4cdcfa4c06b43d57111147"
+  integrity sha1-hN3Es3Bnm6i9TNz6TAa0PVcREUc=
+>>>>>>> feature/combine-contracts
 
 lcid@^1.0.0:
   version "1.0.0"
@@ -6743,6 +8412,13 @@ levn@^0.3.0, levn@~0.3.0:
 libcipm@^1.6.2:
   version "1.6.3"
   resolved "https://registry.yarnpkg.com/libcipm/-/libcipm-1.6.3.tgz#dc4052d710941547782d85bbdb3c77eedec733ff"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-WUEjQk1aZDECb2MFnAbx6o7sJbBJWrWwt9rbinOmpc0cLKWgYJOvKNqCUN3sl2P9LFqPsnVT4Aj5SPw4/xKI5A==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     bin-links "^1.1.2"
     bluebird "^3.5.1"
@@ -6761,6 +8437,13 @@ libcipm@^1.6.2:
 libnpx@^10.2.0:
   version "10.2.0"
   resolved "https://registry.yarnpkg.com/libnpx/-/libnpx-10.2.0.tgz#1bf4a1c9f36081f64935eb014041da10855e3102"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-X28coei8/XRCt15cYStbLBph+KGhFra4VQhRBPuH/HHMkC5dxM8v24RVgUsvODKCrUZ0eTgiTqJp6zbl0sskQQ==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     dotenv "^5.0.1"
     npm-package-arg "^6.0.0"
@@ -6774,6 +8457,13 @@ libnpx@^10.2.0:
 link_token@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/link_token/-/link_token-1.0.1.tgz#3dbe1f8f5d17b82cd4b4c4bb59b7764840490f5b"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-shBew76VI5+mMAO9HweZhN390+e8xuOTmoJ1zK2hqynrqnfZ1atDoii6aLtzqs3Vr4/ZOMuuQGWhZKJp6hsUBA==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     bignumber.js "^2.0.0"
     ganache-cli "^6.1.0"
@@ -6785,6 +8475,11 @@ link_token@^1.0.1:
     web3 "^0.19.1"
     webpack "^4.20.2"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> feature/combine-contracts
 lint-staged@^7.2.0:
   version "7.3.0"
   resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-7.3.0.tgz#90ff33e5ca61ed3dbac35b6f6502dbefdc0db58d"
@@ -6852,6 +8547,10 @@ listr@^0.14.1:
     p-map "^1.1.1"
     rxjs "^6.1.0"
 
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 load-json-file@^1.0.0:
   version "1.1.0"
   resolved "http://registry.npmjs.org/load-json-file/-/load-json-file-1.1.0.tgz#956905708d58b4bab4c2261b04f59f31c99374c0"
@@ -6907,6 +8606,13 @@ locate-path@^3.0.0:
 lock-verify@^2.0.2:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/lock-verify/-/lock-verify-2.0.2.tgz#148e4f85974915c9e3c34d694b7de9ecb18ee7a8"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-QNVwK0EGZBS4R3YQ7F1Ox8p41Po9VGl2QG/2GsuvTbkJZYSsPeWHKMbbH6iZMCHWSMww5nrJroZYnGzI4cePuw==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     npm-package-arg "^5.1.2 || 6"
     semver "^5.4.1"
@@ -6914,20 +8620,107 @@ lock-verify@^2.0.2:
 lockfile@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/lockfile/-/lockfile-1.0.4.tgz#07f819d25ae48f87e538e6578b6964a4981a5609"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-cvbTwETRfsFh4nHsL1eGWapU1XFi5Ot9E85sWAwia7Y7EgB7vfqcZhTKZ+l7hCGxSPoushMv5GKhT5PdLv03WA==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     signal-exit "^3.0.2"
 
+<<<<<<< HEAD
+=======
+lodash._baseindexof@*:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/lodash._baseindexof/-/lodash._baseindexof-3.1.0.tgz#fe52b53a1c6761e42618d654e4a25789ed61822c"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-/lK1OhxnYeQmGNZU5KJXie1hgiw=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
+
+>>>>>>> 9075ae3a6e8c49a75d8bcec90c5a28a46b5af3ae
 lodash._baseuniq@~4.6.0:
   version "4.6.0"
   resolved "https://registry.yarnpkg.com/lodash._baseuniq/-/lodash._baseuniq-4.6.0.tgz#0ebb44e456814af7905c6212fa2c9b2d51b841e8"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-DrtE5FaBSveQXGIS+iybLVG4Qeg=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     lodash._createset "~4.0.0"
     lodash._root "~3.0.0"
 
+<<<<<<< HEAD
+=======
+lodash._bindcallback@*:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/lodash._bindcallback/-/lodash._bindcallback-3.0.1.tgz#e531c27644cf8b57a99e17ed95b35c748789392e"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-5THCdkTPi1epnhftlbNcdIeJOS4=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
+
+lodash._cacheindexof@*:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/lodash._cacheindexof/-/lodash._cacheindexof-3.0.2.tgz#3dc69ac82498d2ee5e3ce56091bafd2adc7bde92"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-PcaayCSY0u5ePOVgkbr9Ktx73pI=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
+
+lodash._createcache@*:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/lodash._createcache/-/lodash._createcache-3.1.2.tgz#56d6a064017625e79ebca6b8018e17440bdcf093"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-VtagZAF2JeeevKa4AY4XRAvc8JM=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
+  dependencies:
+    lodash._getnative "^3.0.0"
+
+>>>>>>> 9075ae3a6e8c49a75d8bcec90c5a28a46b5af3ae
 lodash._createset@~4.0.0:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/lodash._createset/-/lodash._createset-4.0.3.tgz#0f4659fbb09d75194fa9e2b88a6644d363c9fe26"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-D0ZZ+7CddRlPqeK4imZE02PJ/iY=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
+<<<<<<< HEAD
+=======
+lodash._getnative@*, lodash._getnative@^3.0.0:
+  version "3.9.1"
+  resolved "https://registry.yarnpkg.com/lodash._getnative/-/lodash._getnative-3.9.1.tgz#570bc7dede46d61cdcde687d65d3eecbaa3aaff5"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-VwvH3t5G1hzc3mh9ZdPuy6o6r/U=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
+
+>>>>>>> 9075ae3a6e8c49a75d8bcec90c5a28a46b5af3ae
 lodash._reinterpolate@~3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/lodash._reinterpolate/-/lodash._reinterpolate-3.0.0.tgz#0ccf2d89166af03b3663c796538b75ac6e114d9d"
@@ -6939,6 +8732,19 @@ lodash._root@~3.0.0:
 lodash.assign@^4.0.3, lodash.assign@^4.0.6:
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/lodash.assign/-/lodash.assign-4.2.0.tgz#0d99f3ccd7a6d261d19bdaeb9245005d285808e7"
+<<<<<<< HEAD
+=======
+
+lodash._root@~3.0.0:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/lodash._root/-/lodash._root-3.0.1.tgz#fba1c4524c19ee9a5f8136b4609f017cf4ded692"
+  integrity sha1-+6HEUkwZ7ppfgTa0YJ8BfPTe1pI=
+
+lodash.assign@^4.0.3, lodash.assign@^4.0.6:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/lodash.assign/-/lodash.assign-4.2.0.tgz#0d99f3ccd7a6d261d19bdaeb9245005d285808e7"
+  integrity sha1-DZnzzNem0mHRm9rrkkUAXShYCOc=
+>>>>>>> feature/combine-contracts
 
 lodash.camelcase@^4.3.0:
   version "4.3.0"
@@ -6951,6 +8757,14 @@ lodash.clonedeep@^4.5.0, lodash.clonedeep@~4.5.0:
 lodash.compact@^3.0.1:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/lodash.compact/-/lodash.compact-3.0.1.tgz#540ce3837745975807471e16b4a2ba21e7256ca5"
+<<<<<<< HEAD
+=======
+
+lodash.clonedeep@^4.5.0, lodash.clonedeep@~4.5.0:
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/lodash.clonedeep/-/lodash.clonedeep-4.5.0.tgz#e23f3f9c4f8fbdde872529c1071857a086e5ccef"
+  integrity sha1-4j8/nE+Pvd6HJSnBBxhXoIblzO8=
+>>>>>>> feature/combine-contracts
 
 lodash.debounce@^4.0.8:
   version "4.0.8"
@@ -6960,6 +8774,21 @@ lodash.memoize@^4.1.2:
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/lodash.memoize/-/lodash.memoize-4.1.2.tgz#bcc6c49a42a2840ed997f323eada5ecd182e0bfe"
 
+<<<<<<< HEAD
+=======
+lodash.restparam@*:
+  version "3.6.1"
+  resolved "https://registry.yarnpkg.com/lodash.restparam/-/lodash.restparam-3.6.1.tgz#936a4e309ef330a7645ed4145986c85ae5b20805"
+<<<<<<< HEAD
+=======
+
+lodash.restparam@*:
+  version "3.6.1"
+  resolved "https://registry.yarnpkg.com/lodash.restparam/-/lodash.restparam-3.6.1.tgz#936a4e309ef330a7645ed4145986c85ae5b20805"
+  integrity sha1-k2pOMJ7zMKdkXtQUWYbIWuWyCAU=
+>>>>>>> feature/combine-contracts
+
+>>>>>>> 9075ae3a6e8c49a75d8bcec90c5a28a46b5af3ae
 lodash.sortby@^4.7.0:
   version "4.7.0"
   resolved "https://registry.yarnpkg.com/lodash.sortby/-/lodash.sortby-4.7.0.tgz#edd14c824e2cc9c1e0b0a1b42bb5210516a42438"
@@ -6984,14 +8813,29 @@ lodash.templatesettings@^4.0.0:
 lodash.topath@4.5.2:
   version "4.5.2"
   resolved "https://registry.yarnpkg.com/lodash.topath/-/lodash.topath-4.5.2.tgz#3616351f3bba61994a0931989660bd03254fd009"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-NhY1Hzu6YZlKCTGYlmC9AyVP0Ak=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 lodash.union@~4.6.0:
   version "4.6.0"
   resolved "https://registry.yarnpkg.com/lodash.union/-/lodash.union-4.6.0.tgz#48bb5088409f16f1821666641c44dd1aaae3cd88"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-SLtQiECfFvGCFmZkHETdGqrjzYg=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 lodash.uniq@^4.5.0, lodash.uniq@~4.5.0:
   version "4.5.0"
   resolved "https://registry.yarnpkg.com/lodash.uniq/-/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
+<<<<<<< HEAD
 
 lodash.values@^4.3.0:
   version "4.3.0"
@@ -7043,9 +8887,49 @@ longest@^1.0.1:
 loose-envify@^1.0.0, loose-envify@^1.1.0, loose-envify@^1.3.1:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/loose-envify/-/loose-envify-1.4.0.tgz#71ee51fa7be4caec1a63839f7e682d8132d30caf"
-  dependencies:
-    js-tokens "^3.0.0 || ^4.0.0"
+=======
 
+<<<<<<< HEAD
+lodash.without@~4.4.0:
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/lodash.without/-/lodash.without-4.4.0.tgz#3cd4574a00b67bae373a94b748772640507b7aac"
+  integrity sha1-PNRXSgC2e643OpS3SHcmQFB7eqw=
+=======
+lodash.values@^4.3.0:
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/lodash.values/-/lodash.values-4.3.0.tgz#a3a6c2b0ebecc5c2cba1c17e6e620fe81b53d347"
+
+lodash.without@~4.4.0:
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/lodash.without/-/lodash.without-4.4.0.tgz#3cd4574a00b67bae373a94b748772640507b7aac"
+>>>>>>> Add registerServiceWorker
+
+lodash@4.17.10:
+  version "4.17.10"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.10.tgz#1b7793cf7259ea38fb3661d4d38b3260af8ae4e7"
+<<<<<<< HEAD
+  integrity sha512-UejweD1pDoXu+AD825lWwp4ZGtSwgnpZxb3JDViD7StjQz+Nb/6l093lx4OQ0foGWNRoc19mWy7BzL+UAK2iVg==
+
+"lodash@>=3.5 <5", lodash@^4.13.1, lodash@^4.17.10, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.2.0:
+=======
+
+"lodash@>=3.5 <5", lodash@^4.13.1, lodash@^4.14.2, lodash@^4.17.10, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.2.0:
+>>>>>>> Add registerServiceWorker
+  version "4.17.11"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
+
+lodash@^3.10.1:
+  version "3.10.1"
+  resolved "http://registry.npmjs.org/lodash/-/lodash-3.10.1.tgz#5bf45e8e49ba4189e17d482789dfd15bd140b7b6"
+
+log-symbols@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/log-symbols/-/log-symbols-1.0.2.tgz#376ff7b58ea3086a0f09facc74617eca501e1a18"
+>>>>>>> feature/combine-contracts
+  dependencies:
+    chalk "^1.0.0"
+
+<<<<<<< HEAD
 lower-case-first@^1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/lower-case-first/-/lower-case-first-1.0.2.tgz#e5da7c26f29a7073be02d52bac9980e5922adfa1"
@@ -7059,6 +8943,66 @@ lower-case@^1.1.0, lower-case@^1.1.1, lower-case@^1.1.2:
 lowercase-keys@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/lowercase-keys/-/lowercase-keys-1.0.1.tgz#6f9e30b47084d971a7c820ff15a6c5167b74c26f"
+=======
+log-symbols@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/log-symbols/-/log-symbols-2.2.0.tgz#5740e1c5d6f0dfda4ad9323b5332107ef6b4c40a"
+  dependencies:
+    chalk "^2.0.1"
+
+log-update@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/log-update/-/log-update-1.0.2.tgz#19929f64c4093d2d2e7075a1dad8af59c296b8d1"
+  dependencies:
+    ansi-escapes "^1.0.0"
+    cli-cursor "^1.0.2"
+
+lodash@^3.10.1:
+  version "3.10.1"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-3.10.1.tgz#5bf45e8e49ba4189e17d482789dfd15bd140b7b6"
+  integrity sha1-W/Rejkm6QYnhfUgnid/RW9FAt7Y=
+
+loglevel@^1.4.1:
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/loglevel/-/loglevel-1.6.1.tgz#e0fc95133b6ef276cdc8887cdaf24aa6f156f8fa"
+
+longest@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/longest/-/longest-1.0.1.tgz#30a0b2da38f73770e8294a0d22e6625ed77d0097"
+
+longest@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/longest/-/longest-1.0.1.tgz#30a0b2da38f73770e8294a0d22e6625ed77d0097"
+  integrity sha1-MKCy2jj3N3DoKUoNIuZiXtd9AJc=
+
+loose-envify@^1.0.0, loose-envify@^1.1.0, loose-envify@^1.3.1:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/loose-envify/-/loose-envify-1.4.0.tgz#71ee51fa7be4caec1a63839f7e682d8132d30caf"
+  dependencies:
+    js-tokens "^3.0.0 || ^4.0.0"
+
+lower-case-first@^1.0.0:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/lower-case-first/-/lower-case-first-1.0.2.tgz#e5da7c26f29a7073be02d52bac9980e5922adfa1"
+<<<<<<< HEAD
+  integrity sha1-5dp8JvKacHO+AtUrrJmA5ZIq36E=
+=======
+>>>>>>> Add registerServiceWorker
+  dependencies:
+    lower-case "^1.1.2"
+
+lower-case@^1.1.0, lower-case@^1.1.1, lower-case@^1.1.2:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/lower-case/-/lower-case-1.1.4.tgz#9a2cabd1b9e8e0ae993a4bf7d5875c39c42e8eac"
+
+lowercase-keys@^1.0.0:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/lowercase-keys/-/lowercase-keys-1.0.1.tgz#6f9e30b47084d971a7c820ff15a6c5167b74c26f"
+<<<<<<< HEAD
+  integrity sha512-G2Lj61tXDnVFFOi8VZds+SoQjtQC3dgokKdDG2mTm1tx4m50NUHBOZSBwQQHyy0V12A0JTG4icfZQH+xPyh8VA==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 lru-cache@^4.0.1, lru-cache@^4.1.1, lru-cache@^4.1.2, lru-cache@^4.1.3:
   version "4.1.3"
@@ -7080,6 +9024,13 @@ make-dir@^1.0.0:
 "make-fetch-happen@^2.5.0 || 3 || 4", make-fetch-happen@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/make-fetch-happen/-/make-fetch-happen-4.0.1.tgz#141497cb878f243ba93136c83d8aba12c216c083"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-7R5ivfy9ilRJ1EMKIOziwrns9fGeAD4bAha8EB7BIiBBLHm2KeTUGCrICFt2rbHfzheTLynv50GnNTK1zDTrcQ==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     agentkeepalive "^3.4.1"
     cacache "^11.0.1"
@@ -7096,6 +9047,13 @@ make-dir@^1.0.0:
 make-fetch-happen@^2.6.0:
   version "2.6.0"
   resolved "https://registry.yarnpkg.com/make-fetch-happen/-/make-fetch-happen-2.6.0.tgz#8474aa52198f6b1ae4f3094c04e8370d35ea8a38"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-FFq0lNI0ax+n9IWzWpH8A4JdgYiAp2DDYIZ3rsaav8JDe8I+72CzK6PQW/oom15YDZpV5bYW/9INd6nIJ2ZfZw==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     agentkeepalive "^3.3.0"
     cacache "^10.0.0"
@@ -7112,6 +9070,13 @@ make-fetch-happen@^2.6.0:
 make-fetch-happen@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/make-fetch-happen/-/make-fetch-happen-3.0.0.tgz#7b661d2372fc4710ab5cc8e1fa3c290eea69a961"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-FmWY7gC0mL6Z4N86vE14+m719JKE4H0A+pyiOH18B025gF/C113pyfb4gHDDYP5cqnRMHOz06JGdmffC/SES+w==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     agentkeepalive "^3.4.1"
     cacache "^10.0.4"
@@ -7170,6 +9135,14 @@ mdn-data@~1.1.0:
 meant@~1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/meant/-/meant-1.0.1.tgz#66044fea2f23230ec806fb515efea29c44d2115d"
+<<<<<<< HEAD
+=======
+
+meant@~1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/meant/-/meant-1.0.1.tgz#66044fea2f23230ec806fb515efea29c44d2115d"
+  integrity sha512-UakVLFjKkbbUwNWJ2frVLnnAtbb7D7DsloxRd3s/gDpI8rdv8W5Hp3NaDb+POBI1fQdeussER6NB8vpcRURvlg==
+>>>>>>> feature/combine-contracts
 
 media-typer@0.3.0:
   version "0.3.0"
@@ -7210,6 +9183,13 @@ memory-fs@^0.4.0, memory-fs@~0.4.1:
 memorystream@^0.3.1:
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/memorystream/-/memorystream-0.3.1.tgz#86d7090b30ce455d63fbae12dda51a47ddcaf9b2"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-htcJCzDORV1j+64S3aUaR93K+bI=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 merge-deep@^3.0.2:
   version "3.0.2"
@@ -7324,6 +9304,21 @@ min-document@^2.19.0:
   resolved "https://registry.yarnpkg.com/min-document/-/min-document-2.19.0.tgz#7bd282e3f5842ed295bb748cdd9f1ffa2c824685"
   dependencies:
     dom-walk "^0.1.0"
+<<<<<<< HEAD
+=======
+
+mimic-response@^1.0.0:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/mimic-response/-/mimic-response-1.0.1.tgz#4923538878eef42063cb8a3e3b0798781487ab1b"
+  integrity sha512-j5EctnkH7amfV/q5Hgmoal1g2QHFJRraOtmx0JpIqkxhBhI/lJSl1nMpQ45hVarwNETOoWEimndZ4QK0RHxuxQ==
+
+min-document@^2.19.0:
+  version "2.19.0"
+  resolved "https://registry.yarnpkg.com/min-document/-/min-document-2.19.0.tgz#7bd282e3f5842ed295bb748cdd9f1ffa2c824685"
+  integrity sha1-e9KC4/WELtKVu3SM3Z8f+iyCRoU=
+  dependencies:
+    dom-walk "^0.1.0"
+>>>>>>> feature/combine-contracts
 
 mini-css-extract-plugin@0.4.3:
   version "0.4.3"
@@ -7375,6 +9370,28 @@ minizlib@^1.1.0:
 mississippi@^1.2.0:
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/mississippi/-/mississippi-1.3.1.tgz#2a8bb465e86550ac8b36a7b6f45599171d78671e"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-/6rB8YXFbAtsUVRphIRQqB0+9c7VaPHCjVtvto+JqwVxgz8Zz+I+f68/JgQ+Pb4VlZb2svA9OtdXnHHsZz7ltg==
+=======
+  dependencies:
+    concat-stream "^1.5.0"
+    duplexify "^3.4.2"
+    end-of-stream "^1.1.0"
+    flush-write-stream "^1.0.0"
+    from2 "^2.1.0"
+    parallel-transform "^1.1.0"
+    pump "^1.0.0"
+    pumpify "^1.3.3"
+    stream-each "^1.1.0"
+    through2 "^2.0.0"
+
+mississippi@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/mississippi/-/mississippi-2.0.0.tgz#3442a508fafc28500486feea99409676e4ee5a6f"
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     concat-stream "^1.5.0"
     duplexify "^3.4.2"
@@ -7437,9 +9454,22 @@ mkdirp@0.5.1, mkdirp@0.5.x, "mkdirp@>=0.5 0", mkdirp@^0.5.0, mkdirp@^0.5.1, mkdi
   dependencies:
     minimist "0.0.8"
 
+<<<<<<< HEAD
 mocha@^4.0.1, mocha@^4.1.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/mocha/-/mocha-4.1.0.tgz#7d86cfbcf35cb829e2754c32e17355ec05338794"
+=======
+<<<<<<< HEAD
+mocha@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/mocha/-/mocha-4.1.0.tgz#7d86cfbcf35cb829e2754c32e17355ec05338794"
+  integrity sha512-0RVnjg1HJsXY2YFDoTNzcc1NKhYuXKRrBAG2gDygmJJA136Cs2QlRliZG1mA0ap7cuaT30mw16luAeln+4RiNA==
+=======
+mocha@^4.0.1, mocha@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/mocha/-/mocha-4.1.0.tgz#7d86cfbcf35cb829e2754c32e17355ec05338794"
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     browser-stdout "1.3.0"
     commander "2.11.0"
@@ -7452,6 +9482,15 @@ mocha@^4.0.1, mocha@^4.1.0:
     mkdirp "0.5.1"
     supports-color "4.4.0"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+moment@^2.15.2:
+  version "2.22.2"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.22.2.tgz#3c257f9839fc0e93ff53149632239eb90783ff66"
+  integrity sha1-PCV/mDn8DpP/UxSWMiOeuQeD/2Y=
+=======
+>>>>>>> feature/combine-contracts
 module-alias@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/module-alias/-/module-alias-2.1.0.tgz#c36d4fd15f7f9d7112f62fa015385e7b65a286c1"
@@ -7459,6 +9498,10 @@ module-alias@^2.1.0:
 moment@^2.15.2, moment@^2.22.2:
   version "2.22.2"
   resolved "https://registry.yarnpkg.com/moment/-/moment-2.22.2.tgz#3c257f9839fc0e93ff53149632239eb90783ff66"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 move-concurrently@^1.0.1:
   version "1.0.1"
@@ -7493,18 +9536,42 @@ multicast-dns@^6.0.1:
 mute-stream@0.0.7, mute-stream@~0.0.4:
   version "0.0.7"
   resolved "https://registry.yarnpkg.com/mute-stream/-/mute-stream-0.0.7.tgz#3075ce93bc21b8fab43e1bc4da7e8115ed1e7bab"
+<<<<<<< HEAD
 
 nan@2.10.0:
   version "2.10.0"
   resolved "http://registry.npmjs.org/nan/-/nan-2.10.0.tgz#96d0cd610ebd58d4b4de9cc0c6828cda99c7548f"
 
 nan@^2.0.8, nan@^2.2.1, nan@^2.9.2:
+=======
+
+nan@2.10.0:
+  version "2.10.0"
+<<<<<<< HEAD
+  resolved "https://registry.yarnpkg.com/nan/-/nan-2.10.0.tgz#96d0cd610ebd58d4b4de9cc0c6828cda99c7548f"
+  integrity sha512-bAdJv7fBLhWC+/Bls0Oza+mvTaNQtP+1RyhhhvD95pgUJz6XM5IzgmxOkItJ9tkoCiplvAnXI1tNmmUD/eScyA==
+
+nan@^2.9.2:
+=======
+  resolved "http://registry.npmjs.org/nan/-/nan-2.10.0.tgz#96d0cd610ebd58d4b4de9cc0c6828cda99c7548f"
+
+nan@^2.0.8, nan@^2.2.1, nan@^2.9.2:
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   version "2.11.1"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.11.1.tgz#90e22bccb8ca57ea4cd37cc83d3819b52eea6766"
 
 nano-json-stream-parser@^0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/nano-json-stream-parser/-/nano-json-stream-parser-0.1.2.tgz#0cc8f6d0e2b622b479c40d499c46d64b755c6f5f"
+<<<<<<< HEAD
+=======
+
+nano-json-stream-parser@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/nano-json-stream-parser/-/nano-json-stream-parser-0.1.2.tgz#0cc8f6d0e2b622b479c40d499c46d64b755c6f5f"
+  integrity sha1-DMj20OK2IrR5xA1JnEbWS3Vcb18=
+>>>>>>> feature/combine-contracts
 
 nanomatch@^1.2.9:
   version "1.2.13"
@@ -7545,6 +9612,14 @@ neo-async@^2.5.0:
 next-tick@1:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/next-tick/-/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"
+<<<<<<< HEAD
+=======
+
+next-tick@1:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/next-tick/-/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"
+  integrity sha1-yobR/ogoFpsBICCOPchCS524NCw=
+>>>>>>> feature/combine-contracts
 
 nice-try@^1.0.4:
   version "1.0.5"
@@ -7559,6 +9634,13 @@ no-case@^2.2.0, no-case@^2.3.2:
 node-fetch-npm@^2.0.2:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/node-fetch-npm/-/node-fetch-npm-2.0.2.tgz#7258c9046182dca345b4208eda918daf33697ff7"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-nJIxm1QmAj4v3nfCvEeCrYSoVwXyxLnaPBK5W1W5DGEJwjlKuC2VEUycGw5oxk+4zZahRrB84PUJJgEmhFTDFw==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     encoding "^0.1.11"
     json-parse-better-errors "^1.0.0"
@@ -7567,6 +9649,13 @@ node-fetch-npm@^2.0.2:
 node-fetch@^1.0.1:
   version "1.7.3"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-1.7.3.tgz#980f6f72d85211a5347c6b2bc18c5b84c3eb47ef"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-NhZ4CsKx7cYm2vSrBAr2PvFOe6sWDf0UYLRqA6svUYg7+/TSfVAu49jYC4BvQ4Sms9SZgdqGBgroqfDhJdTyKQ==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     encoding "^0.1.11"
     is-stream "^1.0.1"
@@ -7591,6 +9680,27 @@ node-gyp@^3.6.2, node-gyp@^3.8.0:
     semver "~5.3.0"
     tar "^2.0.0"
     which "1"
+<<<<<<< HEAD
+=======
+
+node-gyp@^3.6.2, node-gyp@^3.8.0:
+  version "3.8.0"
+  resolved "https://registry.yarnpkg.com/node-gyp/-/node-gyp-3.8.0.tgz#540304261c330e80d0d5edce253a68cb3964218c"
+  integrity sha512-3g8lYefrRRzvGeSowdJKAKyks8oUpLEd/DyPV4eMhVlhJ0aNaZqIrNUIPuEWWTAoPqyFkfGrM67MC69baqn6vA==
+  dependencies:
+    fstream "^1.0.0"
+    glob "^7.0.3"
+    graceful-fs "^4.1.2"
+    mkdirp "^0.5.0"
+    nopt "2 || 3"
+    npmlog "0 || 1 || 2 || 3 || 4"
+    osenv "0"
+    request "^2.87.0"
+    rimraf "2"
+    semver "~5.3.0"
+    tar "^2.0.0"
+    which "1"
+>>>>>>> feature/combine-contracts
 
 node-int64@^0.4.0:
   version "0.4.0"
@@ -7657,10 +9767,24 @@ node-releases@^1.0.0-alpha.11, node-releases@^1.0.0-alpha.12:
 nofilter@^0.0.3:
   version "0.0.3"
   resolved "https://registry.yarnpkg.com/nofilter/-/nofilter-0.0.3.tgz#241e342078177a8693a3043e83f37567e276410c"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-JB40IHgXeoaTowQ+g/N1Z+J2QQw=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 "nopt@2 || 3":
   version "3.0.6"
   resolved "https://registry.yarnpkg.com/nopt/-/nopt-3.0.6.tgz#c6465dbf08abcd4db359317f79ac68a646b28ff9"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-xkZdvwirzU2zWTF/eaxopkayj/k=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     abbrev "1"
 
@@ -7704,6 +9828,17 @@ npm-audit-report@^1.0.9:
   dependencies:
     cli-table3 "^0.5.0"
     console-control-strings "^1.1.0"
+<<<<<<< HEAD
+=======
+
+npm-audit-report@^1.0.9:
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/npm-audit-report/-/npm-audit-report-1.3.1.tgz#e79ea1fcb5ffaf3031102b389d5222c2b0459632"
+  integrity sha512-SjTF8ZP4rOu3JiFrTMi4M1CmVo2tni2sP4TzhyCMHwnMGf6XkdGLZKt9cdZ12esKf0mbQqFyU9LtY0SoeahL7g==
+  dependencies:
+    cli-table3 "^0.5.0"
+    console-control-strings "^1.1.0"
+>>>>>>> feature/combine-contracts
 
 npm-bundled@^1.0.1:
   version "1.0.5"
@@ -7712,13 +9847,215 @@ npm-bundled@^1.0.1:
 npm-cache-filename@~1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/npm-cache-filename/-/npm-cache-filename-1.0.2.tgz#ded306c5b0bfc870a9e9faf823bc5f283e05ae11"
+<<<<<<< HEAD
 
 npm-install-checks@~3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/npm-install-checks/-/npm-install-checks-3.0.0.tgz#d4aecdfd51a53e3723b7b2f93b2ee28e307bc0d7"
+=======
+<<<<<<< HEAD
+  integrity sha1-3tMGxbC/yHCp6fr4I7xfKD4FrhE=
+
+npm-install-checks@~3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/npm-install-checks/-/npm-install-checks-3.0.0.tgz#d4aecdfd51a53e3723b7b2f93b2ee28e307bc0d7"
+  integrity sha1-1K7N/VGlPjcjt7L5Oy7ijjB7wNc=
   dependencies:
     semver "^2.3.0 || 3.x || 4 || 5"
 
+npm-lifecycle@^2.0.1, npm-lifecycle@^2.0.3:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/npm-lifecycle/-/npm-lifecycle-2.1.0.tgz#1eda2eedb82db929e3a0c50341ab0aad140ed569"
+  integrity sha512-QbBfLlGBKsktwBZLj6AviHC6Q9Y3R/AY4a2PYSIRhSKSS0/CxRyD/PfxEX6tPeOCXQgMSNdwGeECacstgptc+g==
+  dependencies:
+    byline "^5.0.0"
+    graceful-fs "^4.1.11"
+    node-gyp "^3.8.0"
+    resolve-from "^4.0.0"
+    slide "^1.1.6"
+    uid-number "0.0.6"
+    umask "^1.1.0"
+    which "^1.3.1"
+
+npm-logical-tree@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/npm-logical-tree/-/npm-logical-tree-1.2.1.tgz#44610141ca24664cad35d1e607176193fd8f5b88"
+  integrity sha512-AJI/qxDB2PWI4LG1CYN579AY1vCiNyWfkiquCsJWqntRu/WwimVrC8yXeILBFHDwxfOejxewlmnvW9XXjMlYIg==
+
+"npm-package-arg@^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0", "npm-package-arg@^4.0.0 || ^5.0.0 || ^6.0.0", "npm-package-arg@^5.1.2 || 6", npm-package-arg@^6.0.0, npm-package-arg@^6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/npm-package-arg/-/npm-package-arg-6.1.0.tgz#15ae1e2758a5027efb4c250554b85a737db7fcc1"
+  integrity sha512-zYbhP2k9DbJhA0Z3HKUePUgdB1x7MfIfKssC+WLPFMKTBZKpZh5m13PgexJjCq6KW7j17r0jHWcCpxEqnnncSA==
+  dependencies:
+    hosted-git-info "^2.6.0"
+    osenv "^0.1.5"
+    semver "^5.5.0"
+    validate-npm-package-name "^3.0.0"
+
+npm-packlist@^1.1.10, npm-packlist@^1.1.6, npm-packlist@~1.1.10:
+  version "1.1.11"
+  resolved "https://registry.yarnpkg.com/npm-packlist/-/npm-packlist-1.1.11.tgz#84e8c683cbe7867d34b1d357d893ce29e28a02de"
+  integrity sha512-CxKlZ24urLkJk+9kCm48RTQ7L4hsmgSVzEk0TLGPzzyuFxD7VNgy5Sl24tOLMzQv773a/NeJ1ce1DKeacqffEA==
+  dependencies:
+    ignore-walk "^3.0.1"
+    npm-bundled "^1.0.1"
+
+npm-pick-manifest@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/npm-pick-manifest/-/npm-pick-manifest-2.1.0.tgz#dc381bdd670c35d81655e1d5a94aa3dd4d87fce5"
+  integrity sha512-q9zLP8cTr8xKPmMZN3naxp1k/NxVFsjxN6uWuO1tiw9gxg7wZWQ/b5UTfzD0ANw2q1lQxdLKTeCCksq+bPSgbQ==
+  dependencies:
+    npm-package-arg "^6.0.0"
+    semver "^5.4.1"
+
+npm-profile@^3.0.1:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/npm-profile/-/npm-profile-3.0.2.tgz#58d568f1b56ef769602fd0aed8c43fa0e0de0f57"
+  integrity sha512-rEJOFR6PbwOvvhGa2YTNOJQKNuc6RovJ6T50xPU7pS9h/zKPNCJ+VHZY2OFXyZvEi+UQYtHRTp8O/YM3tUD20A==
+  dependencies:
+    aproba "^1.1.2 || 2"
+    make-fetch-happen "^2.5.0 || 3 || 4"
+
+npm-registry-client@^8.5.1:
+  version "8.6.0"
+  resolved "https://registry.yarnpkg.com/npm-registry-client/-/npm-registry-client-8.6.0.tgz#7f1529f91450732e89f8518e0f21459deea3e4c4"
+  integrity sha512-Qs6P6nnopig+Y8gbzpeN/dkt+n7IyVd8f45NTMotGk6Qo7GfBmzwYx6jRLoOOgKiMnaQfYxsuyQlD8Mc3guBhg==
+  dependencies:
+    concat-stream "^1.5.2"
+    graceful-fs "^4.1.6"
+    normalize-package-data "~1.0.1 || ^2.0.0"
+    npm-package-arg "^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0"
+    once "^1.3.3"
+    request "^2.74.0"
+    retry "^0.10.0"
+    safe-buffer "^5.1.1"
+    semver "2 >=2.2.1 || 3.x || 4 || 5"
+    slide "^1.1.3"
+    ssri "^5.2.4"
+  optionalDependencies:
+    npmlog "2 || ^3.1.0 || ^4.0.0"
+
+npm-registry-fetch@^1.1.0:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/npm-registry-fetch/-/npm-registry-fetch-1.1.1.tgz#710bc5947d9ee2c549375072dab6d5d17baf2eb2"
+  integrity sha512-ev+zxOXsgAqRsR8Rk+ErjgWOlbrXcqGdme94/VNdjDo1q8TSy10Pp8xgDv/ZmMk2jG/KvGtXUNG4GS3+l6xbDw==
+  dependencies:
+    bluebird "^3.5.1"
+    figgy-pudding "^3.0.0"
+    lru-cache "^4.1.2"
+    make-fetch-happen "^3.0.0"
+    npm-package-arg "^6.0.0"
+    safe-buffer "^5.1.1"
+
+npm-run-path@^2.0.0:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/npm-run-path/-/npm-run-path-2.0.2.tgz#35a9232dfa35d7067b4cb2ddf2357b1871536c5f"
+  integrity sha1-NakjLfo11wZ7TLLd8jV7GHFTbF8=
+=======
+
+npm-install-checks@~3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/npm-install-checks/-/npm-install-checks-3.0.0.tgz#d4aecdfd51a53e3723b7b2f93b2ee28e307bc0d7"
+>>>>>>> Add registerServiceWorker
+  dependencies:
+    semver "^2.3.0 || 3.x || 4 || 5"
+
+<<<<<<< HEAD
+npm-user-validate@~1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/npm-user-validate/-/npm-user-validate-1.0.0.tgz#8ceca0f5cea04d4e93519ef72d0557a75122e951"
+  integrity sha1-jOyg9c6gTU6TUZ73LQVXp1Ei6VE=
+=======
+npm-lifecycle@^2.0.1, npm-lifecycle@^2.0.3:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/npm-lifecycle/-/npm-lifecycle-2.1.0.tgz#1eda2eedb82db929e3a0c50341ab0aad140ed569"
+  dependencies:
+    byline "^5.0.0"
+    graceful-fs "^4.1.11"
+    node-gyp "^3.8.0"
+    resolve-from "^4.0.0"
+    slide "^1.1.6"
+    uid-number "0.0.6"
+    umask "^1.1.0"
+    which "^1.3.1"
+
+npm-logical-tree@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/npm-logical-tree/-/npm-logical-tree-1.2.1.tgz#44610141ca24664cad35d1e607176193fd8f5b88"
+
+"npm-package-arg@^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0", "npm-package-arg@^4.0.0 || ^5.0.0 || ^6.0.0", "npm-package-arg@^5.1.2 || 6", npm-package-arg@^6.0.0, npm-package-arg@^6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/npm-package-arg/-/npm-package-arg-6.1.0.tgz#15ae1e2758a5027efb4c250554b85a737db7fcc1"
+  dependencies:
+    hosted-git-info "^2.6.0"
+    osenv "^0.1.5"
+    semver "^5.5.0"
+    validate-npm-package-name "^3.0.0"
+
+npm-packlist@^1.1.10, npm-packlist@^1.1.6, npm-packlist@~1.1.10:
+  version "1.1.11"
+  resolved "https://registry.yarnpkg.com/npm-packlist/-/npm-packlist-1.1.11.tgz#84e8c683cbe7867d34b1d357d893ce29e28a02de"
+  dependencies:
+    ignore-walk "^3.0.1"
+    npm-bundled "^1.0.1"
+
+npm-path@^2.0.2:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/npm-path/-/npm-path-2.0.4.tgz#c641347a5ff9d6a09e4d9bce5580c4f505278e64"
+  dependencies:
+    which "^1.2.10"
+
+npm-pick-manifest@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/npm-pick-manifest/-/npm-pick-manifest-2.1.0.tgz#dc381bdd670c35d81655e1d5a94aa3dd4d87fce5"
+  dependencies:
+    npm-package-arg "^6.0.0"
+    semver "^5.4.1"
+
+npm-profile@^3.0.1:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/npm-profile/-/npm-profile-3.0.2.tgz#58d568f1b56ef769602fd0aed8c43fa0e0de0f57"
+  dependencies:
+    aproba "^1.1.2 || 2"
+    make-fetch-happen "^2.5.0 || 3 || 4"
+
+npm-registry-client@^8.5.1:
+  version "8.6.0"
+  resolved "https://registry.yarnpkg.com/npm-registry-client/-/npm-registry-client-8.6.0.tgz#7f1529f91450732e89f8518e0f21459deea3e4c4"
+  dependencies:
+    concat-stream "^1.5.2"
+    graceful-fs "^4.1.6"
+    normalize-package-data "~1.0.1 || ^2.0.0"
+    npm-package-arg "^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0"
+    once "^1.3.3"
+    request "^2.74.0"
+    retry "^0.10.0"
+    safe-buffer "^5.1.1"
+    semver "2 >=2.2.1 || 3.x || 4 || 5"
+    slide "^1.1.3"
+    ssri "^5.2.4"
+  optionalDependencies:
+    npmlog "2 || ^3.1.0 || ^4.0.0"
+
+npm-registry-fetch@^1.1.0:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/npm-registry-fetch/-/npm-registry-fetch-1.1.1.tgz#710bc5947d9ee2c549375072dab6d5d17baf2eb2"
+  dependencies:
+    bluebird "^3.5.1"
+    figgy-pudding "^3.0.0"
+    lru-cache "^4.1.2"
+    make-fetch-happen "^3.0.0"
+    npm-package-arg "^6.0.0"
+    safe-buffer "^5.1.1"
+
+npm-run-path@^2.0.0:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/npm-run-path/-/npm-run-path-2.0.2.tgz#35a9232dfa35d7067b4cb2ddf2357b1871536c5f"
+>>>>>>> feature/combine-contracts
+  dependencies:
+    semver "^2.3.0 || 3.x || 4 || 5"
+
+<<<<<<< HEAD
 npm-lifecycle@^2.0.1, npm-lifecycle@^2.0.3:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/npm-lifecycle/-/npm-lifecycle-2.1.0.tgz#1eda2eedb82db929e3a0c50341ab0aad140ed569"
@@ -7807,6 +10144,8 @@ npm-run-path@^2.0.0:
   dependencies:
     path-key "^2.0.0"
 
+=======
+>>>>>>> feature/combine-contracts
 npm-user-validate@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/npm-user-validate/-/npm-user-validate-1.0.0.tgz#8ceca0f5cea04d4e93519ef72d0557a75122e951"
@@ -7818,10 +10157,21 @@ npm-which@^3.0.1:
     commander "^2.9.0"
     npm-path "^2.0.2"
     which "^1.2.10"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 npm@^5.7.1:
   version "5.10.0"
   resolved "https://registry.yarnpkg.com/npm/-/npm-5.10.0.tgz#3bec62312c94a9b0f48f208e00b98bf0304b40db"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-lvjvjgR5wG2RJ2uqak1xtZcVAWMwVOzN5HkUlUj/n8rU1f3A0fNn+7HwOzH9Lyf0Ppyu9ApgsEpHczOSnx1cwA==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     JSONStream "^1.3.2"
     abbrev "~1.1.1"
@@ -7960,6 +10310,17 @@ number-to-bn@1.7.0:
   dependencies:
     bn.js "4.11.6"
     strip-hex-prefix "1.0.0"
+<<<<<<< HEAD
+=======
+
+number-to-bn@1.7.0:
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/number-to-bn/-/number-to-bn-1.7.0.tgz#bb3623592f7e5f9e0030b1977bd41a0c53fe1ea0"
+  integrity sha1-uzYjWS9+X54AMLGXe9QaDFP+HqA=
+  dependencies:
+    bn.js "4.11.6"
+    strip-hex-prefix "1.0.0"
+>>>>>>> feature/combine-contracts
 
 nwsapi@^2.0.7, nwsapi@^2.0.8:
   version "2.0.9"
@@ -8065,10 +10426,25 @@ onetime@^2.0.0:
 opener@~1.4.3:
   version "1.4.3"
   resolved "https://registry.yarnpkg.com/opener/-/opener-1.4.3.tgz#5c6da2c5d7e5831e8ffa3964950f8d6674ac90b8"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-XG2ixdflgx6P+jlklQ+NZnSskLg=
+
+openzeppelin-solidity@^1.12.0:
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/openzeppelin-solidity/-/openzeppelin-solidity-1.12.0.tgz#7b9c55975e73370d4541e3442b30cb3d91ac973a"
+  integrity sha512-WlorzMXIIurugiSdw121RVD5qA3EfSI7GybTn+/Du0mPNgairjt29NpVTAaH8eLjAeAwlw46y7uQKy0NYem/gA==
+=======
+>>>>>>> feature/combine-contracts
 
 openzeppelin-solidity@^1.10.0, openzeppelin-solidity@^1.12.0:
   version "1.12.0"
   resolved "https://registry.yarnpkg.com/openzeppelin-solidity/-/openzeppelin-solidity-1.12.0.tgz#7b9c55975e73370d4541e3442b30cb3d91ac973a"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 opn@5.4.0, opn@^5.1.0:
   version "5.4.0"
@@ -8104,6 +10480,13 @@ optionator@^0.8.1, optionator@^0.8.2:
 original-require@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/original-require/-/original-require-1.0.1.tgz#0f130471584cd33511c5ec38c8d59213f9ac5e20"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-DxMEcVhM0zURxew4yNWSE/msXiA=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 original@>=0.0.5:
   version "1.0.2"
@@ -8124,6 +10507,16 @@ os-locale@^1.4.0:
   resolved "http://registry.npmjs.org/os-locale/-/os-locale-1.4.0.tgz#20f9f17ae29ed345e8bde583b13d2009803c14d9"
   dependencies:
     lcid "^1.0.0"
+<<<<<<< HEAD
+=======
+
+os-locale@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/os-locale/-/os-locale-1.4.0.tgz#20f9f17ae29ed345e8bde583b13d2009803c14d9"
+  integrity sha1-IPnxeuKe00XoveWDsT0gCYA8FNk=
+  dependencies:
+    lcid "^1.0.0"
+>>>>>>> feature/combine-contracts
 
 os-locale@^2.0.0:
   version "2.1.0"
@@ -8267,6 +10660,80 @@ pacote@^8.1.6:
     tar "^4.4.3"
     unique-filename "^1.1.0"
     which "^1.3.0"
+<<<<<<< HEAD
+=======
+
+package-json@^4.0.0:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/package-json/-/package-json-4.0.1.tgz#8869a0401253661c4c4ca3da6c2121ed555f5eed"
+  integrity sha1-iGmgQBJTZhxMTKPabCEh7VVfXu0=
+  dependencies:
+    got "^6.7.1"
+    registry-auth-token "^3.0.1"
+    registry-url "^3.0.3"
+    semver "^5.1.0"
+
+pacote@^7.6.1:
+  version "7.6.1"
+  resolved "https://registry.yarnpkg.com/pacote/-/pacote-7.6.1.tgz#d44621c89a5a61f173989b60236757728387c094"
+  integrity sha512-2kRIsHxjuYC1KRUIK80AFIXKWy0IgtFj76nKcaunozKAOSlfT+DFh3EfeaaKvNHCWixgi0G0rLg11lJeyEnp/Q==
+  dependencies:
+    bluebird "^3.5.1"
+    cacache "^10.0.4"
+    get-stream "^3.0.0"
+    glob "^7.1.2"
+    lru-cache "^4.1.1"
+    make-fetch-happen "^2.6.0"
+    minimatch "^3.0.4"
+    mississippi "^3.0.0"
+    mkdirp "^0.5.1"
+    normalize-package-data "^2.4.0"
+    npm-package-arg "^6.0.0"
+    npm-packlist "^1.1.10"
+    npm-pick-manifest "^2.1.0"
+    osenv "^0.1.5"
+    promise-inflight "^1.0.1"
+    promise-retry "^1.1.1"
+    protoduck "^5.0.0"
+    rimraf "^2.6.2"
+    safe-buffer "^5.1.1"
+    semver "^5.5.0"
+    ssri "^5.2.4"
+    tar "^4.4.0"
+    unique-filename "^1.1.0"
+    which "^1.3.0"
+
+pacote@^8.1.6:
+  version "8.1.6"
+  resolved "https://registry.yarnpkg.com/pacote/-/pacote-8.1.6.tgz#8e647564d38156367e7a9dc47a79ca1ab278d46e"
+  integrity sha512-wTOOfpaAQNEQNtPEx92x9Y9kRWVu45v583XT8x2oEV2xRB74+xdqMZIeGW4uFvAyZdmSBtye+wKdyyLaT8pcmw==
+  dependencies:
+    bluebird "^3.5.1"
+    cacache "^11.0.2"
+    get-stream "^3.0.0"
+    glob "^7.1.2"
+    lru-cache "^4.1.3"
+    make-fetch-happen "^4.0.1"
+    minimatch "^3.0.4"
+    minipass "^2.3.3"
+    mississippi "^3.0.0"
+    mkdirp "^0.5.1"
+    normalize-package-data "^2.4.0"
+    npm-package-arg "^6.1.0"
+    npm-packlist "^1.1.10"
+    npm-pick-manifest "^2.1.0"
+    osenv "^0.1.5"
+    promise-inflight "^1.0.1"
+    promise-retry "^1.1.1"
+    protoduck "^5.0.0"
+    rimraf "^2.6.2"
+    safe-buffer "^5.1.2"
+    semver "^5.5.0"
+    ssri "^6.0.0"
+    tar "^4.4.3"
+    unique-filename "^1.1.0"
+    which "^1.3.0"
+>>>>>>> feature/combine-contracts
 
 pako@~1.0.5:
   version "1.0.6"
@@ -8312,6 +10779,13 @@ parse-glob@^3.0.4:
 parse-headers@^2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/parse-headers/-/parse-headers-2.0.1.tgz#6ae83a7aa25a9d9b700acc28698cd1f1ed7e9536"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-aug6eqJanZtwCswoaYzR8e1+lTY=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     for-each "^0.3.2"
     trim "0.0.1"
@@ -8351,6 +10825,17 @@ pascal-case@^2.0.0:
   dependencies:
     camel-case "^3.0.0"
     upper-case-first "^1.1.0"
+<<<<<<< HEAD
+=======
+
+pascal-case@^2.0.0:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/pascal-case/-/pascal-case-2.0.1.tgz#2d578d3455f660da65eca18ef95b4e0de912761e"
+  integrity sha1-LVeNNFX2YNpl7KGO+VtODekSdh4=
+  dependencies:
+    camel-case "^3.0.0"
+    upper-case-first "^1.1.0"
+>>>>>>> feature/combine-contracts
 
 pascalcase@^0.1.1:
   version "0.1.1"
@@ -8365,6 +10850,16 @@ path-case@^2.1.0:
   resolved "https://registry.yarnpkg.com/path-case/-/path-case-2.1.1.tgz#94b8037c372d3fe2906e465bb45e25d226e8eea5"
   dependencies:
     no-case "^2.2.0"
+<<<<<<< HEAD
+=======
+
+path-case@^2.1.0:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/path-case/-/path-case-2.1.1.tgz#94b8037c372d3fe2906e465bb45e25d226e8eea5"
+  integrity sha1-lLgDfDctP+KQbkZbtF4l0ibo7qU=
+  dependencies:
+    no-case "^2.2.0"
+>>>>>>> feature/combine-contracts
 
 path-dirname@^1.0.0:
   version "1.0.2"
@@ -9065,6 +11560,14 @@ prelude-ls@~1.1.2:
 prepend-http@^1.0.1:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/prepend-http/-/prepend-http-1.0.4.tgz#d4f4562b0ce3696e41ac52d0e002e57a635dc6dc"
+<<<<<<< HEAD
+=======
+
+prepend-http@^1.0.1:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/prepend-http/-/prepend-http-1.0.4.tgz#d4f4562b0ce3696e41ac52d0e002e57a635dc6dc"
+  integrity sha1-1PRWKwzjaW5BrFLQ4ALlemNdxtw=
+>>>>>>> feature/combine-contracts
 
 preserve@^0.2.0:
   version "0.2.0"
@@ -9107,6 +11610,14 @@ process@^0.11.10:
 process@~0.5.1:
   version "0.5.2"
   resolved "https://registry.yarnpkg.com/process/-/process-0.5.2.tgz#1638d8a8e34c2f440a91db95ab9aeb677fc185cf"
+<<<<<<< HEAD
+=======
+
+process@~0.5.1:
+  version "0.5.2"
+  resolved "https://registry.yarnpkg.com/process/-/process-0.5.2.tgz#1638d8a8e34c2f440a91db95ab9aeb677fc185cf"
+  integrity sha1-FjjYqONML0QKkduVq5rrZ3/Bhc8=
+>>>>>>> feature/combine-contracts
 
 progress@^2.0.0:
   version "2.0.0"
@@ -9119,11 +11630,26 @@ promise-inflight@^1.0.1, promise-inflight@~1.0.1:
 promise-retry@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/promise-retry/-/promise-retry-1.1.1.tgz#6739e968e3051da20ce6497fb2b50f6911df3d6d"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-ZznpaOMFHaIM5kl/srUPaRHfPW0=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     err-code "^1.0.0"
     retry "^0.10.0"
 
+<<<<<<< HEAD
 promise@8.0.2, promise@^8.0.0:
+=======
+<<<<<<< HEAD
+promise@8.0.2:
+=======
+promise@8.0.2, promise@^8.0.0:
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   version "8.0.2"
   resolved "https://registry.yarnpkg.com/promise/-/promise-8.0.2.tgz#9dcd0672192c589477d56891271bdc27547ae9f0"
   dependencies:
@@ -9132,6 +11658,13 @@ promise@8.0.2, promise@^8.0.0:
 promise@^7.1.1:
   version "7.3.1"
   resolved "https://registry.yarnpkg.com/promise/-/promise-7.3.1.tgz#064b72602b18f90f29192b8b1bc418ffd1ebd3bf"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-nolQXZ/4L+bP/UGlkfaIujX9BKxGwmQ9OT4mOt5yvy8iK1h3wqTEJCijzGANTCCl9nWjY41juyAn2K3Q1hLLTg==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     asap "~2.0.3"
 
@@ -9145,6 +11678,13 @@ prompts@^0.1.9:
 promzard@^0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/promzard/-/promzard-0.3.0.tgz#26a5d6ee8c7dee4cb12208305acfb93ba382a9ee"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-JqXW7ox97kyxIggwWs+5O6OCqe4=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     read "1"
 
@@ -9158,10 +11698,24 @@ prop-types@^15.6.1, prop-types@^15.6.2:
 proto-list@~1.2.1:
   version "1.2.4"
   resolved "https://registry.yarnpkg.com/proto-list/-/proto-list-1.2.4.tgz#212d5bfe1318306a420f6402b8e26ff39647a849"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-IS1b/hMYMGpCD2QCuOJv85ZHqEk=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 protoduck@^5.0.0:
   version "5.0.0"
   resolved "https://registry.yarnpkg.com/protoduck/-/protoduck-5.0.0.tgz#752145e6be0ad834cb25716f670a713c860dce70"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-agsGWD8/RZrS4ga6v82Fxb0RHIS2RZnbsSue6A9/MBRhB/jcqOANAMNrqM9900b8duj+Gx+T/JMy5IowDoO/hQ==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     genfun "^4.0.1"
 
@@ -9198,6 +11752,13 @@ public-encrypt@^4.0.0:
 pump@^1.0.0:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/pump/-/pump-1.0.3.tgz#5dfe8311c33bbf6fc18261f9f34702c47c08a954"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-8k0JupWme55+9tCVE+FS5ULT3K6AbgqrGa58lTT49RpyfwwcGedHqaC5LlQNdEAumn/wFsu6aPwkuPMioy8kqw==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     end-of-stream "^1.1.0"
     once "^1.3.1"
@@ -9243,12 +11804,28 @@ q@^1.1.2:
 qrcode-terminal@^0.12.0:
   version "0.12.0"
   resolved "https://registry.yarnpkg.com/qrcode-terminal/-/qrcode-terminal-0.12.0.tgz#bb5b699ef7f9f0505092a3748be4464fe71b5819"
+<<<<<<< HEAD
+=======
+
+qrcode-terminal@^0.12.0:
+  version "0.12.0"
+  resolved "https://registry.yarnpkg.com/qrcode-terminal/-/qrcode-terminal-0.12.0.tgz#bb5b699ef7f9f0505092a3748be4464fe71b5819"
+  integrity sha512-EXtzRZmC+YGmGlDFbXKxQiMZNwCLEO6BANKXG4iCtSIM0yqc/pappSx3RIKr4r0uh5JsBckOXeKrB3Iz7mdQpQ==
+>>>>>>> feature/combine-contracts
 
 qs@6.5.1:
   version "6.5.1"
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.1.tgz#349cdf6eef89ec45c12d7d5eb3fc0c870343a6d8"
 
+<<<<<<< HEAD
 qs@6.5.2, qs@^6.4.0, qs@~6.5.2:
+=======
+<<<<<<< HEAD
+qs@6.5.2, qs@~6.5.2:
+=======
+qs@6.5.2, qs@^6.4.0, qs@~6.5.2:
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   version "6.5.2"
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
 
@@ -9266,6 +11843,26 @@ query-string@^6.1.0:
   dependencies:
     decode-uri-component "^0.2.0"
     strict-uri-encode "^2.0.0"
+<<<<<<< HEAD
+=======
+
+query-string@^5.0.1:
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/query-string/-/query-string-5.1.1.tgz#a78c012b71c17e05f2e3fa2319dd330682efb3cb"
+  integrity sha512-gjWOsm2SoGlgLEdAGt7a6slVOk9mGiXmPFMqrEhLQ68rhQuBnpfs3+EmlvqKyxnCo9/PPlF+9MtY02S1aFg+Jw==
+  dependencies:
+    decode-uri-component "^0.2.0"
+    object-assign "^4.1.0"
+    strict-uri-encode "^1.0.0"
+
+query-string@^6.1.0:
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/query-string/-/query-string-6.2.0.tgz#468edeb542b7e0538f9f9b1aeb26f034f19c86e1"
+  integrity sha512-5wupExkIt8RYL4h/FE+WTg3JHk62e6fFPWtAZA9J5IWK1PfTfKkMS93HBUHcFpeYi9KsY5pFbh+ldvEyaz5MyA==
+  dependencies:
+    decode-uri-component "^0.2.0"
+    strict-uri-encode "^2.0.0"
+>>>>>>> feature/combine-contracts
 
 querystring-es3@^0.2.0:
   version "0.2.1"
@@ -9282,6 +11879,14 @@ querystringify@^2.0.0:
 qw@~1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/qw/-/qw-1.0.1.tgz#efbfdc740f9ad054304426acb183412cc8b996d4"
+<<<<<<< HEAD
+=======
+
+qw@~1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/qw/-/qw-1.0.1.tgz#efbfdc740f9ad054304426acb183412cc8b996d4"
+  integrity sha1-77/cdA+a0FQwRCassYNBLMi5ltQ=
+>>>>>>> feature/combine-contracts
 
 raf@3.4.0:
   version "3.4.0"
@@ -9313,6 +11918,13 @@ randomfill@^1.0.3:
 randomhex@0.1.5:
   version "0.1.5"
   resolved "https://registry.yarnpkg.com/randomhex/-/randomhex-0.1.5.tgz#baceef982329091400f2a2912c6cd02f1094f585"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-us7vmCMpCRQA8qKRLGzQLxCU9YU=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 range-parser@^1.0.3, range-parser@~1.2.0:
   version "1.2.0"
@@ -9330,6 +11942,13 @@ raw-body@2.3.2:
 raw-body@2.3.3:
   version "2.3.3"
   resolved "https://registry.yarnpkg.com/raw-body/-/raw-body-2.3.3.tgz#1b324ece6b5706e153855bc1148c65bb7f6ea0c3"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-9esiElv1BrZoI3rCDuOuKCBRbuApGGaDPQfjSflGxdy4oyzqghxu6klEkkVIvBje+FF0BX9coEv8KqW6X/7njw==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     bytes "3.0.0"
     http-errors "1.6.3"
@@ -9398,6 +12017,14 @@ react-error-overlay@^5.0.4:
 react-fast-compare@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/react-fast-compare/-/react-fast-compare-1.0.0.tgz#813a039155e49b43ceffe99528fe5e9d97a6c938"
+<<<<<<< HEAD
+=======
+
+react-fast-compare@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-fast-compare/-/react-fast-compare-1.0.0.tgz#813a039155e49b43ceffe99528fe5e9d97a6c938"
+  integrity sha512-dcQpdWr62flXQJuM8/bVEY5/10ad2SYBUafp8H4q4WHR3fTA/MMlp8mpzX12I0CCoEJc1P6QdiMg7U+7lFS6Rw==
+>>>>>>> feature/combine-contracts
 
 react-scripts@2.0.4:
   version "2.0.4"
@@ -9464,12 +12091,26 @@ react@^16.5.2:
 read-cmd-shim@^1.0.1, read-cmd-shim@~1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/read-cmd-shim/-/read-cmd-shim-1.0.1.tgz#2d5d157786a37c055d22077c32c53f8329e91c7b"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-LV0Vd4ajfAVdIgd8MsU/gynpHHs=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     graceful-fs "^4.1.2"
 
 read-installed@~4.0.3:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/read-installed/-/read-installed-4.0.3.tgz#ff9b8b67f187d1e4c29b9feb31f6b223acd19067"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-/5uLZ/GH0eTCm5/rMfayI6zRkGc=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     debuglog "^1.0.1"
     read-package-json "^2.0.0"
@@ -9483,6 +12124,13 @@ read-installed@~4.0.3:
 "read-package-json@1 || 2", read-package-json@^2.0.0, read-package-json@^2.0.13:
   version "2.0.13"
   resolved "https://registry.yarnpkg.com/read-package-json/-/read-package-json-2.0.13.tgz#2e82ebd9f613baa6d2ebe3aa72cefe3f68e41f4a"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-/1dZ7TRZvGrYqE0UAfN6qQb5GYBsNcqS1C0tNK601CFOJmtHI7NIGXwetEPU/OtoFHZL3hDxm4rolFFVE9Bnmg==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     glob "^7.1.1"
     json-parse-better-errors "^1.0.1"
@@ -9494,6 +12142,13 @@ read-installed@~4.0.3:
 read-package-tree@^5.2.1:
   version "5.2.1"
   resolved "https://registry.yarnpkg.com/read-package-tree/-/read-package-tree-5.2.1.tgz#6218b187d6fac82289ce4387bbbaf8eef536ad63"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-2CNoRoh95LxY47LvqrehIAfUVda2JbuFE/HaGYs42bNrGG+ojbw1h3zOcPcQ+1GQ3+rkzNndZn85u1XyZ3UsIA==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     debuglog "^1.0.1"
     dezalgo "^1.0.0"
@@ -9534,6 +12189,13 @@ read-pkg@^2.0.0:
 read@1, read@~1.0.1, read@~1.0.7:
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/read/-/read-1.0.7.tgz#b3da19bd052431a97671d44a42634adf710b40c4"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-s9oZvQUkMal2cdRKQmNK33ELQMQ=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     mute-stream "~0.0.4"
 
@@ -9558,9 +12220,22 @@ readable-stream@1.0, readable-stream@~1.0.15:
     isarray "0.0.1"
     string_decoder "~0.10.x"
 
+<<<<<<< HEAD
 readable-stream@^1.0.33, readable-stream@~1.1.10:
   version "1.1.14"
   resolved "http://registry.npmjs.org/readable-stream/-/readable-stream-1.1.14.tgz#7cf4c54ef648e3813084c636dd2079e166c081d9"
+=======
+<<<<<<< HEAD
+readable-stream@~1.1.10:
+  version "1.1.14"
+  resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-1.1.14.tgz#7cf4c54ef648e3813084c636dd2079e166c081d9"
+  integrity sha1-fPTFTvZI44EwhMY23SB54WbAgdk=
+=======
+readable-stream@^1.0.33, readable-stream@~1.1.10:
+  version "1.1.14"
+  resolved "http://registry.npmjs.org/readable-stream/-/readable-stream-1.1.14.tgz#7cf4c54ef648e3813084c636dd2079e166c081d9"
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     core-util-is "~1.0.0"
     inherits "~2.0.1"
@@ -9570,6 +12245,13 @@ readable-stream@^1.0.33, readable-stream@~1.1.10:
 readdir-scoped-modules@^1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/readdir-scoped-modules/-/readdir-scoped-modules-1.0.2.tgz#9fafa37d286be5d92cbaebdee030dc9b5f406747"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-n6+jfShr5dksuuve4DDcm19AZ0c=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     debuglog "^1.0.1"
     dezalgo "^1.0.0"
@@ -9672,6 +12354,13 @@ regexpu-core@^4.1.3, regexpu-core@^4.2.0:
 registry-auth-token@^3.0.1:
   version "3.3.2"
   resolved "https://registry.yarnpkg.com/registry-auth-token/-/registry-auth-token-3.3.2.tgz#851fd49038eecb586911115af845260eec983f20"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-JL39c60XlzCVgNrO+qq68FoNb56w/m7JYvGR2jT5iR1xBrUA3Mfx5Twk5rqTThPmQKMWydGmq8oFtDlxfrmxnQ==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     rc "^1.1.6"
     safe-buffer "^5.0.1"
@@ -9679,6 +12368,13 @@ registry-auth-token@^3.0.1:
 registry-url@^3.0.3:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/registry-url/-/registry-url-3.1.0.tgz#3d4ef870f73dde1d77f0cf9a381432444e174942"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-PU74cPc93h138M+aOBQyRE4XSUI=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     rc "^1.0.1"
 
@@ -9760,7 +12456,15 @@ request-promise-native@^1.0.5:
     stealthy-require "^1.1.0"
     tough-cookie ">=2.3.3"
 
+<<<<<<< HEAD
 request@^2.67.0, request@^2.74.0, request@^2.79.0, request@^2.83.0, request@^2.85.0, request@^2.87.0, request@^2.88.0:
+=======
+<<<<<<< HEAD
+request@^2.74.0, request@^2.79.0, request@^2.85.0, request@^2.87.0, request@^2.88.0:
+=======
+request@^2.67.0, request@^2.74.0, request@^2.79.0, request@^2.83.0, request@^2.85.0, request@^2.87.0, request@^2.88.0:
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   version "2.88.0"
   resolved "https://registry.yarnpkg.com/request/-/request-2.88.0.tgz#9c2fca4f7d35b592efe57c7f0a55e81052124fef"
   dependencies:
@@ -9792,6 +12496,14 @@ require-directory@^2.1.1:
 require-from-string@^1.1.0:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/require-from-string/-/require-from-string-1.2.1.tgz#529c9ccef27380adfec9a2f965b649bbee636418"
+<<<<<<< HEAD
+=======
+
+require-from-string@^1.1.0:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/require-from-string/-/require-from-string-1.2.1.tgz#529c9ccef27380adfec9a2f965b649bbee636418"
+  integrity sha1-UpyczvJzgK3+yaL5ZbZJu+5jZBg=
+>>>>>>> feature/combine-contracts
 
 require-from-string@^2.0.1:
   version "2.0.2"
@@ -9836,6 +12548,14 @@ resolve-from@^3.0.0:
 resolve-from@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/resolve-from/-/resolve-from-4.0.0.tgz#4abcd852ad32dd7baabfe9b40e00a36db5f392e6"
+<<<<<<< HEAD
+=======
+
+resolve-from@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/resolve-from/-/resolve-from-4.0.0.tgz#4abcd852ad32dd7baabfe9b40e00a36db5f392e6"
+  integrity sha512-pb/MYmXstAkysRFx8piNI1tGFNQIFA3vkE3Gq4EuA1dF6gHp/+vgZqsCGJapvy8N3Q+4o7FwvquPJcnZ7RYy4g==
+>>>>>>> feature/combine-contracts
 
 resolve-url@^0.2.1:
   version "0.2.1"
@@ -9888,6 +12608,19 @@ retry@^0.10.0:
 retry@^0.12.0:
   version "0.12.0"
   resolved "https://registry.yarnpkg.com/retry/-/retry-0.12.0.tgz#1b42a6266a21f07421d1b0b54b7dc167b01c013b"
+<<<<<<< HEAD
+=======
+
+retry@^0.10.0:
+  version "0.10.1"
+  resolved "https://registry.yarnpkg.com/retry/-/retry-0.10.1.tgz#e76388d217992c252750241d3d3956fed98d8ff4"
+  integrity sha1-52OI0heZLCUnUCQdPTlW/tmNj/Q=
+
+retry@^0.12.0:
+  version "0.12.0"
+  resolved "https://registry.yarnpkg.com/retry/-/retry-0.12.0.tgz#1b42a6266a21f07421d1b0b54b7dc167b01c013b"
+  integrity sha1-G0KmJmoh8HQh0bC1S33BZ7AcATs=
+>>>>>>> feature/combine-contracts
 
 rgb-regex@^1.0.1:
   version "1.0.1"
@@ -9900,6 +12633,13 @@ rgba-regex@^1.0.0:
 right-align@^0.1.1:
   version "0.1.3"
   resolved "https://registry.yarnpkg.com/right-align/-/right-align-0.1.3.tgz#61339b722fe6a3515689210d24e14c96148613ef"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-YTObci/mo1FWiSENJOFMlhSGE+8=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     align-text "^0.1.1"
 
@@ -10069,6 +12809,15 @@ selfsigned@^1.9.1:
   dependencies:
     node-forge "0.7.5"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+semver-diff@^2.0.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/semver-diff/-/semver-diff-2.1.0.tgz#4bbb8437c8d37e4b0cf1a68fd726ec6d645d6d36"
+  integrity sha1-S7uEN8jTfksM8aaP1ybsbWRdbTY=
+=======
+>>>>>>> feature/combine-contracts
 semaphore@>=1.0.1, semaphore@^1.0.3:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/semaphore/-/semaphore-1.1.0.tgz#aaad8b86b20fe8e9b32b16dc2ee682a8cd26a8aa"
@@ -10080,6 +12829,10 @@ semver-compare@^1.0.0:
 semver-diff@^2.0.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/semver-diff/-/semver-diff-2.1.0.tgz#4bbb8437c8d37e4b0cf1a68fd726ec6d645d6d36"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     semver "^5.0.3"
 
@@ -10094,6 +12847,14 @@ semver@~5.3.0:
 semver@~5.4.1:
   version "5.4.1"
   resolved "https://registry.yarnpkg.com/semver/-/semver-5.4.1.tgz#e059c09d8571f0540823733433505d3a2f00b18e"
+<<<<<<< HEAD
+=======
+
+semver@~5.3.0:
+  version "5.3.0"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-5.3.0.tgz#9b2ce5d3de02d17c6012ad326aa6b4d0cf54f94f"
+  integrity sha1-myzl094C0XxgEq0yaqa00M9U+U8=
+>>>>>>> feature/combine-contracts
 
 send@0.16.2:
   version "0.16.2"
@@ -10116,6 +12877,13 @@ send@0.16.2:
 sentence-case@^2.1.0:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/sentence-case/-/sentence-case-2.1.1.tgz#1f6e2dda39c168bf92d13f86d4a918933f667ed4"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-H24t2jnBaL+S0T+G1KkYkz9mftQ=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     no-case "^2.2.0"
     upper-case-first "^1.1.2"
@@ -10148,6 +12916,13 @@ serve-static@1.13.2:
 servify@^0.1.12:
   version "0.1.12"
   resolved "https://registry.yarnpkg.com/servify/-/servify-0.1.12.tgz#142ab7bee1f1d033b66d0707086085b17c06db95"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-/xE6GvsKKqyo1BAY+KxOWXcLpPsUUyji7Qg3bVD7hh1eRze5bR1uYiuDA/k3Gof1s9BTzQZEJK8sNcNGFIzeWw==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     body-parser "^1.16.0"
     cors "^2.8.1"
@@ -10221,10 +12996,19 @@ set-value@^2.0.0:
     is-plain-object "^2.0.3"
     split-string "^3.0.1"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> feature/combine-contracts
 setimmediate@1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/setimmediate/-/setimmediate-1.0.4.tgz#20e81de622d4a02588ce0c8da8973cbcf1d3138f"
 
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 setimmediate@^1.0.4, setimmediate@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/setimmediate/-/setimmediate-1.0.5.tgz#290cbb232e306942d7d7ea9b83732ab7856f8285"
@@ -10274,6 +13058,15 @@ sha.js@^2.4.0, sha.js@^2.4.8:
     inherits "^2.0.1"
     safe-buffer "^5.0.1"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+sha3@^1.1.0:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/sha3/-/sha3-1.2.2.tgz#a66c5098de4c25bc88336ec8b4817d005bca7ba9"
+  integrity sha1-pmxQmN5MJbyIM27ItIF9AFvKe6k=
+=======
+>>>>>>> feature/combine-contracts
 sha1@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/sha1/-/sha1-1.1.1.tgz#addaa7a93168f393f19eb2b15091618e2700f848"
@@ -10284,12 +13077,23 @@ sha1@^1.1.1:
 sha3@^1.1.0:
   version "1.2.2"
   resolved "https://registry.yarnpkg.com/sha3/-/sha3-1.2.2.tgz#a66c5098de4c25bc88336ec8b4817d005bca7ba9"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     nan "2.10.0"
 
 sha@~2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/sha/-/sha-2.0.1.tgz#6030822fbd2c9823949f8f72ed6411ee5cf25aae"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-YDCCL70smCOUn49y7WQR7lzyWq4=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     graceful-fs "^4.1.2"
     readable-stream "^2.0.2"
@@ -10357,6 +13161,23 @@ simple-get@^2.7.0:
     decompress-response "^3.3.0"
     once "^1.3.1"
     simple-concat "^1.0.0"
+<<<<<<< HEAD
+=======
+
+simple-concat@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/simple-concat/-/simple-concat-1.0.0.tgz#7344cbb8b6e26fb27d66b2fc86f9f6d5997521c6"
+  integrity sha1-c0TLuLbib7J9ZrL8hvn21Zl1IcY=
+
+simple-get@^2.7.0:
+  version "2.8.1"
+  resolved "https://registry.yarnpkg.com/simple-get/-/simple-get-2.8.1.tgz#0e22e91d4575d87620620bc91308d57a77f44b5d"
+  integrity sha512-lSSHRSw3mQNUGPAYRqo7xy9dhKmxFXIjLjp4KHpf99GEH2VH7C3AM+Qfx6du6jhfUi6Vm7XnbEVEf7Wb6N8jRw==
+  dependencies:
+    decompress-response "^3.3.0"
+    once "^1.3.1"
+    simple-concat "^1.0.0"
+>>>>>>> feature/combine-contracts
 
 simple-swizzle@^0.2.2:
   version "0.2.2"
@@ -10385,18 +13206,46 @@ slice-ansi@1.0.0:
 slide@^1.1.3, slide@^1.1.6, slide@~1.1.3, slide@~1.1.6:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/slide/-/slide-1.1.6.tgz#56eb027d65b4d2dce6cb2e2d32c4d4afc9e1d707"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-VusCfWW00tzmyy4tMsTUr8nh1wc=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 smart-buffer@^1.0.13:
   version "1.1.15"
   resolved "https://registry.yarnpkg.com/smart-buffer/-/smart-buffer-1.1.15.tgz#7f114b5b65fab3e2a35aa775bb12f0d1c649bf16"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-fxFLW2X6s+KjWqd1uxLw0cZJvxY=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 smart-buffer@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/smart-buffer/-/smart-buffer-4.0.1.tgz#07ea1ca8d4db24eb4cac86537d7d18995221ace3"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-RFqinRVJVcCAL9Uh1oVqE6FZkqsyLiVOYEZ20TqIOjuX7iFVJ+zsbs4RIghnw/pTs7mZvt8ZHhvm1ZUrR4fykg==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 snake-case@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/snake-case/-/snake-case-2.1.0.tgz#41bdb1b73f30ec66a04d4e2cad1b76387d4d6d9f"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-Qb2xtz8w7GagTU4srRt2OH1NbZ8=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     no-case "^2.2.0"
 
@@ -10448,6 +13297,13 @@ sockjs@0.3.19:
 socks-proxy-agent@^3.0.1:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/socks-proxy-agent/-/socks-proxy-agent-3.0.1.tgz#2eae7cf8e2a82d34565761539a7f9718c5617659"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-ZwEDymm204mTzvdqyUqOdovVr2YRd2NYskrYrF2LXyZ9qDiMAoFESGK8CRphiO7rtbo2Y757k2Nia3x2hGtalA==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     agent-base "^4.1.0"
     socks "^1.1.10"
@@ -10455,6 +13311,13 @@ socks-proxy-agent@^3.0.1:
 socks-proxy-agent@^4.0.0:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/socks-proxy-agent/-/socks-proxy-agent-4.0.1.tgz#5936bf8b707a993079c6f37db2091821bffa6473"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-Kezx6/VBguXOsEe5oU3lXYyKMi4+gva72TwJ7pQY5JfqUx2nMk7NXA6z/mpNqIlfQjWYVfeuNvQjexiTaTn6Nw==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     agent-base "~4.2.0"
     socks "~2.2.0"
@@ -10462,6 +13325,13 @@ socks-proxy-agent@^4.0.0:
 socks@^1.1.10:
   version "1.1.10"
   resolved "https://registry.yarnpkg.com/socks/-/socks-1.1.10.tgz#5b8b7fc7c8f341c53ed056e929b7bf4de8ba7b5a"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-W4t/x8jzQcU+0FbpKbe/Tei6e1o=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     ip "^1.1.4"
     smart-buffer "^1.0.13"
@@ -10469,10 +13339,26 @@ socks@^1.1.10:
 socks@~2.2.0:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/socks/-/socks-2.2.1.tgz#68ad678b3642fbc5d99c64c165bc561eab0215f9"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-0GabKw7n9mI46vcNrVfs0o6XzWzjVa3h6GaSo2UPxtWAROXUWavfJWh1M4PR5tnE0dcnQXZIDFP4yrAysLze/w==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     ip "^1.1.5"
     smart-buffer "^4.0.1"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+solc@0.4.24:
+  version "0.4.24"
+  resolved "https://registry.yarnpkg.com/solc/-/solc-0.4.24.tgz#354f14b269b38cbaa82a47d1ff151723502b954e"
+  integrity sha512-2xd7Cf1HeVwrIb6Bu1cwY2/TaLRodrppCq3l7rhLimFQgmxptXhTC3+/wesVLpB09F1A2kZgvbMOgH7wvhFnBQ==
+=======
+>>>>>>> feature/combine-contracts
 sol-digger@0.0.2:
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/sol-digger/-/sol-digger-0.0.2.tgz#406c4a9d31e269e7f88eb1c2ea101318e5e09025"
@@ -10491,6 +13377,10 @@ sol-trace-set@^0.0.1:
 solc@0.4.24:
   version "0.4.24"
   resolved "https://registry.yarnpkg.com/solc/-/solc-0.4.24.tgz#354f14b269b38cbaa82a47d1ff151723502b954e"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     fs-extra "^0.30.0"
     memorystream "^0.3.1"
@@ -10498,9 +13388,22 @@ solc@0.4.24:
     semver "^5.3.0"
     yargs "^4.7.1"
 
+<<<<<<< HEAD
 solc@^0.4.11, solc@^0.4.2, solc@^0.4.20:
   version "0.4.25"
   resolved "https://registry.yarnpkg.com/solc/-/solc-0.4.25.tgz#06b8321f7112d95b4b903639b1138a4d292f5faa"
+=======
+<<<<<<< HEAD
+solc@^0.4.11, solc@^0.4.20:
+  version "0.4.25"
+  resolved "https://registry.yarnpkg.com/solc/-/solc-0.4.25.tgz#06b8321f7112d95b4b903639b1138a4d292f5faa"
+  integrity sha512-jU1YygRVy6zatgXrLY2rRm7HW1d7a8CkkEgNJwvH2VLpWhMFsMdWcJn6kUqZwcSz/Vm+w89dy7Z/aB5p6AFTrg==
+=======
+solc@^0.4.11, solc@^0.4.2, solc@^0.4.20:
+  version "0.4.25"
+  resolved "https://registry.yarnpkg.com/solc/-/solc-0.4.25.tgz#06b8321f7112d95b4b903639b1138a4d292f5faa"
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     fs-extra "^0.30.0"
     memorystream "^0.3.1"
@@ -10514,6 +13417,15 @@ solc@^0.4.11, solc@^0.4.2, solc@^0.4.20:
   dependencies:
     cbor ">=4.0.0"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+sorted-object@~2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/sorted-object/-/sorted-object-2.0.1.tgz#7d631f4bd3a798a24af1dffcfbfe83337a5df5fc"
+  integrity sha1-fWMfS9OnmKJK8d/8+/6DM3pd9fw=
+=======
+>>>>>>> feature/combine-contracts
 solidity-parser-antlr@^0.2.10:
   version "0.2.15"
   resolved "https://registry.yarnpkg.com/solidity-parser-antlr/-/solidity-parser-antlr-0.2.15.tgz#4be687a0a53da268c6a07398e0cfb3168896d610"
@@ -10550,10 +13462,21 @@ solparse@2.2.5:
 sorted-object@~2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/sorted-object/-/sorted-object-2.0.1.tgz#7d631f4bd3a798a24af1dffcfbfe83337a5df5fc"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 sorted-union-stream@~2.1.3:
   version "2.1.3"
   resolved "https://registry.yarnpkg.com/sorted-union-stream/-/sorted-union-stream-2.1.3.tgz#c7794c7e077880052ff71a8d4a2dbb4a9a638ac7"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-x3lMfgd4gAUv9xqNSi27Sppjisc=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     from2 "^1.3.0"
     stream-iterate "^1.1.0"
@@ -10737,6 +13660,13 @@ stream-http@^2.7.2:
 stream-iterate@^1.1.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/stream-iterate/-/stream-iterate-1.2.0.tgz#2bd7c77296c1702a46488b8ad41f79865eecd4e1"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-K9fHcpbBcCpGSIuK1B95hl7s1OE=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     readable-stream "^2.1.5"
     stream-shift "^1.0.0"
@@ -10756,6 +13686,19 @@ strict-uri-encode@^2.0.0:
 string-argv@^0.0.2:
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/string-argv/-/string-argv-0.0.2.tgz#dac30408690c21f3c3630a3ff3a05877bdcbd736"
+<<<<<<< HEAD
+=======
+
+strict-uri-encode@^1.0.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/strict-uri-encode/-/strict-uri-encode-1.1.0.tgz#279b225df1d582b1f54e65addd4352e18faa0713"
+  integrity sha1-J5siXfHVgrH1TmWt3UNS4Y+qBxM=
+
+strict-uri-encode@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/strict-uri-encode/-/strict-uri-encode-2.0.0.tgz#b9c7330c7042862f6b142dc274bbcc5866ce3546"
+  integrity sha1-ucczDHBChi9rFC3CdLvMWGbONUY=
+>>>>>>> feature/combine-contracts
 
 string-length@^2.0.0:
   version "2.0.0"
@@ -10847,6 +13790,16 @@ strip-hex-prefix@1.0.0:
 strip-indent@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/strip-indent/-/strip-indent-2.0.0.tgz#5ef8db295d01e6ed6cbf7aab96998d7822527b68"
+<<<<<<< HEAD
+=======
+
+strip-hex-prefix@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/strip-hex-prefix/-/strip-hex-prefix-1.0.0.tgz#0c5f155fef1151373377de9dbb588da05500e36f"
+  integrity sha1-DF8VX+8RUTczd96du1iNoFUA428=
+  dependencies:
+    is-hex-prefixed "1.0.0"
+>>>>>>> feature/combine-contracts
 
 strip-json-comments@^2.0.1, strip-json-comments@~2.0.1:
   version "2.0.1"
@@ -10870,6 +13823,13 @@ stylehacks@^4.0.0:
 supports-color@4.4.0:
   version "4.4.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-4.4.0.tgz#883f7ddabc165142b2a61427f3352ded195d1a3e"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-rKC3+DyXWgK0ZLKwmRsrkyHVZAjNkfzeehuFWdGGcqGDTZFH73+RH6S/RDAAxl9GusSjZSUWYLmT9N5pzXFOXQ==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     has-flag "^2.0.0"
 
@@ -10886,6 +13846,13 @@ supports-color@^3.1.2:
 supports-color@^4.2.1:
   version "4.5.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-4.5.0.tgz#be7a0de484dec5c5cddf8b3d59125044912f635b"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-vnoN5ITexcXN34s9WRJQRJEvY1s=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     has-flag "^2.0.0"
 
@@ -10917,14 +13884,30 @@ svgo@^1.0.0, svgo@^1.0.5:
 swap-case@^1.1.0:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/swap-case/-/swap-case-1.1.2.tgz#c39203a4587385fad3c850a0bd1bcafa081974e3"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-w5IDpFhzhfrTyFCgvRvK+ggZdOM=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     lower-case "^1.1.1"
     upper-case "^1.1.1"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> feature/combine-contracts
 symbol-observable@^1.1.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/symbol-observable/-/symbol-observable-1.2.0.tgz#c22688aed4eab3cdc2dfeacbb561660560a00804"
 
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 symbol-tree@^3.2.2:
   version "3.2.2"
   resolved "https://registry.yarnpkg.com/symbol-tree/-/symbol-tree-3.2.2.tgz#ae27db38f660a7ae2e1c3b7d1bc290819b8519e6"
@@ -10957,11 +13940,27 @@ table@^4.0.3:
 tapable@^0.2.7:
   version "0.2.8"
   resolved "https://registry.yarnpkg.com/tapable/-/tapable-0.2.8.tgz#99372a5c999bf2df160afc0d74bed4f47948cd22"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-mTcqXJmb8t8WCvwNdL7U9HlIzSI=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 tapable@^1.0.0, tapable@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/tapable/-/tapable-1.1.0.tgz#0d076a172e3d9ba088fd2272b2668fb8d194b78c"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+tar@^2.0.0:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/tar/-/tar-2.2.1.tgz#8e4d2a256c0e2185c6b18ad694aec968b83cb1d1"
+  integrity sha1-jk0qJWwOIYXGsYrWlK7JaLg8sdE=
+=======
+>>>>>>> feature/combine-contracts
 tape@^4.4.0:
   version "4.9.1"
   resolved "https://registry.yarnpkg.com/tape/-/tape-4.9.1.tgz#1173d7337e040c76fbf42ec86fcabedc9b3805c9"
@@ -10983,6 +13982,10 @@ tape@^4.4.0:
 tar@^2.0.0:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/tar/-/tar-2.2.1.tgz#8e4d2a256c0e2185c6b18ad694aec968b83cb1d1"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     block-stream "*"
     fstream "^1.0.2"
@@ -11003,6 +14006,13 @@ tar@^4, tar@^4.4.0, tar@^4.4.2, tar@^4.4.3:
 term-size@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/term-size/-/term-size-1.2.0.tgz#458b83887f288fc56d6fffbfad262e26638efa69"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-RYuDiH8oj8Vtb/+/rSYuJmOO+mk=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     execa "^0.7.0"
 
@@ -11040,6 +14050,13 @@ test-exclude@^4.2.1:
 testrpc@0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/testrpc/-/testrpc-0.0.1.tgz#83e2195b1f5873aec7be1af8cbe6dcf39edb7aed"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-afH1hO+SQ/VPlmaLUFj2636QMeDvPCeQMc/9RBMW0IfjNe9gFD9Ra3ShqYkB7py0do1ZcCna/9acHyzTJ+GcNA==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 text-table@0.2.0, text-table@^0.2.0, text-table@~0.2.0:
   version "0.2.0"
@@ -11072,7 +14089,15 @@ through2@^2.0.0:
     readable-stream "^2.1.5"
     xtend "~4.0.1"
 
+<<<<<<< HEAD
 "through@>=2.2.7 <3", through@^2.3.6, through@~2.3.4, through@~2.3.8:
+=======
+<<<<<<< HEAD
+"through@>=2.2.7 <3", through@^2.3.6:
+=======
+"through@>=2.2.7 <3", through@^2.3.6, through@~2.3.4, through@~2.3.8:
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   version "2.3.8"
   resolved "http://registry.npmjs.org/through/-/through-2.3.8.tgz#0dd4c9ffaabc357960b1b724115d7e0e86a2e1f5"
 
@@ -11083,6 +14108,14 @@ thunky@^1.0.2:
 timed-out@^4.0.0, timed-out@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/timed-out/-/timed-out-4.0.1.tgz#f32eacac5a175bea25d7fab565ab3ed8741ef56f"
+<<<<<<< HEAD
+=======
+
+timed-out@^4.0.0, timed-out@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/timed-out/-/timed-out-4.0.1.tgz#f32eacac5a175bea25d7fab565ab3ed8741ef56f"
+  integrity sha1-8y6srFoXW+ol1/q1Zas+2HQe9W8=
+>>>>>>> feature/combine-contracts
 
 timekeeper@^2.1.2:
   version "2.1.2"
@@ -11114,6 +14147,22 @@ title-case@^2.1.0:
   dependencies:
     no-case "^2.2.0"
     upper-case "^1.0.3"
+<<<<<<< HEAD
+=======
+
+tiny-relative-date@^1.3.0:
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/tiny-relative-date/-/tiny-relative-date-1.3.0.tgz#fa08aad501ed730f31cc043181d995c39a935e07"
+  integrity sha512-MOQHpzllWxDCHHaDno30hhLfbouoYlOI8YlMNtvKe1zXbjEVhbcEovQxvZrPvtiYW630GQDoMMarCnjfyfHA+A==
+
+title-case@^2.1.0:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/title-case/-/title-case-2.1.1.tgz#3e127216da58d2bc5becf137ab91dae3a7cd8faa"
+  integrity sha1-PhJyFtpY0rxb7PE3q5Ha46fNj6o=
+  dependencies:
+    no-case "^2.2.0"
+    upper-case "^1.0.3"
+>>>>>>> feature/combine-contracts
 
 tmp@^0.0.33:
   version "0.0.33"
@@ -11245,16 +14294,67 @@ truffle@^4.0.4:
     mocha "^4.1.0"
     original-require "1.0.1"
     solc "0.4.24"
+<<<<<<< HEAD
+=======
+
+trim@0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/trim/-/trim-0.0.1.tgz#5858547f6b290757ee95cccc666fb50084c460dd"
+  integrity sha1-WFhUf2spB1fulczMZm+1AITEYN0=
+
+truffle-config@^1.0.0:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/truffle-config/-/truffle-config-1.0.6.tgz#181da7d319c0c55eb2781d5c1886a9c7f32fa470"
+  integrity sha1-GB2n0xnAxV6yeB1cGIapx/MvpHA=
+  dependencies:
+    find-up "^2.1.0"
+    lodash "4.17.10"
+    original-require "1.0.1"
+    truffle-error "^0.0.3"
+    truffle-provider "^0.0.6"
+
+truffle-error@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/truffle-error/-/truffle-error-0.0.3.tgz#4bf55242e14deee1c7194932709182deff2c97ca"
+  integrity sha1-S/VSQuFN7uHHGUkycJGC3v8sl8o=
+
+truffle-provider@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/truffle-provider/-/truffle-provider-0.0.6.tgz#71a92ed67636ada5e78905690d72ea922ad4a613"
+  integrity sha1-caku1nY2raXniQVpDXLqkirUphM=
+  dependencies:
+    truffle-error "^0.0.3"
+    web3 "0.20.6"
+
+truffle@^4.0.4:
+  version "4.1.14"
+  resolved "https://registry.yarnpkg.com/truffle/-/truffle-4.1.14.tgz#8d2c298e29abf9b1e486e44ff9faca6d34bb9030"
+  integrity sha512-e7tTLvKP3bN9dE7MagfWyFjy4ZgoEGbeujECy1me1ENBzbj/aO/+45gs72qsL3+3IkCNNcWNOJjjrm8BYZZNNg==
+  dependencies:
+    mocha "^4.1.0"
+    original-require "1.0.1"
+    solc "0.4.24"
+>>>>>>> feature/combine-contracts
 
 tryer@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/tryer/-/tryer-1.0.1.tgz#f2c85406800b9b0f74c9f7465b81eaad241252f8"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+tslib@^1.9.0, tslib@^1.9.3:
+=======
+>>>>>>> feature/combine-contracts
 tslib@1.9.0:
   version "1.9.0"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.9.0.tgz#e37a86fda8cbbaf23a057f473c9f4dc64e5fc2e8"
 
 tslib@^1.8.1, tslib@^1.9.0, tslib@^1.9.3:
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   version "1.9.3"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.9.3.tgz#d7e4dd79245d85428c4d7e4822a79917954ca286"
 
@@ -11310,6 +14410,14 @@ typedarray@^0.0.6:
 ua-parser-js@^0.7.18:
   version "0.7.18"
   resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.18.tgz#a7bfd92f56edfb117083b69e31d2aa8882d4b1ed"
+<<<<<<< HEAD
+=======
+
+ua-parser-js@^0.7.18:
+  version "0.7.18"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.18.tgz#a7bfd92f56edfb117083b69e31d2aa8882d4b1ed"
+  integrity sha512-LtzwHlVHwFGTptfNSgezHp7WUlwiqb0gA9AALRbKaERfxwJoiX0A73QbTToxteIAuIaFshhgIZfqK8s7clqgnA==
+>>>>>>> feature/combine-contracts
 
 uglify-es@^3.3.4:
   version "3.3.9"
@@ -11328,6 +14436,13 @@ uglify-js@3.4.x, uglify-js@^3.1.4:
 uglify-js@^2.8.29:
   version "2.8.29"
   resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-2.8.29.tgz#29c5733148057bb4e1f75df35b7a9cb72e6a59dd"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-KcVzMUgFe7Th913zW3qcty5qWd0=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     source-map "~0.5.1"
     yargs "~3.10.0"
@@ -11337,10 +14452,24 @@ uglify-js@^2.8.29:
 uglify-to-browserify@~1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/uglify-to-browserify/-/uglify-to-browserify-1.0.2.tgz#6e0924d6bda6b5afe349e39a6d632850a0f882b7"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-bgkk1r2mta/jSeOabWMoUKD4grc=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 uglifyjs-webpack-plugin@^0.4.6:
   version "0.4.6"
   resolved "https://registry.yarnpkg.com/uglifyjs-webpack-plugin/-/uglifyjs-webpack-plugin-0.4.6.tgz#b951f4abb6bd617e66f63eb891498e391763e309"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-uVH0q7a9YX5m9j64kUmOORdj4wk=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     source-map "^0.5.6"
     uglify-js "^2.8.29"
@@ -11362,18 +14491,46 @@ uglifyjs-webpack-plugin@^1.2.4:
 uid-number@0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/uid-number/-/uid-number-0.0.6.tgz#0ea10e8035e8eb5b8e4449f06da1c730663baa81"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-DqEOgDXo61uOREnwbaHHMGY7qoE=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 ultron@~1.1.0:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/ultron/-/ultron-1.1.1.tgz#9fe1536a10a664a65266a1e3ccf85fd36302bc9c"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-UIEXBNeYmKptWH6z8ZnqTeS8fV74zG0/eRU9VGkpzz+LIJNs8W/zM/L+7ctCkRrgbNnnR0xxw4bKOr0cW0N0Og==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 umask@^1.1.0, umask@~1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/umask/-/umask-1.1.0.tgz#f29cebf01df517912bb58ff9c4e50fde8e33320d"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-8pzr8B31F5ErtY/5xOUP3o4zMg0=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 underscore@1.8.3:
   version "1.8.3"
   resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.8.3.tgz#4f3fb53b106e6097fcf9cb4109f2a5e9bdfa5022"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-Tz+1OxBuYJf8+ctBCfKl6b36UCI=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"
@@ -11426,6 +14583,13 @@ unique-slug@^2.0.0:
 unique-string@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/unique-string/-/unique-string-1.0.0.tgz#9e1057cca851abb93398f8b33ae187b99caec11a"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-nhBXzKhRq7kzmPizOuGHuZyuwRo=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     crypto-random-string "^1.0.0"
 
@@ -11455,6 +14619,13 @@ unset-value@^1.0.0:
 unzip-response@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/unzip-response/-/unzip-response-2.0.1.tgz#d2f0f737d16b0615e72a6935ed04214572d56f97"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-0vD3N9FrBhXnKmk17QQhRXLVb5c=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 upath@^1.0.5:
   version "1.1.0"
@@ -11463,6 +14634,13 @@ upath@^1.0.5:
 update-notifier@^2.3.0, update-notifier@^2.5.0:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/update-notifier/-/update-notifier-2.5.0.tgz#d0744593e13f161e406acb1d9408b72cad08aff6"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-gwMdhgJHGuj/+wHJJs9e6PcCszpxR1b236igrOkUofGhqJuG+amlIKwApH1IW1WWl7ovZxsX49lMBWLxSdm5Dw==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     boxen "^1.2.1"
     chalk "^2.0.1"
@@ -11478,6 +14656,13 @@ update-notifier@^2.3.0, update-notifier@^2.5.0:
 upper-case-first@^1.1.0, upper-case-first@^1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/upper-case-first/-/upper-case-first-1.1.2.tgz#5d79bedcff14419518fd2edb0a0507c9b6859115"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-XXm+3P8UQZUY/S7bCgUHybaFkRU=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     upper-case "^1.1.1"
 
@@ -11506,6 +14691,13 @@ url-loader@1.1.1:
 url-parse-lax@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/url-parse-lax/-/url-parse-lax-1.0.0.tgz#7af8f303645e9bd79a272e7a14ac68bc0609da73"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-evjzA2Rem9eaJy56FKxovAYJ2nM=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     prepend-http "^1.0.1"
 
@@ -11519,6 +14711,13 @@ url-parse@^1.1.8, url-parse@^1.4.3:
 url-set-query@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/url-set-query/-/url-set-query-1.0.0.tgz#016e8cfd7c20ee05cafe7795e892bd0702faa339"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-AW6M/Xwg7gXK/neV6JK9BwL6ozk=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 url@^0.11.0:
   version "0.11.0"
@@ -11542,6 +14741,19 @@ utf8@^2.1.1:
 utf8@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/utf8/-/utf8-3.0.0.tgz#f052eed1364d696e769ef058b183df88c87f69d1"
+<<<<<<< HEAD
+=======
+
+utf8@2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/utf8/-/utf8-2.1.1.tgz#2e01db02f7d8d0944f77104f1609eb0c304cf768"
+  integrity sha1-LgHbAvfY0JRPdxBPFgnrDDBM92g=
+
+utf8@^2.1.1:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/utf8/-/utf8-2.1.2.tgz#1fa0d9270e9be850d9b05027f63519bf46457d96"
+  integrity sha1-H6DZJw6b6FDZsFAn9jUZv0ZFfZY=
+>>>>>>> feature/combine-contracts
 
 util-deprecate@~1.0.1:
   version "1.0.2"
@@ -11550,6 +14762,14 @@ util-deprecate@~1.0.1:
 util-extend@^1.0.1:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/util-extend/-/util-extend-1.0.3.tgz#a7c216d267545169637b3b6edc6ca9119e2ff93f"
+<<<<<<< HEAD
+=======
+
+util-extend@^1.0.1:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/util-extend/-/util-extend-1.0.3.tgz#a7c216d267545169637b3b6edc6ca9119e2ff93f"
+  integrity sha1-p8IW0mdUUWljeztu3GypEZ4v+T8=
+>>>>>>> feature/combine-contracts
 
 util.promisify@1.0.0, util.promisify@^1.0.0, util.promisify@~1.0.0:
   version "1.0.0"
@@ -11578,18 +14798,36 @@ utils-merge@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/utils-merge/-/utils-merge-1.0.1.tgz#9f95710f50a267947b2ccc124741c1028427e713"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> feature/combine-contracts
 uuid@2.0.1:
   version "2.0.1"
   resolved "http://registry.npmjs.org/uuid/-/uuid-2.0.1.tgz#c2a30dedb3e535d72ccf82e343941a50ba8533ac"
 
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 uuid@^3.0.1, uuid@^3.2.1, uuid@^3.3.2:
   version "3.3.2"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.3.2.tgz#1b4af4955eb3077c501c23872fc6513811587131"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> feature/combine-contracts
 valid-url@^1.0.9:
   version "1.0.9"
   resolved "https://registry.yarnpkg.com/valid-url/-/valid-url-1.0.9.tgz#1c14479b40f1397a75782f115e4086447433a200"
 
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 validate-npm-package-license@^3.0.1, validate-npm-package-license@^3.0.3:
   version "3.0.4"
   resolved "https://registry.yarnpkg.com/validate-npm-package-license/-/validate-npm-package-license-3.0.4.tgz#fc91f6b9c7ba15c857f4cb2c5defeec39d4f410a"
@@ -11600,6 +14838,13 @@ validate-npm-package-license@^3.0.1, validate-npm-package-license@^3.0.3:
 validate-npm-package-name@^3.0.0, validate-npm-package-name@~3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/validate-npm-package-name/-/validate-npm-package-name-3.0.0.tgz#5fa912d81eb7d0c74afc140de7317f0ca7df437e"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-X6kS2B630MdK/BQN5zF/DKffQ34=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     builtins "^1.0.3"
 
@@ -11640,6 +14885,13 @@ walker@~1.0.5:
 warning@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/warning/-/warning-3.0.0.tgz#32e5377cb572de4ab04753bdf8821c01ed605b7c"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-MuU3fLVy3kqwR1O9+IIcAe1gW3w=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     loose-envify "^1.0.0"
 
@@ -11667,6 +14919,19 @@ wbuf@^1.1.0, wbuf@^1.7.2:
 wcwidth@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/wcwidth/-/wcwidth-1.0.1.tgz#f0b0dcf915bc5ff1528afadb2c0e17b532da2fe8"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-8LDc+RW8X/FSivrbLA4XtTLaL+g=
+  dependencies:
+    defaults "^1.0.3"
+
+web3-utils@^1.0.0-beta.31:
+  version "1.0.0-beta.36"
+  resolved "https://registry.yarnpkg.com/web3-utils/-/web3-utils-1.0.0-beta.36.tgz#dc19c9aeec009b1816cc91ef64d7fe9f8ee344c9"
+  integrity sha512-7ri74lG5fS2Th0fhYvTtiEHMB1Pmf2p7dQx1COQ3OHNI/CHNEMjzoNMEbBU6FAENrywfoFur40K4m0AOmEUq5A==
+=======
+>>>>>>> feature/combine-contracts
   dependencies:
     defaults "^1.0.3"
 
@@ -11704,6 +14969,10 @@ web3-utils@1.0.0-beta.35:
 web3-utils@^1.0.0-beta.31:
   version "1.0.0-beta.36"
   resolved "https://registry.yarnpkg.com/web3-utils/-/web3-utils-1.0.0-beta.36.tgz#dc19c9aeec009b1816cc91ef64d7fe9f8ee344c9"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     bn.js "4.11.6"
     eth-lib "0.1.27"
@@ -11713,6 +14982,15 @@ web3-utils@^1.0.0-beta.31:
     underscore "1.8.3"
     utf8 "2.1.1"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+web3@0.20.6:
+  version "0.20.6"
+  resolved "https://registry.yarnpkg.com/web3/-/web3-0.20.6.tgz#3e97306ae024fb24e10a3d75c884302562215120"
+  integrity sha1-PpcwauAk+yThCj11yIQwJWIhUSA=
+=======
+>>>>>>> feature/combine-contracts
 web3@0.20.0:
   version "0.20.0"
   resolved "https://registry.yarnpkg.com/web3/-/web3-0.20.0.tgz#aabbbe35fe6cabe811659087a55cc86e99336c74"
@@ -11726,6 +15004,10 @@ web3@0.20.0:
 web3@0.20.6:
   version "0.20.6"
   resolved "http://registry.npmjs.org/web3/-/web3-0.20.6.tgz#3e97306ae024fb24e10a3d75c884302562215120"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     bignumber.js "git+https://github.com/frozeman/bignumber.js-nolookahead.git"
     crypto-js "^3.1.4"
@@ -11733,6 +15015,15 @@ web3@0.20.6:
     xhr2 "*"
     xmlhttprequest "*"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+web3@^0.19.1:
+  version "0.19.1"
+  resolved "https://registry.yarnpkg.com/web3/-/web3-0.19.1.tgz#e763d5b1107c4bc24abd4f8cbee1ba3659e6eb31"
+  integrity sha1-52PVsRB8S8JKvU+MvuG6Nlnm6zE=
+=======
+>>>>>>> feature/combine-contracts
 web3@0.20.7:
   version "0.20.7"
   resolved "https://registry.yarnpkg.com/web3/-/web3-0.20.7.tgz#1605e6d81399ed6f85a471a4f3da0c8be57df2f7"
@@ -11765,6 +15056,10 @@ web3@^0.18.2, web3@^0.18.4:
 web3@^0.19.1:
   version "0.19.1"
   resolved "https://registry.yarnpkg.com/web3/-/web3-0.19.1.tgz#e763d5b1107c4bc24abd4f8cbee1ba3659e6eb31"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     bignumber.js "^4.0.2"
     crypto-js "^3.1.4"
@@ -11872,6 +15167,13 @@ webpack@4.19.1:
 webpack@^3.0.0:
   version "3.12.0"
   resolved "https://registry.yarnpkg.com/webpack/-/webpack-3.12.0.tgz#3f9e34360370602fcf639e97939db486f4ec0d74"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-Sw7MdIIOv/nkzPzee4o0EdvCuPmxT98+vVpIvwtcwcF1Q4SDSNp92vwcKc4REe7NItH9f1S4ra9FuQ7yuYZ8bQ==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     acorn "^5.0.0"
     acorn-dynamic-import "^2.0.0"
@@ -11899,6 +15201,13 @@ webpack@^3.0.0:
 webpack@^4.20.2:
   version "4.20.2"
   resolved "https://registry.yarnpkg.com/webpack/-/webpack-4.20.2.tgz#89f6486b6bb276a91b0823453d377501fc625b5a"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-75WFUMblcWYcocjSLlXCb71QuGyH7egdBZu50FtBGl2Nso8CK3Ej+J7bTZz2FPFq5l6fzCisD9modB7t30ikuA==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     "@webassemblyjs/ast" "1.7.8"
     "@webassemblyjs/helper-module-context" "1.7.8"
@@ -11969,12 +15278,27 @@ whatwg-url@^7.0.0:
 which-module@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/which-module/-/which-module-1.0.0.tgz#bba63ca861948994ff307736089e3b96026c2a4f"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-u6Y8qGGUiZT/MHc2CJ47lgJsKk8=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 which-module@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/which-module/-/which-module-2.0.0.tgz#d9ef07dce77b9902b8a3a8fa4b31c3e3f7e6e87a"
 
+<<<<<<< HEAD
 which@1, which@^1.2.10, which@^1.2.12, which@^1.2.14, which@^1.2.9, which@^1.3.0, which@^1.3.1, which@~1.3.0:
+=======
+<<<<<<< HEAD
+which@1, which@^1.2.12, which@^1.2.14, which@^1.2.9, which@^1.3.0, which@^1.3.1, which@~1.3.0:
+=======
+which@1, which@^1.2.10, which@^1.2.12, which@^1.2.14, which@^1.2.9, which@^1.3.0, which@^1.3.1, which@~1.3.0:
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/which/-/which-1.3.1.tgz#a45043d54f5805316da8d62f9f50918d3da70b0a"
   dependencies:
@@ -11989,20 +15313,48 @@ wide-align@^1.1.0:
 widest-line@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/widest-line/-/widest-line-2.0.0.tgz#0142a4e8a243f8882c0233aa0e0281aa76152273"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-AUKk6KJD+IgsAjOqDgKBqnYVInM=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     string-width "^2.1.1"
 
 window-size@0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/window-size/-/window-size-0.1.0.tgz#5438cd2ea93b202efa3a19fe8887aee7c94f9c9d"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-VDjNLqk7IC76Ohn+iIeu58lPnJ0=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 window-size@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/window-size/-/window-size-0.2.0.tgz#b4315bb4214a3d7058ebeee892e13fa24d98b075"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-tDFbtCFKPXBY6+7okuE/ok2YsHU=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 wordwrap@0.0.2:
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/wordwrap/-/wordwrap-0.0.2.tgz#b79669bb42ecb409f83d583cad52ca17eaa1643f"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-t5Zpu0LstAn4PVg8rVLKF+qhZD8=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 wordwrap@~0.0.2:
   version "0.0.3"
@@ -12158,6 +15510,13 @@ write@^0.2.1:
 ws@^3.0.0:
   version "3.3.3"
   resolved "https://registry.yarnpkg.com/ws/-/ws-3.3.3.tgz#f1cf84fe2d5e901ebce94efaece785f187a228f2"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-nnWLa/NwZSt4KQJu51MYlCcSQ5g7INpOrOMt4XV8j4dqTXdmlUmSHQ8/oLC069ckre0fRsgfvsKwbTdtKLCDkA==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     async-limiter "~1.0.0"
     safe-buffer "~5.1.0"
@@ -12178,16 +15537,37 @@ ws@^6.0.0:
 xdg-basedir@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/xdg-basedir/-/xdg-basedir-3.0.0.tgz#496b2cc109eca8dbacfe2dc72b603c17c5870ad4"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-SWsswQnsqNus/i3HK2A8F8WHCtQ=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
 
 xhr-request-promise@^0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/xhr-request-promise/-/xhr-request-promise-0.1.2.tgz#343c44d1ee7726b8648069682d0f840c83b4261d"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-NDxE0e53JrhkgGloLQ+EDIO0Jh0=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     xhr-request "^1.0.1"
 
 xhr-request@^1.0.1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/xhr-request/-/xhr-request-1.1.0.tgz#f4a7c1868b9f198723444d82dcae317643f2e2ed"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha512-Y7qzEaR3FDtL3fP30k9wO/e+FBnBByZeybKOhASsGP30NIkRAAkKD/sCnLvgEfAIEC1rcmK7YG8f4oEnIrrWzA==
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     buffer-to-arraybuffer "^0.0.5"
     object-assign "^4.1.1"
@@ -12197,6 +15577,20 @@ xhr-request@^1.0.1:
     url-set-query "^1.0.0"
     xhr "^2.0.4"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+xhr2@*:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/xhr2/-/xhr2-0.1.4.tgz#7f87658847716db5026323812f818cadab387a5f"
+  integrity sha1-f4dliEdxbbUCYyOBL4GMras4el8=
+
+xhr@^2.0.4, xhr@^2.3.3:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/xhr/-/xhr-2.5.0.tgz#bed8d1676d5ca36108667692b74b316c496e49dd"
+  integrity sha512-4nlO/14t3BNUZRXIXfXe+3N6w3s1KoxcJUUURctd64BLRe67E4gRwp4PjywtDY72fXpZ1y6Ch0VZQRY/gMPzzQ==
+=======
+>>>>>>> feature/combine-contracts
 xhr2-cookies@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/xhr2-cookies/-/xhr2-cookies-1.1.0.tgz#7d77449d0999197f155cb73b23df72505ed89d48"
@@ -12210,6 +15604,10 @@ xhr2@*:
 xhr@^2.0.4, xhr@^2.2.0, xhr@^2.3.3:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/xhr/-/xhr-2.5.0.tgz#bed8d1676d5ca36108667692b74b316c496e49dd"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     global "~4.3.0"
     is-function "^1.0.1"
@@ -12227,6 +15625,14 @@ xmlchars@^1.3.1:
 xmlhttprequest@*, xmlhttprequest@1.8.0:
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/xmlhttprequest/-/xmlhttprequest-1.8.0.tgz#67fe075c5c24fef39f9d65f5f7b7fe75171968fc"
+<<<<<<< HEAD
+=======
+
+xmlhttprequest@*:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/xmlhttprequest/-/xmlhttprequest-1.8.0.tgz#67fe075c5c24fef39f9d65f5f7b7fe75171968fc"
+  integrity sha1-Z/4HXFwk/vOfnWX197f+dRcZaPw=
+>>>>>>> feature/combine-contracts
 
 xregexp@4.0.0:
   version "4.0.0"
@@ -12280,6 +15686,24 @@ yargs-parser@^7.0.0:
 yargs-parser@^8.1.0:
   version "8.1.0"
   resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-8.1.0.tgz#f1376a33b6629a5d063782944da732631e966950"
+<<<<<<< HEAD
+=======
+  dependencies:
+    camelcase "^4.1.0"
+
+yargs-parser@^2.4.1:
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-2.4.1.tgz#85568de3cf150ff49fa51825f03a8c880ddcc5c4"
+  integrity sha1-hVaN488VD/SfpRgl8DqMiA3cxcQ=
+  dependencies:
+    camelcase "^3.0.0"
+    lodash.assign "^4.0.6"
+
+yargs-parser@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-7.0.0.tgz#8d0ac42f16ea55debd332caf4c4038b3e3f5dfd9"
+  integrity sha1-jQrELxbqVd69MyyvTEA4s+P139k=
+>>>>>>> feature/combine-contracts
   dependencies:
     camelcase "^4.1.0"
 
@@ -12342,7 +15766,16 @@ yargs@^11.0.0:
 
 yargs@^4.7.1:
   version "4.8.1"
+<<<<<<< HEAD
   resolved "http://registry.npmjs.org/yargs/-/yargs-4.8.1.tgz#c0c42924ca4aaa6b0e6da1739dfb216439f9ddc0"
+=======
+<<<<<<< HEAD
+  resolved "https://registry.yarnpkg.com/yargs/-/yargs-4.8.1.tgz#c0c42924ca4aaa6b0e6da1739dfb216439f9ddc0"
+  integrity sha1-wMQpJMpKqmsObaFznfshZDn53cA=
+=======
+  resolved "http://registry.npmjs.org/yargs/-/yargs-4.8.1.tgz#c0c42924ca4aaa6b0e6da1739dfb216439f9ddc0"
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     cliui "^3.2.0"
     decamelize "^1.1.1"
@@ -12362,6 +15795,13 @@ yargs@^4.7.1:
 yargs@^8.0.2:
   version "8.0.2"
   resolved "https://registry.yarnpkg.com/yargs/-/yargs-8.0.2.tgz#6299a9055b1cefc969ff7e79c1d918dceb22c360"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  integrity sha1-YpmpBVsc78lp/355wdkY3Osiw2A=
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     camelcase "^4.1.0"
     cliui "^3.2.0"
@@ -12379,13 +15819,31 @@ yargs@^8.0.2:
 
 yargs@~3.10.0:
   version "3.10.0"
+<<<<<<< HEAD
   resolved "http://registry.npmjs.org/yargs/-/yargs-3.10.0.tgz#f7ee7bd857dd7c1d2d38c0e74efbd681d1431fd1"
+=======
+<<<<<<< HEAD
+  resolved "https://registry.yarnpkg.com/yargs/-/yargs-3.10.0.tgz#f7ee7bd857dd7c1d2d38c0e74efbd681d1431fd1"
+  integrity sha1-9+572FfdfB0tOMDnTvvWgdFDH9E=
+=======
+  resolved "http://registry.npmjs.org/yargs/-/yargs-3.10.0.tgz#f7ee7bd857dd7c1d2d38c0e74efbd681d1431fd1"
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
   dependencies:
     camelcase "^1.0.2"
     cliui "^2.1.0"
     decamelize "^1.0.0"
     window-size "0.1.0"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> feature/combine-contracts
 
 zeppelin-solidity@^1.10.0:
   version "1.12.0"
   resolved "https://registry.yarnpkg.com/zeppelin-solidity/-/zeppelin-solidity-1.12.0.tgz#427edf8e0041ec8600875d3cb8fc9395f33ccfff"
+<<<<<<< HEAD
+=======
+>>>>>>> Add registerServiceWorker
+>>>>>>> feature/combine-contracts
