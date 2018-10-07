@@ -4,8 +4,6 @@ import "./App.css";
 import SetProtocol from "setprotocol.js";
 import BigNumber from "bignumber.js";
 
-// Metamask configuration
-const userMetamaskAddress = "0xafd860a9ac1e1f29e1efa102f82081cd38626054";
 const chainlinkAddress = "0xb4f7332ed719Eb4839f091EDDB2A3bA309739521";
 const daiAddress = "0x1d82471142f0aeeec9fc375fc975629056c26cee";
 
@@ -141,11 +139,11 @@ class App extends Component {
     const { web3, setProtocol } = this.state;
     const daiBalance = await setProtocol.erc20.getBalanceOfAsync(
       daiAddress,
-      userMetamaskAddress
+      this.getAccount()
     );
     const chainlinkBalance = await setProtocol.erc20.getBalanceOfAsync(
       chainlinkAddress,
-      this.getAccount
+      this.getAccount()
     );
     console.log("DAI BALANCE: ", daiBalance);
     console.log("CHAINLINK BALANCE: ", chainlinkBalance);
