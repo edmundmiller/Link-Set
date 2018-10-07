@@ -6,7 +6,7 @@ import BigNumber from "bignumber.js";
 
 // Metamask configuration
 const userMetamaskAddress = "0xafd860a9ac1e1f29e1efa102f82081cd38626054";
-const trueUsdAddress = "0xadb015d61f4beb2a712d237d9d4c5b75bafefd7b";
+const chainlinkAddress = "0xb4f7332ed719Eb4839f091EDDB2A3bA309739521";
 const daiAddress = "0x1d82471142f0aeeec9fc375fc975629056c26cee";
 
 // Kovan configuration
@@ -39,7 +39,7 @@ class App extends Component {
       // Etherscan Links
       createdSetLink: "",
       daiBalance: "",
-      trueUsdBalance: ""
+      chainlinkBalance: ""
     };
     this.createSet = this.createSet.bind(this);
     this.getAccount = this.getAccount.bind(this);
@@ -61,7 +61,7 @@ class App extends Component {
      * 3. Click `Create My Set`
      */
 
-    const componentAddresses = [trueUsdAddress, daiAddress];
+    const componentAddresses = [chainlinkAddress, daiAddress];
     const componentUnits = [new BigNumber(5), new BigNumber(5)];
     const naturalUnit = new BigNumber(10);
     const name = "My Set";
@@ -143,21 +143,21 @@ class App extends Component {
       daiAddress,
       userMetamaskAddress
     );
-    const trueUsdBalance = await setProtocol.erc20.getBalanceOfAsync(
-      trueUsdAddress,
-      userMetamaskAddress
+    const chainlinkBalance = await setProtocol.erc20.getBalanceOfAsync(
+      chainlinkAddress,
+      this.getAccount
     );
     console.log("DAI BALANCE: ", daiBalance);
-    console.log("TRUEUSD BALANCE: ", trueUsdBalance);
+    console.log("CHAINLINK BALANCE: ", chainlinkBalance);
 
     this.setState({
       daiBalance: daiBalance.toNumber() / 1e18,
-      trueUsdBalance: trueUsdBalance.toNumber() / 1e18
+      chainlinkBalance: chainlinkBalance.toNumber() / 1e18
     });
   }
 
   render() {
-    const { createdSetLink, daiBalance, trueUsdBalance } = this.state;
+    const { createdSetLink, daiBalance, chainlinkBalance } = this.state;
     return (
       <div className="App">
         <header>
@@ -168,8 +168,8 @@ class App extends Component {
           ? this.renderEtherScanLink(createdSetLink, "Link to your new Set")
           : null}
         {daiBalance ? this.renderBalanceHtml("DAI", daiBalance) : null}
-        {trueUsdBalance
-          ? this.renderBalanceHtml("TRUEUSD", trueUsdBalance)
+        {chainlinkBalance
+          ? this.renderBalanceHtml("CHAINLINK", chainlinkBalance)
           : null}
       </div>
     );
